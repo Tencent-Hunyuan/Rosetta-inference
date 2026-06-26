@@ -1,0 +1,301 @@
+index,seed,prompt,prompt_cn,questions,dataset,dataset_type
+0,652839,an oblong cucumber and a teardrop plum,一个长方形的黄瓜和一个泪滴形的李子,an oblong cucumber?##a teardrop plum?,shape_val,shape
+1,159520,a pentagonal stop sign and a spherical traffic light,一个五边形的停车标志和一个球形的交通灯,a pentagonal stop sign?##a spherical traffic light?,shape_val,shape
+2,649958,a cubic ice cube and a spherical ice bucket,一个立方体冰块和一个球形冰桶,a cubic ice cube?##a spherical ice bucket?,shape_val,shape
+3,233709,an oblong eggplant and a teardrop melon,一根长条形的茄子和一个泪滴形的甜瓜,an oblong eggplant?##a teardrop melon?,shape_val,shape
+4,648762,a cubic block and a cylindrical bottle,一个立方体积木和一个圆柱形瓶子,a cubic block?##a cylindrical bottle?,shape_val,shape
+5,375933,a cubic block and a cylindrical canister,一个立方体积木和一个圆柱形罐,a cubic block?##a cylindrical canister?,shape_val,shape
+6,650853,a diamond pendant and a round locket,一颗钻石吊坠和一个圆形小盒子,a round locket?,shape_val,shape
+7,891922,a teardrop pendant and a cubic bracelet charm,一枚泪滴形吊坠和一个立方体手链饰品,a teardrop?##a cubic bracelet charm?,shape_val,shape
+8,290633,a pentagonal speed limit sign and a pyramidal paperweight,一个五角形限速标志和一个金字塔形纸镇,a pentagonal speed limit sign?##a pyramidal paperweight?,shape_val,shape
+9,892233,a diamond ring and a pyramidal ring box,一枚钻石戒指和一个金字塔形戒指盒,a diamond ring?##a pyramidal ring box?,shape_val,shape
+10,667953,a diamond brooch and a teardrop bracelet,一枚钻石胸针和一条泪滴形手链,a diamond brooch?##a teardrop bracelet?,shape_val,shape
+11,303375,a pentagonal postbox and a pyramidal obelisk,一个五边形的邮筒和一个金字塔形的方尖碑,a pentagonal postbox?##a pyramidal obelisk?,shape_val,shape
+12,532636,a conical wizard hat and a spherical crystal wand,一个尖顶巫师帽和一个球形水晶魔杖,a conical wizard hat?##a spherical crystal wand?,shape_val,shape
+13,544878,a round muffin and a square napkin,一个圆形的松饼和一张方形的餐巾纸,a round muffin?##a square napkin?,shape_val,shape
+14,773317,a cylindrical candle and a pentagonal candle holder,一个圆柱形蜡烛和一个五角形烛台,a cylindrical candle?##a pentagonal candle holder?,shape_val,shape
+15,234476,a round muffin and a square muffin liner,一个圆形松饼和一个方形松饼纸杯,a round muffin?##a square muffin liner?,shape_val,shape
+16,382534,a spherical globe and a conical flagpole,一个球形地球仪和一个圆锥形旗杆,a spherical globe?##a conical flagpole?,shape_val,shape
+17,206403,a big bear and a small squirrel,一只大熊和一只小松鼠,a big bear?##a small squirrel?,shape_val,shape
+18,283712,an oval sink and a rectangular mirror.,一个椭圆形的洗手池和一个长方形的镜子。,an oval sink?##a rectangular mirror?,shape_val,shape
+19,544570,an oval mirror and a rectangular painting,一个椭圆形镜子和一幅长方形画作,an oval mirror?##a rectangular painting?,shape_val,shape
+20,686399,a triangular slice of cheese and a rectangular cheese board,一块三角形的奶酪和一个长方形的砧板,a triangular slice?##cheese?##a rectangular cheese board?,shape_val,shape
+21,704959,a small bagel and a rectangular sandwich,一个小贝果和一个长方形的三明治,a small bagel?##a rectangular sandwich?,shape_val,shape
+22,432571,a tall skyscraper and a short lamppost,一座高耸的摩天大楼和一根矮小的路灯柱,a tall skyscraper?##a short lamppost?,shape_val,shape
+23,917139,a teardrop pendant and a triangular chain necklace,一枚泪滴形吊坠和一条三角形链条项链,a teardrop?##a triangular chain necklace?,shape_val,shape
+24,812485,an oblong sweet potato and a teardrop peach,,an oblong sweet potato?##a teardrop peach?,shape_val,shape
+25,399183,a spherical balloon and a conical party hat,一个球形气球和一个圆锥形派对帽,a spherical balloon?##a conical party hat?,shape_val,shape
+26,39324,a pyramidal trophy and a spherical trophy ball,一个金字塔形的奖杯和一个球形的奖杯球,a pyramidal trophy?##a spherical trophy ball?,shape_val,shape
+27,317661,an oblong squash and a teardrop plum,一个长方形的南瓜和一个泪滴形的李子,an oblong squash?##a teardrop plum?,shape_val,shape
+28,127950,a tall skyscraper and a short street lamp,一座高耸的摩天大楼和一盏矮小的路灯,a tall skyscraper?##a short street lamp?,shape_val,shape
+29,371864,a spherical baseball and a conical baseball cap,一个球形的棒球和一个圆锥形的棒球帽,a spherical baseball?##a conical baseball cap?,shape_val,shape
+30,144999,an oval coffee table and a rectangular rug,一个椭圆形的咖啡桌和一个长方形的地毯,an oval coffee table?##a rectangular rug?,shape_val,shape
+31,484639,a round cookie and a square container.,一个圆形饼干和一个方形容器。,a round cookie?##a square container?,shape_val,shape
+32,374712,a diamond engagement ring and a round pendant,一枚钻石订婚戒指和一个圆形吊坠,a diamond engagement ring?,shape_val,shape
+33,626924,an oval bathtub and a square shower curtain,一个椭圆形的浴缸和一个方形的淋浴帘,an oval bathtub?##a square shower curtain?,shape_val,shape
+34,949791,an oblong acorn squash and a teardrop apricot,一个长方形的橡子南瓜和一个泪滴形的杏子,a teardrop apricot?,shape_val,shape
+35,302990,an oblong pear and a teardrop melon,一个长圆形的梨和一个水滴形的瓜,an oblong pear?##a teardrop melon?,shape_val,shape
+36,695998,a tall skyscraper and a short cabin,一座高耸的摩天大楼和一间矮小的小屋,a tall skyscraper?##a short cabin?,shape_val,shape
+37,513430,a round bag and a square box,一个圆形包和一个方形盒子,a round bag?##a square box?,shape_val,shape
+38,254012,a spherical ball and a conical party hat,一个球形的球和一个圆锥形的派对帽,a spherical ball?##a conical party hat?,shape_val,shape
+39,296271,a long snake and a short tree,一条长蛇和一棵矮树,a long snake?##a short tree?,shape_val,shape
+40,381137,a tall basketball player and a small hat,一个高个子篮球运动员和一顶小帽子,a tall basketball player?##a small hat?,shape_val,shape
+41,701026,a square book and a cylindrical pencil,一本方形的书和一支圆柱形的铅笔,a square book?##a cylindrical pencil?,shape_val,shape
+42,329818,a cubic block and a cylindrical container of hand cream,一个立方体形状的块状物和一个圆柱形的手霜容器,a cubic block?##a cylindrical container?##hand cream?,shape_val,shape
+43,9895,a cubic block and a triangular building set,一个立方体积木和一个三角形建筑套装,a cubic block?##a triangular building?,shape_val,shape
+44,415120,a diamond pendant and a round bracelet,一颗钻石吊坠和一个圆形手镯,a round bracelet?,shape_val,shape
+45,895132,an oval sink and a rectangular soap dispenser,一个椭圆形的洗手池和一个长方形的洗手液分配器,an oval sink?##a rectangular soap dispenser?,shape_val,shape
+46,194297,an oblong squash and a teardrop strawberry,一个长方形的南瓜和一个泪滴形的草莓,an oblong squash?##a teardrop strawberry?,shape_val,shape
+47,963340,a rectangular laptop and a teardrop laptop bag,一个长方形的笔记本电脑和一个水滴形的笔记本电脑包,a rectangular laptop?##a teardrop laptop bag?,shape_val,shape
+48,481290,an oblong carrot and a teardrop plum,一根长方形的胡萝卜和一个泪滴形的李子,an oblong carrot?##a teardrop plum?,shape_val,shape
+49,799194,a big hippopotamus and a small rabbit,一只大河马和一只小兔子,a big hippopotamus?##a small rabbit?,shape_val,shape
+50,135607,a cylindrical vase and a triangular flower arrangement,一个圆柱形花瓶和一个三角形的花卉摆放,a cylindrical vase?##a triangular flower arrangement?,shape_val,shape
+51,703016,a spherical ornament and a triangular tree topper,一个球形装饰品和一个三角形的树顶装饰,a spherical ornament?##a triangular tree topper?,shape_val,shape
+52,880716,a conical Christmas tree and a pentagonal tree skirt,一个圆锥形的圣诞树和一个五角形的树裙,a conical Christmas tree?##a pentagonal tree skirt?,shape_val,shape
+53,963587,a round bagel and a square toaster,一个圆形的百吉饼和一个方形的烤面包机,a round bagel?##a square toaster?,shape_val,shape
+54,757012,a big hippopotamus and a small mouse,一只大河马和一只小老鼠,a big hippopotamus?##a small mouse?,shape_val,shape
+55,754665,a big lion and a small mouse,一只大狮子和一只小老鼠,a big lion?##a small mouse?,shape_val,shape
+56,118869,a tall sunflower and a short daisy,一株高大的向日葵和一朵矮小的雏菊,a tall sunflower?##a short daisy?,shape_val,shape
+57,259736,a spherical basketball and a conical referee hat,一个球形的篮球和一个圆锥形的裁判帽,a spherical basketball?##a conical referee hat?,shape_val,shape
+58,420471,a circular rug and a triangular coffee table,一个圆形地毯和一个三角形咖啡桌,a circular rug?##a triangular coffee table?,shape_val,shape
+59,666867,a pyramidal paperweight and a pentagonal paperclip holder,一个金字塔形纸镇和一个五边形回形针盒,a pyramidal paperweight?##a pentagonal paperclip holder?,shape_val,shape
+60,58800,a cubic box and a pyramidal paperweight,一个立方体盒子和一个金字塔形纸镇,a cubic box?##a pyramidal paperweight?,shape_val,shape
+61,212328,an oblong zucchini and a teardrop plum,一个长方形的西葫芦和一个泪滴形的李子,an oblong zucchini?##a teardrop plum?,shape_val,shape
+62,595397,a cubic block and a cylindrical flashlight.,一个立方体积木和一个圆柱形手电筒。,a cubic block?##a cylindrical flashlight?,shape_val,shape
+63,815874,a pentagonal yield sign and a pyramidal book stand.,一个五边形的让路标志和一个金字塔形的书架。,a pentagonal yield sign?##a pyramidal book stand?,shape_val,shape
+64,105670,an oblong potato and a teardrop mango,一个长方形的土豆和一个泪滴形的芒果,an oblong potato?##a teardrop mango?,shape_val,shape
+65,244616,a round basketball and a cylindrical water bottle,一个圆形的篮球和一个圆柱形的水瓶,a round basketball?##a cylindrical water bottle?,shape_val,shape
+66,318398,a rectangular mirror and a spherical magnifying glass,一个长方形镜子和一个球形放大镜,a rectangular mirror?##a spherical magnifying glass?,shape_val,shape
+67,793626,an oblong zucchini and a teardrop cherry,一个长方形的西葫芦和一个泪珠形的樱桃,an oblong zucchini?##a teardrop cherry?,shape_val,shape
+68,253580,a tall palm tree and a short cactus,一棵高大的棕榈树和一株矮小的仙人掌,a tall palm tree?##a short cactus?,shape_val,shape
+69,824178,a diamond bracelet and a rectangular watch,一条钻石手链和一块矩形手表,a diamond bracelet?##a rectangular watch?,shape_val,shape
+70,133655,a pentagonal medal and a pyramidal trophy,一个五角形奖牌和一个金字塔形奖杯,a pentagonal medal?##a pyramidal trophy?,shape_val,shape
+71,702214,a round bagel and a rectangular sandwich press,一个圆形的贝果和一个长方形的三明治机,a round bagel?##a rectangular sandwich press?,shape_val,shape
+72,651252,a small block and a cylindrical soda can,一个小方块和一个圆柱形的汽水罐,a small block?##a cylindrical soda?,shape_val,shape
+73,832658,a cubic block and a cylindrical paper towel roll,一个立方体积木和一个圆柱形纸巾卷,a cubic block?##a cylindrical paper towel roll?,shape_val,shape
+74,411311,a pyramidal candle and a diamond candlestick holder,一个金字塔形状的蜡烛和一个钻石形状的烛台,a pyramidal candle?##a diamond candlestick holder?,shape_val,shape
+75,601651,a tall skyscraper and a short cottage,一座高耸的摩天大楼和一间矮小的小屋,a tall skyscraper?##a short cottage?,shape_val,shape
+76,86615,a tall oak tree and a short sapling,一棵高大的橡树和一株矮小的树苗,a tall oak tree?##a short sapling?,shape_val,shape
+77,896245,a pentagonal pencil sharpener and a cylindrical eraser,一个五角形的铅笔刨和一个圆柱形的橡皮擦,a pentagonal pencil sharpener?##a cylindrical eraser?,shape_val,shape
+78,379118,a round pizza and a rectangular piece of lasagna,一张圆形的披萨和一块长方形的千层面,a round pizza?##a rectangular piece?##lasagna?,shape_val,shape
+79,49781,a pyramidal candle holder and a conical candle,一个金字塔形状的烛台和一个圆锥形的蜡烛,a pyramidal candle holder?##a conical candle?,shape_val,shape
+80,63097,an oblong sweet potato and a teardrop blueberry,一块长方形的甜薯和一颗泪滴形的蓝莓,an oblong sweet potato?##a teardrop blueberry?,shape_val,shape
+81,206736,a big gorilla and a small mouse,一只大猩猩和一只小老鼠,a big gorilla?##a small mouse?,shape_val,shape
+82,537300,a round cookie and a square tin,一个圆形饼干和一个方形铁罐,a round cookie?##a square tin?,shape_val,shape
+83,829082,a pentagonal caution sign and a pyramidal vase,一个五角形警告标志和一个金字塔形瓶子,a pentagonal caution sign?##a pyramidal vase?,shape_val,shape
+84,676866,a spherical soccer ball and a diamond soccer goal,一个球形的足球和一个菱形的足球门,a spherical soccer ball?##a diamond soccer goal?,shape_val,shape
+85,226152,a rectangular computer and a teardrop pendant,一个矩形电脑和一个水滴形吊坠,a rectangular computer?##a teardrop?,shape_val,shape
+86,702774,an oval picture frame and a rectangular painting,一个椭圆形的画框和一幅矩形的画作,an oval picture frame?##a rectangular painting?,shape_val,shape
+87,710664,a pentagonal pencil and a teardrop pencil sharpener,一支五角形铅笔和一个泪滴形铅笔刨,a pentagonal pencil?##a teardrop pencil sharpener?,shape_val,shape
+88,740153,a teardrop pendant and a pentagonal charm bracelet,一枚泪滴形吊坠和一条五角形魅力手链,a teardrop pendant?##a pentagonal charm bracelet?,shape_val,shape
+89,822746,a cubic box and a cylindrical bottle of lotion,一个立方体盒子和一个圆柱形的乳液瓶,a cubic box?##a cylindrical bottle?##lotion?,shape_val,shape
+90,504265,a big tiger and a small kitten,一只大老虎和一只小猫咪,a big tiger?##a small kitten?,shape_val,shape
+91,358310,a pentagonal road sign and a pyramidal bookshelf,一个五边形的路标和一个金字塔形的书架,a pentagonal road sign?##a pyramidal?##bookshelf?,shape_val,shape
+92,341166,a small rug and a triangular end table,一张小地毯和一个三角形的角几,a small rug?##a triangular end table?,shape_val,shape
+93,565499,a teardrop pendant and a spherical bead necklace,一条泪滴形吊坠和一串圆珠项链,a teardrop?##a spherical bead necklace?,shape_val,shape
+94,9215,a round bagel and a square piece of toast,一个圆形的贝果和一片方形的吐司,a round bagel?##a square piece?##toast?,shape_val,shape
+95,868086,a big elephant and a small cricket,一只大象和一只小蟋蟀,a big elephant?##a small cricket?,shape_val,shape
+96,91619,a cubic ice cube and a cylindrical water bottle,一个立方体冰块和一个圆柱形水瓶,a cubic ice cube?##a cylindrical water bottle?,shape_val,shape
+97,451044,a pentagonal clock and a conical clock face,一个五角形的钟和一个圆锥形的钟面,a pentagonal clock?##a conical clock face?,shape_val,shape
+98,621419,an oblong watermelon and a teardrop pear.,一个长方形的西瓜和一个水滴形的梨。,an oblong watermelon?##a teardrop pear?,shape_val,shape
+99,710258,a pyramidal paperweight and a conical pen holder,一个金字塔形纸镇和一个圆锥形笔筒,a pyramidal paperweight?##a conical pen holder?,shape_val,shape
+100,815827,a big whale and a small dolphin,一只大鲸鱼和一只小海豚,a big whale?##a small dolphin?,shape_val,shape
+101,377873,a rectangular television and a teardrop remote control,一个长方形的电视和一个泪滴形的遥控器,a rectangular television?##a teardrop remote control?,shape_val,shape
+102,473920,an oblong carrot and a teardrop peach,一根长方形的胡萝卜和一个水滴形的桃子,an oblong carrot?##a teardrop peach?,shape_val,shape
+103,36004,a round bagel and a rectangular bacon strip,一个圆形的贝果和一条矩形的培根条,a round bagel?##a rectangular bacon strip?,shape_val,shape
+104,380156,a pyramidal tomb and a spherical urn,一个金字塔形的墓穴和一个球形的骨灰盒,a pyramidal tomb?##a spherical urn?,shape_val,shape
+105,99979,a round bagel and a rectangular piece of toast,一个圆形的贝果和一片长方形的吐司,a round bagel?##a rectangular piece?##toast?,shape_val,shape
+106,6735,a pentagonal badge and a pyramidal crystal,一个五边形徽章和一个金字塔形水晶,a pentagonal badge?##a pyramidal crystal?,shape_val,shape
+107,906449,a spherical snowball and a conical snowman hat,一个球形的雪球和一个圆锥形的雪人帽,a spherical snowball?##a conical snowman hat?,shape_val,shape
+108,348367,an oval picture frame and a square painting,一个椭圆形的画框和一幅方形的画作,an oval picture frame?##a square painting?,shape_val,shape
+109,899153,a long bridge and a short fence,一座长桥和一道短篱笆,a long bridge?##a short fence?,shape_val,shape
+110,728042,a triangular slice of pizza and a pentagonal pizza box,一个三角形的披萨片和一个五边形的披萨盒,a triangular slice?##pizza?##a pentagonal pizza box?,shape_val,shape
+111,748730,a diamond tiara and a round brooch,一顶钻石头饰和一个圆形胸针,a diamond tiara?##a round brooch?,shape_val,shape
+112,550495,a circular pendant light and a triangular corner shelf.,一个圆形吊灯和一个三角形角落架。,a circular pendant light?##a triangular corner shelf?,shape_val,shape
+113,70669,a spherical snowball and a conical party hat,一个球形的雪球和一个圆锥形的派对帽,a spherical snowball?##a conical party hat?,shape_val,shape
+114,755427,a big bear and a small rabbit,一只大熊和一只小兔子,a big bear?##a small rabbit?,shape_val,shape
+115,424500,a pentagonal star and a crescent moon,五角星和新月,a pentagonal star?##a crescent moon?,shape_val,shape
+116,130661,a cubic block and a cylindrical toothpaste tube,一个立方体积木和一个圆柱形牙膏管,a cubic block?##a cylindrical toothpaste tube?,shape_val,shape
+117,598246,a pyramidal trophy and a spherical trophy stand,一个金字塔形奖杯和一个球形奖杯架,a pyramidal trophy?##a spherical trophy stand?,shape_val,shape
+118,950031,a round bagel and a rectangular breakfast sandwich,一个圆形的贝果和一个长方形的早餐三明治,a round bagel?##a rectangular breakfast sandwich?,shape_val,shape
+119,442319,a pentagonal traffic sign and a pyramidal paper clip holder,一个五边形交通标志和一个金字塔形的回形针盒,a pentagonal traffic sign?##a pyramidal paper clip holder?,shape_val,shape
+120,85203,a big elephant and a small dog,一只大象和一只小狗,a big elephant?##a small dog?,shape_val,shape
+121,321138,a cubic box and a conical party hat,一个立方体盒子和一个圆锥形派对帽,a cubic box?##a conical party hat?,shape_val,shape
+122,655383,a spherical tennis ball and a conical tennis shoe,一个球形的网球和一个锥形的网球鞋,a spherical tennis ball?##a conical tennis shoe?,shape_val,shape
+123,162334,a pentagonal parking sign and a pyramidal trophy,一个五边形停车标志和一个金字塔形奖杯,a pentagonal parking sign?##a pyramidal trophy?,shape_val,shape
+124,903875,a pyramidal bookend and a conical bookstand,一个金字塔形书挡和一个圆锥形书架,a pyramidal bookend?##a conical bookstand?,shape_val,shape
+125,18262,a spherical snow globe and an oblong frame,一个球形的雪球和一个长方形的相框,a spherical snow globe?##an oblong frame?,shape_val,shape
+126,440202,a cubic block and a cylindrical container of markers,一个立方体积木和一个圆柱形的马克笔容器,a cubic block?##a cylindrical container?##markers?,shape_val,shape
+127,27140,a circular dining table and a triangular table runner,一个圆形餐桌和一个三角形桌布,a circular dining table?##a triangular table runner?,shape_val,shape
+128,265748,a circular mirror and a triangular shelf unit,一个圆形镜子和一个三角形架子,a circular mirror?##a triangular shelf unit?,shape_val,shape
+129,962540,a cubic block and a cylindrical tube of toothpaste,一个立方体的块状物和一根圆柱形的牙膏管,a cubic block?##a cylindrical tube?##toothpaste?,shape_val,shape
+130,529130,an oblong potato and a teardrop grapefruit,一个长方形的土豆和一个泪滴形的葡萄柚,an oblong potato?##a teardrop grapefruit?,shape_val,shape
+131,63308,a triangular slice of pizza and a pyramidal pizza box,一个三角形切片的披萨和一个金字塔形的披萨盒,a triangular slice?##pizza?##a pyramidal pizza box?,shape_val,shape
+132,996329,a cubic block and a pyramidal puzzle box,一个立方体积木和一个金字塔形的拼图盒,a cubic block?##a pyramidal puzzle box?,shape_val,shape
+133,674517,a conical lampshade and a cubic lamp base,一个圆锥形的灯罩和一个立方体的灯座,a conical lampshade?##a cubic lamp base?,shape_val,shape
+134,167266,a round pizza and a square pizza box,一个圆形的披萨和一个方形的披萨盒,a round pizza?##a square pizza box?,shape_val,shape
+135,16440,a pentagonal yield sign and a pyramidal salt shaker,一个五边形的让路标志和一个金字塔形的盐罐,a pentagonal yield sign?##a pyramidal salt shaker?,shape_val,shape
+136,239992,an oblong squash and a teardrop nectarine.,一个长方形的南瓜和一个水滴形的油桃。,an oblong squash?##a teardrop nectarine?,shape_val,shape
+137,785478,a cubic dice and a triangular game piece,一个立方体骰子和一个三角形游戏棋子,a cubic dice?##a triangular game piece?,shape_val,shape
+138,772150,a circular pendant light and a triangular wall hook,一个圆形吊灯和一个三角形墙钩,a circular pendant light?##a triangular wall hook?,shape_val,shape
+139,451730,a small bathtub and a rectangular bath mat,一个小浴缸和一个长方形的浴室地垫,a small bathtub?##a rectangular bath mat?,shape_val,shape
+140,445555,a cubic book and a cylindrical can of soup,一个立方体形状的书和一个圆柱形的汤罐,a cubic book?##a cylindrical can?##soup?,shape_val,shape
+141,9616,a pentagonal pencil sharpener and a spherical pencil eraser,一个五角形的铅笔刨和一个球形的橡皮擦,a pentagonal pencil sharpener?##a spherical pencil eraser?,shape_val,shape
+142,339237,a circular mirror and a triangular corner shelf,一个圆形镜子和一个三角形角落架,a circular mirror?##a triangular corner shelf?,shape_val,shape
+143,828519,a triangular slice of pie and a rectangular pie dish,一个三角形的派切片和一个长方形的派盘,a triangular slice?##pie?##a rectangular pie dish?,shape_val,shape
+144,501397,a cubic block and a cylindrical bottle of water,一个立方体积木和一个圆柱形水瓶,a cubic block?##a cylindrical bottle?##water?,shape_val,shape
+145,758668,a tall basketball player and a short jockey.,一个高个子篮球运动员和一个矮小的赛马骑师。,a tall basketball player?##a short jockey?,shape_val,shape
+146,700519,a teardrop pendant and a pyramidal gemstone,一颗泪珠形吊坠和一个金字塔形宝石,a teardrop?##a pyramidal gemstone?,shape_val,shape
+147,750702,a big hippopotamus and a small cat,一只大河马和一只小猫,a big hippopotamus?##a small cat?,shape_val,shape
+148,888446,a circular clock and a triangular wall shelf.,一个圆形的钟和一个三角形的墙架。,a circular clock?##a triangular wall shelf?,shape_val,shape
+149,348378,a tall lighthouse and a short bench,一座高大的灯塔和一张矮矮的长凳,a tall lighthouse?##a short bench?,shape_val,shape
+150,934905,a round bagel and a square toaster.,一个圆形的贝果和一个方形的烤面包机。,a round bagel?##a square toaster?,shape_val,shape
+151,155009,a circular clock and a triangular wall art,一个圆形的钟和一个三角形的墙饰,a circular clock?##a triangular wall art?,shape_val,shape
+152,832940,a pyramidal puzzle box and a cubic puzzle piece,一个金字塔形的益智盒和一个立方体形状的拼图块,a pyramidal puzzle box?##a cubic puzzle piece?,shape_val,shape
+153,996966,an oblong squash and a teardrop apricot,一个长方形的南瓜和一个泪滴形的杏子,an oblong squash?##a teardrop apricot?,shape_val,shape
+154,187995,a spherical globe and a conical pencil.,一个球形的地球仪和一个圆锥形的铅笔。,a spherical globe?##a conical pencil?,shape_val,shape
+155,326401,an oblong cucumber and a teardrop kiwi,一个长方形的黄瓜和一个泪滴形的猕猴桃,an oblong cucumber?##a teardrop kiwi?,shape_val,shape
+156,884300,a spherical beach ball and a conical party hat,一个球形的沙滩球和一个圆锥形的派对帽,a spherical beach ball?##a conical party hat?,shape_val,shape
+157,832938,an oval rug and a square coffee table,一个椭圆形的地毯和一个方形的咖啡桌,an oval rug?##a square coffee table?,shape_val,shape
+158,246057,a diamond engagement ring and a teardrop necklace,一枚钻石订婚戒指和一条泪滴形项链,a diamond engagement ring?##a teardrop necklace?,shape_val,shape
+159,615296,an oblong carrot and a teardrop grape,一个长方形的胡萝卜和一个泪珠形的葡萄,an oblong carrot?##a teardrop grape?,shape_val,shape
+160,11161,a spherical soccer ball and a conical traffic cone,一个球形的足球和一个圆锥形的交通锥,a spherical soccer ball?##a conical traffic cone?,shape_val,shape
+161,841620,a tall skyscraper and a short bush.,一座高耸的摩天大楼和一株矮小的灌木。,a tall skyscraper?##a short bush?,shape_val,shape
+162,825253,a small stop sign and a pyramidal paperweight,一个小型停车标志和一个金字塔形纸镇,a small stop sign?##a pyramidal paperweight?,shape_val,shape
+163,184740,a cubic block and a cylindrical jar of honey,一个立方体积木和一个圆柱形蜂蜜罐,a cubic block?##a cylindrical jar?##honey?,shape_val,shape
+164,346693,a round pizza and a rectangular slice of bread,一张圆形的披萨和一片长方形的面包片,a round pizza?##a rectangular slice?##bread?,shape_val,shape
+165,253826,a round bagel and a rectangular toaster,一个圆形的贝果和一个长方形的烤面包机,a round bagel?##a rectangular toaster?,shape_val,shape
+166,710846,a rectangular table and a pentagonal tablecloth,一个长方形的桌子和一个五角形的桌布,a rectangular table?##a pentagonal tablecloth?,shape_val,shape
+167,460075,a tall palm tree and a short shrub,一棵高大的棕榈树和一株矮小的灌木,a tall palm tree?##a short shrub?,shape_val,shape
+168,644389,a big pig and a small mouse,一只大猪和一只小老鼠,a big pig?##a small mouse?,shape_val,shape
+169,5532,an oblong squash and a teardrop peach,一个长方形的南瓜和一个泪滴形的桃子,an oblong squash?##a teardrop peach?,shape_val,shape
+170,12304,a pentagonal stop sign and a pyramidal monument,一个五边形的停车标志和一个金字塔形的纪念碑,a pentagonal stop sign?##a pyramidal monument?,shape_val,shape
+171,921803,a small eraser and a cylindrical pen,一个小橡皮和一支圆柱形的笔,a small eraser?##a cylindrical pen?,shape_val,shape
+172,626948,a spherical globe and a conical pencil sharpener,一个球形地球仪和一个锥形铅笔刀,a spherical globe?##a conical pencil sharpener?,shape_val,shape
+173,433535,a pyramidal trophy and a pentagonal trophy base,一个金字塔形的奖杯和一个五边形的奖杯底座,a pyramidal trophy?##a pentagonal trophy base?,shape_val,shape
+174,971150,an oval bathtub and a rectangular soap dish,一个椭圆形的浴缸和一个长方形的肥皂盒,an oval bathtub?##a rectangular soap dish?,shape_val,shape
+175,42418,a rectangular wallet and a spherical coin purse,一个长方形钱包和一个球形零钱包,a rectangular wallet?##a spherical coin purse?,shape_val,shape
+176,207313,a pentagonal badge and a pyramidal monument,一个五角形徽章和一个金字塔形纪念碑,a pentagonal badge?##a pyramidal monument?,shape_val,shape
+177,613696,a tall tree and a short bush,一棵高大的树和一丛矮小的灌木,a tall tree?##a short bush?,shape_val,shape
+178,452995,a cubic dice and a cylindrical pencil holder,一个立方体骰子和一个圆柱形笔筒,a cubic dice?##a cylindrical pencil holder?,shape_val,shape
+179,706503,a pentagonal street sign and a pyramidal pyramid,一个五边形的街道标志和一个金字塔形的金字塔,a pentagonal street sign?##a pyramidal pyramid?,shape_val,shape
+180,407795,a pyramidal mountain and a conical volcano,一个金字塔形的山和一个圆锥形的火山,a pyramidal mountain?##a conical volcano?,shape_val,shape
+181,73065,a diamond ring and a round necklace,一枚钻石戒指和一个圆形项链,a diamond ring?##a round necklace?,shape_val,shape
+182,611688,a pentagonal badge and a pyramidal award statue,一个五角形徽章和一个金字塔形奖杯,a pentagonal badge?##a pyramidal award statue?,shape_val,shape
+183,306547,a spherical golf ball and a conical tee.,一个球形的高尔夫球和一个圆锥形的球座。,a spherical golf ball?##a conical tee?,shape_val,shape
+184,187962,a tall oak tree and a short blade of grass,一棵高大的橡树和一株矮小的草 Blades,a tall oak tree?##a short blade?##grass?,shape_val,shape
+185,342109,a rectangular table and a round lamp,一个长方形的桌子和一个圆形的灯,a rectangular table?##a round lamp?,shape_val,shape
+186,66763,an oval platter and a rectangular tablecloth.,一个椭圆形的大盘子和一块长方形的桌布。,an oval platter?##a rectangular tablecloth?,shape_val,shape
+187,247390,a teardrop pendant and a diamond brooch pin,一枚泪滴形吊坠和一枚钻石胸针,a teardrop?##a diamond brooch pin?,shape_val,shape
+188,481587,a round doughnut and a square napkin.,一个圆形的甜甜圈和一块方形的餐巾。,a round doughnut?##a square napkin?,shape_val,shape
+189,540744,a diamond cufflink and a spherical shirt button,一颗钻石袖扣和一个球形衬衫纽扣,a diamond cufflink?##a spherical shirt?,shape_val,shape
+190,48407,a cubic dice and a cylindrical salt shaker,一个立方体骰子和一个圆柱形盐瓶,a cubic dice?##a cylindrical salt shaker?,shape_val,shape
+191,186749,an oblong eggplant and a teardrop fig.,一根长圆形的茄子和一个泪滴形的无花果。,an oblong eggplant?##a teardrop fig?,shape_val,shape
+192,996472,a pentagonal stop sign and a pyramidal sculpture,一个五边形的停车标志和一个金字塔形的雕塑,a pentagonal stop sign?##a pyramidal sculpture?,shape_val,shape
+193,627681,a circular clock and a triangular shelf,一个圆形的钟和一个三角形的架子,a circular clock?##a triangular shelf?,shape_val,shape
+194,105380,a round watermelon and a square cutting board.,一个圆形的西瓜和一个方形的砧板。,a round watermelon?##a square cutting board?,shape_val,shape
+195,583929,a circular clock and a triangular bookshelf,一个圆形的钟表和一个三角形的书架,a circular clock?##a triangular?##bookshelf?,shape_val,shape
+196,410914,a big whale and a small shrimp,一头大鲸鱼和一只小虾,a big whale?##a small shrimp?,shape_val,shape
+197,118,an oval picture and a rectangular frame.,一个椭圆形的图片和一个矩形的框架。,an oval picture?##a rectangular frame?,shape_val,shape
+198,82420,an oval dining table and a square dining chair,一个椭圆形餐桌和一个方形餐椅,an oval dining table?##a square dining chair?,shape_val,shape
+199,698644,a cubic die and a cylindrical flashlight,一个立方体骰子和一个圆柱形手电筒,a cubic die?##a cylindrical flashlight?,shape_val,shape
+200,357667,a triangular slice of bread and a rectangular bread basket,一个三角形切片的面包和一个长方形的面包篮,a triangular slice?##bread?##a rectangular bread basket?,shape_val,shape
+201,555640,a pentagonal toolbox and a spherical toolset,一个五边形工具箱和一个球形工具套装,a pentagonal toolbox?##a spherical toolset?,shape_val,shape
+202,747076,a small key and a big door,一把小钥匙和一扇大门,a small key?##a big door?,shape_val,shape
+203,275611,an oval coffee table and a square end table,一个椭圆形的咖啡桌和一个方形的边桌,an oval coffee table?##a square end table?,shape_val,shape
+204,729205,a round balloon and a rectangular party invitation,一个圆形气球和一张长方形的派对邀请函,a round balloon?##a rectangular party invitation?,shape_val,shape
+205,757075,a spherical crystal and a pyramidal crystal holder,一个球形水晶和一个金字塔形水晶座,a spherical crystal?##a pyramidal crystal holder?,shape_val,shape
+206,62588,a cubic box of chocolates and a teardrop chocolate truffle,一个立方体形状的巧克力盒和一个泪滴形的巧克力松露球,a cubic box?##chocolates?##a teardrop chocolate truffle?,shape_val,shape
+207,564186,a pentagonal desk and a diamond desk organizer,一个五边形的书桌和一个钻石形的桌面整理器,a pentagonal desk?##a diamond desk organizer?,shape_val,shape
+208,226918,a big mountain and a small tree,一座大山和一棵小树,a big mountain?##a small tree?,shape_val,shape
+209,458735,an oval table and a square placemat,一个椭圆形的桌子和一个方形的餐垫,an oval table?##a square placemat?,shape_val,shape
+210,7924,a pentagonal chocolate box and a spherical chocolate truffle,一个五角形巧克力盒和一个球形巧克力松露,a pentagonal chocolate box?##a spherical chocolate truffle?,shape_val,shape
+211,930407,a circular ceiling light and a triangular bookshelf.,一个圆形的吊灯和一个三角形的书架。,a circular ceiling light?##a triangular?##bookshelf?,shape_val,shape
+212,953396,a spherical bowling ball and a conical bowling pin,一个球形的保龄球和一个圆锥形的保龄球瓶,a spherical bowling ball?##a conical bowling pin?,shape_val,shape
+213,359608,a big gorilla and a small monkey,一只大猩猩和一只小猴子,a big gorilla?##a small monkey?,shape_val,shape
+214,583352,a short book and a long bookmark,一本薄书配上一条长书签,a short book?##a long bookmark?,shape_val,shape
+215,649587,a small keychain and a big set of keys,一个小钥匙扣和一大串钥匙,a small keychain?##a big set?##keys?,shape_val,shape
+216,49002,a pyramidal gift box and a cubic gift wrap,一个金字塔形礼品盒和一个立方体礼品包装,a pyramidal gift box?##a cubic gift wrap?,shape_val,shape
+217,250911,a cubic Rubik's cube and a pentagonal game box,一个立方体魔方和一个五边形游戏盒,a cubic Rubik's cube?##a pentagonal game box?,shape_val,shape
+218,899722,a big sunflower and a small daisy,一朵大向日葵和一朵小雏菊,a big sunflower?##a small daisy?,shape_val,shape
+219,69782,a cubic Rubik's cube and a cylindrical pencil holder,一个立方体魔方和一个圆筒形笔筒,a cubic Rubik's cube?##a cylindrical pencil holder?,shape_val,shape
+220,289467,a pentagonal handbag and a spherical keychain charm,一个五边形手提包和一个球形钥匙扣饰品,a pentagonal handbag?##a spherical keychain charm?,shape_val,shape
+221,827982,a big truck and a small car,一辆大卡车和一辆小汽车,a big truck?##a small car?,shape_val,shape
+222,950769,a long necklace and a short earring,一条长项链和一对短耳环,a long necklace?##a short earring?,shape_val,shape
+223,31546,an oval coffee table and a square ottoman,一个椭圆形的咖啡桌和一个方形的脚踏凳,an oval coffee table?##a square ottoman?,shape_val,shape
+224,143189,a rectangular phone and a teardrop phone charm,一个矩形手机和一个水滴形手机挂饰,a rectangular phone?##a teardrop phone charm?,shape_val,shape
+225,712316,a small cup and a big saucer,一个小杯子和一个大托盘,a small cup?##a big saucer?,shape_val,shape
+226,564004,a small pebble and a big rock,一颗小石子和一块大石头,a small pebble?##a big rock?,shape_val,shape
+227,213889,a cubic sugar cube and a cylindrical salt shaker,一个立方体糖块和一个圆柱形盐瓶,a cubic sugar cube?##a cylindrical salt shaker?,shape_val,shape
+228,110228,a small button and a big zipper,一个小扣子和一条大拉链,a small button?##a big zipper?,shape_val,shape
+229,246070,a spherical balloon and a rectangular banner,一个球形气球和一个长方形横幅,a spherical balloon?##a rectangular banner?,shape_val,shape
+230,940006,a big balloon and a small marble,一个大气球和一个小弹珠,a big balloon?##a small marble?,shape_val,shape
+231,32986,a diamond wine glass and a cylindrical wine bottle,一只钻石形酒杯和一个圆柱形酒瓶,a diamond wine glass?##a cylindrical wine bottle?,shape_val,shape
+232,546595,a round peach and a rectangular bar of soap,一个圆形的桃子和一块长方形的肥皂,a round peach?##a rectangular bar?##soap?,shape_val,shape
+233,887208,a triangular slice of bread and a cylindrical loaf,一个三角形切片的面包和一个圆柱形的面包卷,a triangular slice?##bread?##a cylindrical loaf?,shape_val,shape
+234,707751,an oblong potato and a teardrop plum,一颗长方形的土豆和一颗泪滴形的李子,an oblong potato?##a teardrop plum?,shape_val,shape
+235,543173,an oval pizza and a round pizza cutter.,一个椭圆形的披萨和一个圆形的披萨切割器。,an oval pizza?##a round pizza cutter?,shape_val,shape
+236,526289,a triangular sign and a small sculpture,一个三角形标志和一个小雕塑,a triangular sign?##a small sculpture?,shape_val,shape
+237,629514,an big bathtub and a square showerhead,一个大浴缸和一个方形淋浴头,an big bathtub?##a square showerhead?,shape_val,shape
+238,460533,a small lion and a big horse,一只小狮子和一匹大马,a small lion?##a big horse?,shape_val,shape
+239,719179,a round cinnamon roll and a round toaster pastry,一个圆形肉桂卷和一个圆形烤面点,a round cinnamon roll?##a round toaster pastry?,shape_val,shape
+240,995148,The cylindrical water bottle with its square lid and conical base kept hikers hydrated on the triangular trail.,这款圆柱形水壶，配有方形盖子和圆锥形底座，在三角形徒步道上为徒步者提供了充足的水分。,The cylindrical water bottle?##its square lid?##conical base?##hikers?##the triangular trail?,shape_val,shape
+241,302014,The rectangular mirror with its oval reflection and oblong frame hung in the round bathroom.,这面长方形镜子，带着椭圆形的反射和长方形的框架，挂在圆形的浴室里。,The rectangular mirror?##its oval reflection?##oblong frame?##the round bathroom?,shape_val,shape
+242,667432,The teardrop earrings with their triangular studs and spherical pearls sparkled in the diamond jewelry box.,泪滴形耳环配上三角形耳钉和圆形珍珠，在钻石首饰盒中闪耀着光芒。,The teardrop earrings?##their triangular studs?##spherical pearls?##the diamond jewelry box?,shape_val,shape
+243,14137,The cubic bookshelf with its cylindrical legs and rectangular shelves held books in the oblong study.,这个立方体书架，带有圆柱形的腿和长方形的架子，放置在长方形书房里的书籍。,The cubic bookshelf?##its cylindrical legs?##rectangular shelves?##books?##the oblong study?,shape_val,shape
+244,176508,The triangular sail with its pentagonal stitching and oblong boom propelled the circular boat on the ocean.,三角形的帆，上面缀有五边形的缝线和长方形的桅杆，推动着圆形的船在海洋上前进。,The triangular sail?##its pentagonal stitching?##oblong boom?##the circular boat?##the ocean?,shape_val,shape
+245,142752,The crescent sofa with its square cushions and oval back provided seating in the triangular living room.,新月形沙发配上方形靠垫和椭圆形背靠，在三角形客厅中提供了座位。,The crescent sofa?##its square cushions?##oval?##seating?##the triangular living room?,shape_val,shape
+246,860787,The oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room.,这个长方形花瓶上有菱形图案和圆形口，被放置在房间的锥形角落里展示着花朵。,The oblong vase?##its diamond pattern?##circular mouth?##flowers?##the conical corner?##the room?,shape_val,shape
+247,63505,The pyramidal pyramid with its triangular base and rectangular entrance attracted tourists to the square desert.,这座以三角形为底、带有矩形入口的金字塔吸引了众多游客前往这片广阔的沙漠。,The pyramidal pyramid?##its triangular base?##rectangular entrance?##tourists?##the square desert?,shape_val,shape
+248,15481,The circular steering wheel with its triangular spokes and oblong rim controlled the conical car on the pentagonal road.,圆形方向盘通过其三角形辐条和椭圆形边缘控制着在五边形道路上行驶的圆锥形汽车。,The circular steering wheel?##its triangular spokes?##oblong rim?##the conical car?##the pentagonal road?,shape_val,shape
+249,52580,The conical ice cream cone with its spherical scoop and triangular cone held a tasty treat in the diamond park.,圆锥形的冰淇淋蛋筒，顶着一个球形的冰淇淋球，成为了钻石公园里一道美味的风景。,The conical ice cream?##its spherical scoop?##triangular cone?##a tasty treat?##the diamond park?,shape_val,shape
+250,283062,A long rectangular table and a small circular vase were placed in the center of the room.,房间中央摆放着一张长方形的桌子和一个小圆形的花瓶。,A long rectangular table?##a small circular vase?##the center?##the room?,shape_val,shape
+251,774126,The cylindrical tower and the spherical dome stood tall against the skyline.,圆柱形的塔楼和球形的穹顶在天际线上巍然耸立。,The cylindrical tower?##the spherical dome?##the skyline?,shape_val,shape
+252,519897,The triangular wedge and the oblong brick were the only pieces left in the construction set.,在这套建筑玩具中，只剩下了三角楔形块和长方形砖块两个部件。,The triangular wedge?##the oblong brick?##the only pieces?##the construction set?,shape_val,shape
+253,382100,The round knob and the square plate were attached to the door.,圆形把手和方形板都被安装在门上了。,The round knob?##the square plate?##the door?,shape_val,shape
+254,128938,The teardrop pendant and the diamond-studded bracelet were her favorite pieces of jewelry.,那颗泪滴形吊坠和镶满钻石的手链是她最喜欢的珠宝首饰。,The teardrop?##the diamond-studded bracelet?##her favorite pieces?##jewelry?,shape_val,shape
+255,60937,The conical hat and the crescent moon were the only things visible in the night sky.,夜空中唯一可见的是锥形帽和新月。,The conical hat?##the crescent moon?##the only things?##the night sky?,shape_val,shape
+256,317814,A row of cubic boxes and a pile of pyramidal stones were stacked neatly in the corner of the room.,一排立方体盒子和一堆金字塔形的石头被整齐地堆放在房间的角落里。,A row?##cubic boxes?##a pile?##pyramidal stones?##the corner?##the room?,shape_val,shape
+257,377448,The oval mirror and the rectangular frame were mounted on the wall.,椭圆形镜子和矩形框架被挂在墙上。,The oval mirror?##the rectangular frame?##the wall?,shape_val,shape
+258,842141,The spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson.,在几何课上，重点讲解的对象是球体和五角锥。,The spherical ball?##the pentagonal pyramid?##the objects?##focus?##the geometry lesson?,shape_val,shape
+259,451745,The triangular sail and the square deck were the defining features of the sailboat.,三角帆和方形甲板是这艘帆船的显著特征。,The triangular sail?##the square deck?##the defining features?##the sailboat?,shape_val,shape
+260,510686,The cylindrical barrel and the conical flask were the only containers left in the laboratory.,实验室里只剩下圆柱形的桶和圆锥形的烧瓶了。,The cylindrical barrel?##the conical flask?##the only containers?##the laboratory?,shape_val,shape
+261,725287,The oblong rug and the circular ottoman were arranged in the center of the living room.,椭圆形的地毯和圆形的脚踏凳被摆放在客厅的中央。,The oblong rug?##the circular ottoman?##the center?##the living room?,shape_val,shape
+262,513867,The diamond window and the rectangular door were the only openings in the otherwise blank wall.,除了一扇菱形窗户和一个长方形的门外，这面墙别无其他开口。,The diamond window?##the rectangular door?##the only openings?##the otherwise blank wall?,shape_val,shape
+263,248374,The spherical planet and the crescent moon were the celestial bodies that fascinated him the most.,球形的行星和新月是他最为着迷的天体。,The spherical planet?##the crescent moon?##the celestial bodies?##that?##him?,shape_val,shape
+264,237846,The triangular slice and the round pizza were the only options on the menu.,菜单上只有三角形切片和圆形披萨两种选择。,The triangular slice?##the round pizza?##the only options?##the menu?,shape_val,shape
+265,426597,The cubic dice and the cylindrical pencil were the tools of his favorite game.,立方体骰子和圆柱形铅笔是他最喜欢的游戏工具。,The cubic dice?##the cylindrical pencil?##the tools?##his favorite game?,shape_val,shape
+266,461410,The teardrop leaves and the oval petals made up the floral arrangement on the table.,桌上的花卉装饰由泪滴形的叶子和椭圆形的花瓣组成。,The teardrop leaves?##the oval petals?##the floral arrangement?##the table?,shape_val,shape
+267,128043,The square room and the oblong hallway were the only spaces in the house.,这所房子里只有一个方形的房间和一个长方形的走廊。,The square room?##the oblong hallway?##the only spaces?##the house?,shape_val,shape
+268,896543,The pyramidal roof and the triangular archway were the defining features of the ancient temple.,金字塔形的屋顶和三角形的拱门是这座古庙的显著特征。,The pyramidal roof?##the triangular archway?##the defining features?##the ancient temple?,shape_val,shape
+269,393997,The circular wreath and the rectangular picture frame hung on the front door.,圆形花环和长方形画框挂在前门上。,The circular wreath?##the rectangular picture frame?##the front door?,shape_val,shape
+270,870101,The conical hat and the spherical ball were the objects of attention in the magic show.,锥形帽和球形球是魔术表演中的焦点。,The conical hat?##the spherical ball?##the objects?##attention?##the magic show?,shape_val,shape
+271,519662,The crescent curve and the diamond pattern were the highlights of the carpet design.,新月形曲线和菱形图案是这款地毯设计的亮点。,The crescent curve?##the diamond pattern?##the highlights?##the carpet design?,shape_val,shape
+272,263662,The pentagonal prism and the triangular pyramid were the shapes that he struggled with the most in math class.,他在数学课上最难以掌握的图形是五角柱和三角锥。,The pentagonal prism?##the triangular pyramid?##the shapes?##that?##he?##math class?,shape_val,shape
+273,171590,The cylindrical column and the square pedestal were the only pieces of furniture in the foyer.,门厅里唯一的家具就是一个圆柱形的柱子和一个方形的底座。,The cylindrical column?##the square pedestal?##the only pieces?##furniture?##the foyer?,shape_val,shape
+274,97769,The oblong table and the round chairs were arranged for the dinner party.,为了晚宴，长方形的桌子和圆形的椅子被摆放好了。,The oblong table?##the round chairs?##the dinner party?,shape_val,shape
+275,996392,The spherical globe and the teardrop droplet were the symbols of science and nature.,球形地球和泪滴状水滴是科学与自然的象征。,The spherical globe?##the teardrop droplet?##the symbols?##science?##nature?,shape_val,shape
+276,212568,The triangular roof and the diamond windows were the defining features of the modern architecture.,三角形的屋顶和菱形的窗户是这座现代建筑的显著特征。,The triangular roof?##the diamond windows?##the defining features?##the modern architecture?,shape_val,shape
+277,565592,The cubic block and the cylindrical tube were the building blocks for his latest invention.,立方体积木和圆柱形管是他最新发明的基础部件。,The cubic block?##the cylindrical tube?##the building blocks?##his latest invention?,shape_val,shape
+278,530071,The rectangular screen and the oval speakers were the only electronic devices in the room.,房间里唯一的电子设备就是矩形屏幕和椭圆形的扬声器。,The rectangular screen?##the oval speakers?##the only electronic devices?##the room?,shape_val,shape
+279,754955,The conical mountain and the crescent beach were the contrasting views from the hotel room.,从酒店房间看出去，锥形的山和新月形的海滩形成了鲜明的对比。,The conical mountain?##the crescent beach?##the contrasting views?##the hotel room?,shape_val,shape
+280,948140,The pentagonal star and the square checkerboard were the patterns on the quilt.,这床被子上的图案是五角星和方格棋盘。,The pentagonal star?##the square checkerboard?##the patterns?##the quilt?,shape_val,shape
+281,440177,The pyramidal shape and the triangular lines were the inspiration for the art project.,金字塔形状和三角线条是这个艺术项目的灵感来源。,The pyramidal shape?##the triangular lines?##the inspiration?##the art project?,shape_val,shape
+282,193328,The oblong painting and the circular sculpture were the centerpieces of the art exhibit.,长方形的画作和圆形的雕塑是艺术展览的核心展品。,The oblong painting?##the circular sculpture?##the centerpieces?##the art exhibit?,shape_val,shape
+283,22464,The diamond ring and the teardrop necklace were the precious gifts from her beloved.,钻石戒指和水滴项链是她心爱的人赠送的珍贵礼物。,The diamond ring?##the teardrop necklace?##the precious gifts?,shape_val,shape
+284,337084,The cylindrical tower and the spherical fountain were the landmarks of the city.,圆柱形的塔楼和球形的喷泉是这座城市的地标。,The cylindrical tower?##the spherical fountain?##the landmarks?##the city?,shape_val,shape
+285,887871,The triangular flag and the rectangular banner were waving in the wind on the parade.,游行上，三角形的旗帜和长方形的横幅在风中飘扬。,The triangular flag?##the rectangular banner?##the wind?##the parade?,shape_val,shape
+286,91481,The cubic room and the conical lampshade were the unique features of the hotel suite.,酒店套房的独特之处在于其立方体形状的房间和圆锥形的灯罩。,The cubic room?##the conical lampshade?##the unique features?##the hotel suite?,shape_val,shape
+287,326639,The oval platter and the round bowl were used for serving dinner.,椭圆形的大盘子和圆形的碗被用来上晚餐。,The oval platter?##the round bowl?##dinner?,shape_val,shape
+288,979445,The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit.,博物馆展览中的晶体呈现出五角柱和四面体金字塔的形状。,The pentagonal prism?##the pyramidal tetrahedron?##the shapes?##the crystals?##the museum exhibit?,shape_val,shape
+289,634173,A triangular plane and a circular hot air balloon floated in the sky.,一架三角形的飞机和一个圆形的热气球在天空中飘浮。,A triangular plane?##a circular hot air balloon?##the sky?,shape_val,shape
+290,713777,A small kitten and a big dog sat side by side.,一只小猫和一只大狗并排坐着。,A small kitten?##a big dog?##side?##side?,shape_val,shape
+291,653877,A long road and a short path led to the same destination.,一条漫长的道路和一条短途径都通向同一个目的地。,A long road?##a short path?##the same destination?,shape_val,shape
+292,930493,The tall tree and the short shrub created a contrast in the garden.,高大的树木和矮小的灌木在花园中形成了鲜明的对比。,The tall tree?##the short shrub?##a contrast?##the garden?,shape_val,shape
+293,760628,The big book and the small notepad were both useful for different purposes.,大本书和小记事本各有所用，分别适用于不同的目的。,The big book?##the small notepad?##different purposes?,shape_val,shape
+294,260551,The long dress and the short skirt were both fashionable choices.,长裙和短裙都是时尚的选择。,The long dress?##the short skirt?##fashionable choices?,shape_val,shape
+295,413459,The tall tower and the short building dominated the skyline.,高塔和矮楼主宰了天际线。,The tall tower?##the short building?##the skyline?,shape_val,shape
+296,868332,The big elephant and the small mouse made an unlikely pair.,大象和小老鼠成了一对意想不到的伙伴。,The big elephant?##the small mouse?##an unlikely pair?,shape_val,shape
+297,983414,The long river and the short stream flowed through the picturesque valley.,长河与短溪流经风景如画的山谷。,The long river?##the short stream?##the picturesque valley?,shape_val,shape
+298,603151,The tall ladder and the short stool were both necessary for reaching high places.,要想够到高处，不仅需要长梯子，矮凳子也是必不可少的。,The tall ladder?##the short stool?##high places?,shape_val,shape
+299,71339,The big house and the small cabin provided different types of accommodations.,大宅和小木屋提供了不同类型的住宿。,The big house?##the small cabin?##different types?##accommodations?,shape_val,shape

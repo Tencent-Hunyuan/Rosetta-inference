@@ -1,0 +1,901 @@
+index,seed,prompt,prompt_cn,questions,dataset,dataset_type
+0,267341,a green bench and a blue bowl,一张绿色的长凳和一个蓝色的碗,a green bench?##a blue bowl?,color_val,color
+1,108588,a blue bench and a green bowl,一张蓝色的长凳和一个绿色的碗,a blue bench?##a green bowl?,color_val,color
+2,77444,a green bench and a blue cake,一张绿色的长凳和一个蓝色的蛋糕,a green bench?##a blue cake?,color_val,color
+3,833272,a blue bench and a green cake,一个蓝色的长凳和一个绿色的蛋糕,a blue bench?##a green cake?,color_val,color
+4,471996,a brown horse and a blue vase,一匹棕色的马和一个蓝色的花瓶,a brown horse?##a blue vase?,color_val,color
+5,404098,a blue horse and a brown vase,一匹蓝色的马和一个棕色的花瓶,a blue horse?##a brown vase?,color_val,color
+6,455972,a blue backpack and a brown cow,一个蓝色的背包和一头棕色的牛,a blue backpack?##a brown cow?,color_val,color
+7,394899,a brown backpack and a blue cow,一个棕色的背包和一头蓝色的牛,a brown backpack?##a blue cow?,color_val,color
+8,702812,a blue backpack and a red book,一个蓝色的背包和一本红色的书,a blue backpack?##a red book?,color_val,color
+9,944345,a red backpack and a blue book,一个红色的背包和一本蓝色的书,a red backpack?##a blue book?,color_val,color
+10,368762,a brown bear and a red book,一只棕熊和一本红书,a brown bear?##a red book?,color_val,color
+11,573825,a red bear and a brown book,一只红色的熊和一本棕色的书,a red bear?##a brown book?,color_val,color
+12,773913,a red orange and a brown sheep,一只红橙色的羊和一只棕色的羊,a red orange?##a brown sheep?,color_val,color
+13,18098,a brown orange and a red sheep,一只棕色的橙子和一只红色的羊,a brown orange?##a red sheep?,color_val,color
+14,611362,a green banana and a brown dog,一根绿色的香蕉和一只棕色的狗,a green banana?##a brown dog?,color_val,color
+15,190654,a brown banana and a green dog,一根棕色的香蕉和一只绿色的狗,a brown banana?##a green dog?,color_val,color
+16,914521,a green banana and a brown horse,一根青色的香蕉和一匹棕色的马,a green banana?##a brown horse?,color_val,color
+17,977465,a brown banana and a green horse,一根棕色的香蕉和一匹绿色的马,a brown banana?##a green horse?,color_val,color
+18,409426,a blue cake and a red suitcase,一个蓝色的蛋糕和一个红色的手提箱,a blue cake?##a red suitcase?,color_val,color
+19,450084,a red cake and a blue suitcase,一个红色的蛋糕和一个蓝色的手提箱,a red cake?##a blue suitcase?,color_val,color
+20,851053,a brown elephant and a red suitcase,一头棕色的大象和一个红色的手提箱,a brown elephant?##a red suitcase?,color_val,color
+21,487541,a red elephant and a brown suitcase,一头红色的大象和一个棕色的手提箱,a red elephant?##a brown suitcase?,color_val,color
+22,898402,a green apple and a brown horse,一个绿苹果和一匹棕马,a green apple?##a brown horse?,color_val,color
+23,733361,a brown apple and a green horse,一个棕色的苹果和一匹绿色的马,a brown apple?##a green horse?,color_val,color
+24,369490,a green banana and a blue vase,一根青色的香蕉和一个蓝色的花瓶,a green banana?##a blue vase?,color_val,color
+25,512419,a blue banana and a green vase,一根蓝色的香蕉和一个绿色的花瓶,a blue banana?##a green vase?,color_val,color
+26,345175,a blue backpack and a brown bear,一个蓝色的背包和一只棕色的熊,a blue backpack?##a brown bear?,color_val,color
+27,882965,a brown backpack and a blue bear,一个棕色的背包和一只蓝色的熊,a brown backpack?##a blue bear?,color_val,color
+28,401729,a green apple and a blue vase,一个绿苹果和一个蓝色的花瓶,a green apple?##a blue vase?,color_val,color
+29,8047,a blue apple and a green vase,一个蓝色的苹果和一个绿色的花瓶,a blue apple?##a green vase?,color_val,color
+30,619915,a green banana and a red suitcase,一根青色的香蕉和一个红色的手提箱,a green banana?##a red suitcase?,color_val,color
+31,764217,a red banana and a green suitcase,一根红色的香蕉和一个绿色的手提箱,a red banana?##a green suitcase?,color_val,color
+32,9801,a blue bowl and a brown elephant,一个蓝色的碗和一只棕色的大象,a blue bowl?##a brown elephant?,color_val,color
+33,918780,a brown bowl and a blue elephant,一个棕色的碗和一只蓝色的大象,a brown bowl?##a blue elephant?,color_val,color
+34,644549,a blue backpack and a red orange,一个蓝色的背包和一个红橙色的橙子,a blue backpack?##a red orange?,color_val,color
+35,333355,a red backpack and a blue orange,一个红色的背包和一个蓝色的橙子,a red backpack?##a blue orange?,color_val,color
+36,811208,a blue backpack and a red chair,一个蓝色的背包和一把红色的椅子,a blue backpack?##a red chair?,color_val,color
+37,456009,a red backpack and a blue chair,一个红色的背包和一把蓝色的椅子,a red backpack?##a blue chair?,color_val,color
+38,527766,a blue cup and a brown horse,一个蓝色的杯子和一匹棕色的马,a blue cup?##a brown horse?,color_val,color
+39,90935,a brown cup and a blue horse,一个棕色的杯子和一匹蓝色的马,a brown cup?##a blue horse?,color_val,color
+40,376214,a brown sheep and a blue vase,一只棕色的羊和一个蓝色的花瓶,a brown sheep?##a blue vase?,color_val,color
+41,362306,a blue sheep and a brown vase,一只蓝色的羊和一个棕色的花瓶,a blue sheep?##a brown vase?,color_val,color
+42,654450,a brown cat and a gold clock,一只棕色的猫和一只金色的钟,a brown cat?##a gold clock?,color_val,color
+43,839199,a gold cat and a brown clock,一只金色的猫和一只棕色的钟,a gold cat?##a brown clock?,color_val,color
+44,53237,a blue backpack and a green banana,一个蓝色的背包和一根绿色的香蕉,a blue backpack?##a green banana?,color_val,color
+45,106363,a green backpack and a blue banana,一个绿色的背包和一根蓝色的香蕉,a green backpack?##a blue banana?,color_val,color
+46,636507,a brown horse and a red orange,一匹棕色的马和一个红橙色的橙子,a brown horse?##a red orange?,color_val,color
+47,924228,a red horse and a brown orange,一匹红马和一个棕色的橙子,a red horse?##a brown orange?,color_val,color
+48,183370,a red chair and a brown elephant,一把红色的椅子和一头棕色的大象,a red chair?##a brown elephant?,color_val,color
+49,763717,a brown chair and a red elephant,一把棕色的椅子和一只红色的大象,a brown chair?##a red elephant?,color_val,color
+50,545876,a green apple and a blue backpack,一个绿苹果和一个蓝色的背包,a green apple?##a blue backpack?,color_val,color
+51,362289,a blue apple and a green backpack,一个蓝色的苹果和一个绿色的背包,a blue apple?##a green backpack?,color_val,color
+52,822759,a blue backpack and a gold clock,一个蓝色的背包和一只金色的钟,a blue backpack?##a gold clock?,color_val,color
+53,589935,a gold backpack and a blue clock,一个金色的背包和一个蓝色的钟表,a gold backpack?##a blue clock?,color_val,color
+54,968557,a brown dog and a red orange,一只棕色的狗和一个红橙色的橙子,a brown dog?##a red orange?,color_val,color
+55,24097,a red dog and a brown orange,一只红色的狗和一个棕橙色的橙子,a red dog?##a brown orange?,color_val,color
+56,459582,a blue backpack and a brown sheep,一个蓝色的背包和一只棕色的羊,a blue backpack?##a brown sheep?,color_val,color
+57,55561,a brown backpack and a blue sheep,一个棕色的背包和一只蓝色的羊,a brown backpack?##a blue sheep?,color_val,color
+58,354804,a blue backpack and a brown giraffe,一个蓝色的背包和一只棕色的长颈鹿,a blue backpack?##a brown giraffe?,color_val,color
+59,798856,a brown backpack and a blue giraffe,一个棕色的背包和一只蓝色的长颈鹿,a brown backpack?##a blue giraffe?,color_val,color
+60,891922,a red book and a blue cake,一本红色的书和一个蓝色的蛋糕,a red book?##a blue cake?,color_val,color
+61,112063,a blue book and a red cake,一本蓝色的书和一个红色的蛋糕,a blue book?##a red cake?,color_val,color
+62,89472,a red suitcase and a blue vase,一个红色的手提箱和一个蓝色的花瓶,a red suitcase?##a blue vase?,color_val,color
+63,247740,a blue suitcase and a red vase,一个蓝色的手提箱和一个红色的花瓶,a blue suitcase?##a red vase?,color_val,color
+64,80529,a blue cup and a brown sheep,一个蓝色的杯子和一只棕色的羊,a blue cup?##a brown sheep?,color_val,color
+65,256821,a brown cup and a blue sheep,一个棕色的杯子和一只蓝色的羊,a brown cup?##a blue sheep?,color_val,color
+66,767445,a brown bear and a red train,一只棕熊和一列红火车,a brown bear?##a red train?,color_val,color
+67,788673,a blue cup and a red orange,一个蓝色的杯子和一个红色的橙子,a blue cup?##a red orange?,color_val,color
+68,190892,a red cup and a blue orange,一个红色的杯子和一个蓝色的橙子,a red cup?##a blue orange?,color_val,color
+69,298715,a green apple and a red suitcase,一个绿苹果和一个红色的手提箱,a green apple?##a red suitcase?,color_val,color
+70,937497,a red apple and a green suitcase,一个红苹果和一个绿色的手提箱,a red apple?##a green suitcase?,color_val,color
+71,187766,a blue bowl and a red train,一个蓝色的碗和一辆红色的火车,a blue bowl?##a red train?,color_val,color
+72,42860,a red bowl and a blue train,一个红色的碗和一辆蓝色的火车,a red bowl?##a blue train?,color_val,color
+73,360246,a green bench and a red orange,一张绿色的长凳和一个红橙色的橙子,a green bench?##a red orange?,color_val,color
+74,215756,a red bench and a green orange,一张红色的长凳和一个绿色的橙子,a red bench?##a green orange?,color_val,color
+75,37962,a brown cat and a red orange,一只棕色的猫和一个红橙色的橙子,a brown cat?##a red orange?,color_val,color
+76,784456,a red cat and a brown orange,一只红色的猫和一个棕橙色的橙子,a red cat?##a brown orange?,color_val,color
+77,684674,a green apple and a red train,一个绿苹果和一辆红火车,a green apple?##a red train?,color_val,color
+78,787391,a red apple and a green train,一个红苹果和一辆绿火车,a red apple?##a green train?,color_val,color
+79,659562,a brown giraffe and a red train,一只棕色的长颈鹿和一辆红色的火车,a brown giraffe?##a red train?,color_val,color
+80,579563,a red giraffe and a brown train,一只红色的长颈鹿和一辆棕色的火车,a red giraffe?##a brown train?,color_val,color
+81,321672,a blue boat and a red suitcase,一艘蓝色的船和一个红色的手提箱,a blue boat?##a red suitcase?,color_val,color
+82,69414,a red boat and a blue suitcase,一艘红色的船和一个蓝色的手提箱,a red boat?##a blue suitcase?,color_val,color
+83,371252,a blue bowl and a brown horse,一个蓝色的碗和一匹棕色的马,a blue bowl?##a brown horse?,color_val,color
+84,655197,a brown bowl and a blue horse,一个棕色的碗和一匹蓝色的马,a brown bowl?##a blue horse?,color_val,color
+85,887069,a blue backpack and a red train,一个蓝色的背包和一辆红色的火车,a blue backpack?##a red train?,color_val,color
+86,79217,a red backpack and a blue train,一个红色的背包和一辆蓝色的火车,a red backpack?##a blue train?,color_val,color
+87,939697,a gold clock and a red orange,一只金色的钟和一个红橙色的橙子,a gold clock?##a red orange?,color_val,color
+88,377012,a red clock and a gold orange,一个红色的钟表和一个金色的橘子,a red clock?##a gold orange?,color_val,color
+89,204019,a brown bear and a blue vase,一只棕色的熊和一个蓝色的花瓶,a brown bear?##a blue vase?,color_val,color
+90,352735,a blue bear and a brown vase,一只蓝色的熊和一个棕色的花瓶,a blue bear?##a brown vase?,color_val,color
+91,279646,a green apple and a brown elephant,一个绿苹果和一头棕色的大象,a green apple?##a brown elephant?,color_val,color
+92,314470,a brown apple and a green elephant,一个棕色的苹果和一只绿色的大象,a brown apple?##a green elephant?,color_val,color
+93,309552,a green banana and a brown bear,一根青色的香蕉和一只棕色的熊,a green banana?##a brown bear?,color_val,color
+94,600561,a brown banana and a green bear,一根棕色的香蕉和一只绿色的熊,a brown banana?##a green bear?,color_val,color
+95,883300,a blue boat and a brown cat,一艘蓝色的船和一只棕色的猫,a blue boat?##a brown cat?,color_val,color
+96,198613,a brown boat and a blue cat,一艘棕色的船和一只蓝色的猫,a brown boat?##a blue cat?,color_val,color
+97,298183,a green banana and a blue boat,一根青色的香蕉和一艘蓝色的船,a green banana?##a blue boat?,color_val,color
+98,184451,a blue banana and a green boat,一根蓝色的香蕉和一艘绿色的船,a blue banana?##a green boat?,color_val,color
+99,844649,a red car and a blue cup,一辆红色的车和一个蓝色的杯子,a red car?##a blue cup?,color_val,color
+100,281402,a blue car and a red cup,一辆蓝色的车和一个红色的杯子,a blue car?##a red cup?,color_val,color
+101,186477,a blue backpack and a red car,一个蓝色的背包和一辆红色的汽车,a blue backpack?##a red car?,color_val,color
+102,703362,a red backpack and a blue car,一个红色的背包和一辆蓝色的汽车,a red backpack?##a blue car?,color_val,color
+103,653061,a brown cow and a blue cup,一头棕色的牛和一个蓝色的杯子,a brown cow?##a blue cup?,color_val,color
+104,218395,a blue cow and a brown cup,一头蓝色的牛和一个棕色的杯子,a blue cow?##a brown cup?,color_val,color
+105,302693,a red train and a blue vase,一辆红色的火车和一个蓝色的花瓶,a red train?##a blue vase?,color_val,color
+106,607,a blue train and a red vase,一辆蓝色的火车和一个红色的花瓶,a blue train?##a red vase?,color_val,color
+107,554038,a brown giraffe and a red orange,一只棕色的长颈鹿和一个红橙色的橙子,a brown giraffe?##a red orange?,color_val,color
+108,704888,a red giraffe and a brown orange,一只红色的长颈鹿和一个棕橙色的橙子,a red giraffe?##a brown orange?,color_val,color
+109,614303,a green banana and a brown cow,一根青色的香蕉和一头棕色的牛,a green banana?##a brown cow?,color_val,color
+110,448714,a brown banana and a green cow,一根变黄的香蕉和一头绿色的奶牛,a brown banana?##a green cow?,color_val,color
+111,355717,a brown giraffe and a blue vase,一只棕色的长颈鹿和一个蓝色的花瓶,a brown giraffe?##a blue vase?,color_val,color
+112,921694,a blue giraffe and a brown vase,一只蓝色的长颈鹿和一个棕色的花瓶,a blue giraffe?##a brown vase?,color_val,color
+113,395592,a brown cow and a red suitcase,一头棕色的牛和一个红色的手提箱,a brown cow?##a red suitcase?,color_val,color
+114,897174,a red cow and a brown suitcase,一头红毛的牛和一个棕色的手提箱,a red cow?##a brown suitcase?,color_val,color
+115,21285,a green apple and a blue cup,一个绿苹果和一个蓝色的杯子,a green apple?##a blue cup?,color_val,color
+116,296043,a blue apple and a green cup,一个蓝色的苹果和一个绿色的杯子,a blue apple?##a green cup?,color_val,color
+117,532066,a red book and a brown sheep,一本红色的书和一只棕色的羊,a red book?##a brown sheep?,color_val,color
+118,110295,a brown book and a red sheep,一本棕色的书和一只红色的羊,a brown book?##a red sheep?,color_val,color
+119,550594,a green banana and a brown giraffe,一根绿色的香蕉和一只棕色的长颈鹿,a green banana?##a brown giraffe?,color_val,color
+120,256209,a brown banana and a green giraffe,一根棕色的香蕉和一只绿色的长颈鹿,a brown banana?##a green giraffe?,color_val,color
+121,164462,a blue boat and a red book,一艘蓝色的船和一本红色的书,a blue boat?##a red book?,color_val,color
+122,49846,a red boat and a blue book,一艘红色的船和一本蓝色的书,a red boat?##a blue book?,color_val,color
+123,717370,a blue cup and a brown elephant,一个蓝色的杯子和一只棕色的大象,a blue cup?##a brown elephant?,color_val,color
+124,87844,a brown cup and a blue elephant,一个棕色的杯子和一只蓝色的大象,a brown cup?##a blue elephant?,color_val,color
+125,344575,a red chair and a brown sheep,一把红色的椅子和一只棕色的羊,a red chair?##a brown sheep?,color_val,color
+126,790749,a brown chair and a red sheep,一把棕色的椅子和一只红色的羊,a brown chair?##a red sheep?,color_val,color
+127,969010,a brown bear and a blue boat,一只棕色的熊和一艘蓝色的船,a brown bear?##a blue boat?,color_val,color
+128,500750,a blue bear and a brown boat,一只蓝色的熊和一艘棕色的船,a blue bear?##a brown boat?,color_val,color
+129,233838,a red car and a white sheep,一辆红色的汽车和一只白色的羊,a red car?##a white sheep?,color_val,color
+130,269992,a blue bird and a brown bear,一只蓝色的小鸟和一只棕色的熊,a blue bird?##a brown bear?,color_val,color
+131,236646,a green apple and a black backpack,一个绿苹果和一个黑色背包,a green apple?##a black backpack?,color_val,color
+132,273346,a green cup and a blue cell phone,一个绿色的杯子和一部蓝色的手机,a green cup?##a blue cell phone?,color_val,color
+133,111247,a yellow book and a red vase,一本黄色的书和一个红色的花瓶,a yellow book?##a red vase?,color_val,color
+134,557225,a white car and a red sheep,一辆白色的汽车和一只红色的羊,a white car?##a red sheep?,color_val,color
+135,203029,a brown bird and a blue bear,一只棕色的鸟和一只蓝色的熊,a brown bird?##a blue bear?,color_val,color
+136,689049,a black apple and a green backpack,一个黑色的苹果和一个绿色的背包,a black apple?##a green backpack?,color_val,color
+137,438071,a blue cup and a green cell phone,一个蓝色的杯子和一个绿色的手机,a blue cup?##a green cell phone?,color_val,color
+138,698220,a red book and a yellow vase,一本红色的书和一个黄色的花瓶,a red book?##a yellow vase?,color_val,color
+139,745724,a red apple and yellow bananas,一个红苹果和几根黄香蕉,a red apple?##yellow bananas?,color_val,color
+140,821418,a yellow apple and red bananas,一个黄色的苹果和红色的香蕉,a yellow apple and red bananas?,color_val,color
+141,302050,a black hat and a red scarf,一顶黑帽子和一条红围巾,a black hat?##a red scarf?,color_val,color
+142,370628,a red hat and a black scarf,一顶红帽子和一条黑围巾,a red hat?##a black scarf?,color_val,color
+143,660329,a silver spoon and a blue plate,一把银汤匙和一个蓝色盘子,a silver spoon?##a blue plate?,color_val,color
+144,668779,a yellow bus and a green tree,一辆黄色的公交车和一棵绿色的树,a yellow bus?##a green tree?,color_val,color
+145,155967,a green bus and a yellow tree,一辆绿色的公交车和一棵黄色的树,a green bus?##a yellow tree?,color_val,color
+146,529651,a red apple and a purple grape,一个红苹果和一个紫葡萄,a red apple?##a purple grape?,color_val,color
+147,109407,a purple apple and a red grape,一个紫色的苹果和一个红色的葡萄,a purple apple?##a red grape?,color_val,color
+148,831977,a white dove and a black feather,一只白鸽和一根黑羽毛,a white dove?##a black feather?,color_val,color
+149,897219,a black dove and a white feather,一只黑鸽和一根白羽毛,a black dove?##a white feather?,color_val,color
+150,123934,a brown acorn and a green leaf,一颗棕色的橡子和一片绿叶,a green leaf?,color_val,color
+151,221972,a green acorn and a brown leaf,一颗绿色的橡树果实和一片棕色的树叶,a brown leaf?,color_val,color
+152,434489,a red stop sign and a white line,一块红色的停车标志和一条白线,a red stop sign?##a white line?,color_val,color
+153,130801,a stop sign and red white line,停车标志和红白线,a stop sign?##red white line?,color_val,color
+154,995005,a black cat and a brown mouse,一只黑猫和一只棕色的老鼠,a black cat?##a brown mouse?,color_val,color
+155,335896,a brown cat and a black mouse,一只棕色的猫和一只黑色的老鼠,a brown cat?##a black mouse?,color_val,color
+156,147305,a blue pen and a yellow highlighter,一支蓝色的笔和一支黄色的荧光笔,a blue pen?##a yellow highlighter?,color_val,color
+157,230463,a yellow pen and a blue highlighter,一支黄色的笔和一支蓝色的荧光笔,a yellow pen?##a blue highlighter?,color_val,color
+158,876456,a black moon and a white sky,一轮黑月亮和一片白天空,a black moon?##a white sky?,color_val,color
+159,800903,a yellow pencil and a blue notebook,一支黄色的铅笔和一本蓝色的笔记本,a yellow pencil?##a blue notebook?,color_val,color
+160,683734,a green leaf and a yellow flower,一片绿叶和一朵黄花,a green leaf?##a yellow flower?,color_val,color
+161,913375,a yellow leaf and a green flower,一片黄叶和一朵绿花,a yellow leaf?##a green flower?,color_val,color
+162,529472,a black cat and a white paw,一只黑猫和一只白爪,a black cat?##a white paw?,color_val,color
+163,637850,a white cat and a black paw,一只白猫和一只黑爪,a white cat?##a black paw?,color_val,color
+164,317445,a yellow duck and a blue pond,一只黄色的鸭子和一个蓝色的池塘,a yellow duck?##a blue pond?,color_val,color
+165,578728,a green frog and a brown pond,一只绿色的青蛙和一个棕色的池塘,a green frog?##a brown pond?,color_val,color
+166,209652,a brown frog and a green pond,一只棕色的青蛙和一个绿色的池塘,a brown frog?##a green pond?,color_val,color
+167,820219,a yellow sun and a red sunset,一轮黄日与一抹红霞,a yellow sun?##a red sunset?,color_val,color
+168,984255,a red sun and a yellow sunset,一轮红日与黄昏的落日,a red sun?##a yellow sunset?,color_val,color
+169,496126,a blue pen and a black ink,一支蓝色的笔和黑色的墨水,a blue pen?##a black ink?,color_val,color
+170,722054,a black pen and a blue ink,一支黑色的笔和蓝色的墨水,a black pen?##a blue ink?,color_val,color
+171,649341,a green grass and a yellow dandelion,一片绿草和一朵黄色的蒲公英,a green grass?##a yellow dandelion?,color_val,color
+172,943978,a yellow grass and a green dandelion,一株黄色的草和一朵绿色的蒲公英,a yellow grass?##a green dandelion?,color_val,color
+173,755816,a black cat and a gray mouse,一只黑猫和一只灰色的老鼠,a black cat?##a gray mouse?,color_val,color
+174,336913,a gray cat and a black mouse,一只灰猫和一只黑老鼠,a gray cat?##a black mouse?,color_val,color
+175,352594,a red apple and a yellow pear,一个红苹果和一个黄梨,a red apple?##a yellow pear?,color_val,color
+176,304829,a yellow apple and a red pear,一个黄色的苹果和一个红色的梨,a yellow apple?##a red pear?,color_val,color
+177,992661,a white snow and a blue sled,一片白雪和一辆蓝色的雪橇,a white snow?,color_val,color
+178,811869,a blue snow and a white sled,一场蓝色的雪和一辆白色的雪橇,a blue snow?,color_val,color
+179,117945,a green frog and a yellow fly,一只绿色的青蛙和一只黄色的苍蝇,a green frog?##a yellow fly?,color_val,color
+180,790375,a yellow frog and a green fly,一只黄色的青蛙和一只绿色的苍蝇,a yellow frog?##a green fly?,color_val,color
+181,189946,a yellow pencil and a red eraser,一支黄色的铅笔和一个红色的橡皮擦,a yellow pencil?##a red eraser?,color_val,color
+182,338618,a red pencil and a yellow eraser,一支红色的铅笔和一个黄色的橡皮擦,a red pencil?##a yellow eraser?,color_val,color
+183,135962,a black cat and a white whisker,一只黑猫和一根白胡须,a black cat?##a white whisker?,color_val,color
+184,373716,a white cat and a black whisker,一只白猫和一根黑色的胡须,a white cat?##a black whisker?,color_val,color
+185,869623,a brown tree and a green grass,一棵棕色的树和绿色的草地,a brown tree?##a green grass?,color_val,color
+186,807365,a green tree and a brown grass,一棵绿色的树和一片棕色的草地,a green tree?##a brown grass?,color_val,color
+187,769986,a red rose and a white carnation,一朵红玫瑰和一朵白色康乃馨,a white carnation?,color_val,color
+188,601385,a white rose and a red carnation,一朵白玫瑰和一朵红康乃馨,a red carnation?,color_val,color
+189,308756,a white cloud and a black sky,一朵白云在黑色的天空中,a white cloud?##a black sky?,color_val,color
+190,257476,a black cloud and a white sky,一朵黑云和一片白天空,a black cloud?##a white sky?,color_val,color
+191,583824,a green leaf and a yellow butterfly,一片绿叶和一只黄蝴蝶,a green leaf?##a yellow butterfly?,color_val,color
+192,308654,a yellow leaf and a green butterfly,一片黄叶和一只绿蝴蝶,a yellow leaf?##a green butterfly?,color_val,color
+193,985885,a red tomato and a yellow pepper,一个红色的西红柿和一个黄色的辣椒,a red tomato?##a yellow pepper?,color_val,color
+194,774433,a yellow tomato and a red pepper,一个黄色的西红柿和一个红色的辣椒,a yellow tomato?##a red pepper?,color_val,color
+195,82212,a red apple and a green kiwi,一个红苹果和一个绿色的猕猴桃,a red apple?##a green kiwi?,color_val,color
+196,881580,a green apple and a red kiwi,一个绿苹果和一个红猕猴桃,a green apple?##a red kiwi?,color_val,color
+197,334490,a white piano and a black bench,一架白色的钢琴和一张黑色的长凳,a white piano?##a black bench?,color_val,color
+198,845306,a black piano and a white bench,一架黑色的钢琴和一张白色的长凳,a black piano?##a white bench?,color_val,color
+199,353467,a brown jacket and a black hat,一件棕色的夹克和一顶黑帽子,a brown jacket?##a black hat?,color_val,color
+200,599546,a red bear and a brown train,一只红色的熊和一辆棕色的火车,a red bear?##a brown train?,color_val,color
+201,590707,a red cylinder and a blue cube,一个红色的圆柱体和一个蓝色的立方体,a red cylinder?##a blue cube?,color_val,color
+202,350479,a blue cylinder and a red cube,一个蓝色的圆柱体和一个红色的立方体,a blue cylinder?##a red cube?,color_val,color
+203,152836,a blue spoon and a silver plate,一把蓝色的勺子和一个银色的盘子,a blue spoon?##a silver plate?,color_val,color
+204,163020,a blue bird and a yellow canary,一只蓝色的鸟和一只黄色的金丝雀,a blue bird?##a yellow canary?,color_val,color
+205,419146,a canary and a yellow bluebird,一只金丝雀和一只黄蓝色的鸟,a canary?##a yellow bluebird?,color_val,color
+206,678176,a yellow taxi and a black tire,一辆黄色出租车和一个黑色轮胎,a yellow taxi?##a black tire?,color_val,color
+207,706341,a black taxi and a yellow tire,一辆黑色出租车和一个黄色轮胎,a black taxi?##a yellow tire?,color_val,color
+208,145464,a green snake and a brown log,一条绿蛇和一根棕色的木头,a green snake?##a brown log?,color_val,color
+209,694851,a brown snake and a green log,一条棕色的蛇和一根绿色的木头,a brown snake?##a green log?,color_val,color
+210,339164,a white moon and a black sky,一轮白月亮悬挂在黑色的夜空中,a white moon?##a black sky?,color_val,color
+211,668482,a blue pencil and a yellow notebook,一支蓝色的铅笔和一本黄色的笔记本,a blue pencil?##a yellow notebook?,color_val,color
+212,162701,a blue duck and a yellow pond,一只蓝色的鸭子和一片黄色的池塘,a blue duck?##a yellow pond?,color_val,color
+213,895673,a blue jay and a green parrot,一只蓝松鸟和一只绿鹦鹉,a blue jay?##a green parrot?,color_val,color
+214,593775,a green jay and a blue parrot,一只绿松鸟和一只蓝鹦鹉,a green jay?##a blue parrot?,color_val,color
+215,356207,a brown squirrel and a black nut,一只棕色的松鼠和一个黑色的坚果,a brown squirrel?##a black nut?,color_val,color
+216,198868,a black squirrel and a brown nut,一只黑色的松鼠和一颗棕色的坚果,a black squirrel?##a brown nut?,color_val,color
+217,124815,a white swan and a black lake,一只白天鹅与一片黑湖,a white swan?##a black lake?,color_val,color
+218,260707,a black swan and a white lake,一只黑天鹅与一片白色的湖,a black swan?##a white lake?,color_val,color
+219,714761,a brown log and a green moss,一根棕色的木头和一些绿色的苔藓,a brown log?##a green moss?,color_val,color
+220,183494,a green log and a brown moss,一根绿色的原木和一块棕色的苔藓,a green log?##a brown moss?,color_val,color
+221,401724,a brown guitar and a black amplifier,一把棕色的吉他和一个黑色的音箱,a brown guitar?##a black amplifier?,color_val,color
+222,253394,a black guitar and a brown amplifier,一把黑色的吉他和一个棕色的扩音器,a black guitar?##a brown amplifier?,color_val,color
+223,122229,a white envelope and a blue stamp,一封装在白色信封里，贴着蓝色邮票的信,a white envelope?##a blue stamp?,color_val,color
+224,388685,a blue envelope and a white stamp,一只蓝色的信封和一枚白色的邮票,a blue envelope?##a white stamp?,color_val,color
+225,545372,a blue bicycle and a red helmet,一辆蓝色的自行车和一个红色的头盔,a blue bicycle?##a red helmet?,color_val,color
+226,595278,a red bicycle and a blue helmet,一辆红色的自行车和一个蓝色的头盔,a red bicycle?##a blue helmet?,color_val,color
+227,256611,a yellow taxi and a black tire,一辆黄色出租车和一个黑色轮胎,a yellow taxi?##a black tire?,color_val,color
+228,152135,a black taxi and a yellow tire,一辆黑色出租车和一个黄色轮胎,a black taxi?##a yellow tire?,color_val,color
+229,708415,a black jacket and a brown hat,一件黑色夹克和一顶棕色帽子,a black jacket?##a brown hat?,color_val,color
+230,664202,a blue rose and a green tulip,一朵蓝色的玫瑰和一朵绿色的郁金香,a green tulip?,color_val,color
+231,98867,a green rose and a blue tulip,一朵绿色的玫瑰和一朵蓝色的郁金香,a blue tulip?,color_val,color
+232,336783,a red school bus and a green bag,一辆红色的校车和一个绿色的包,a red school bus?##a green bag?,color_val,color
+233,623153,a green school bus and a red bag,一辆绿色的校车和一个红色的包,a green school bus?##a red bag?,color_val,color
+234,577920,a yellow rabbit and a red rat,一只黄色的兔子和一只红色的老鼠,a yellow rabbit?##a red rat?,color_val,color
+235,679607,a red rabbit and a yellow rat,一只红色的兔子和一只黄色的老鼠,a red rabbit?##a yellow rat?,color_val,color
+236,211056,a red lipstick and a pink blush,一支红色口红和一块粉红色腮红,a red lipstick?##a pink blush?,color_val,color
+237,648266,a pink lipstick and a red blush,一支粉色口红和一个红色腮红,a pink lipstick?##a red blush?,color_val,color
+238,60482,a blue bag and a green water bottle,一个蓝色的包和一个绿色的水瓶,a blue bag?##a green water bottle?,color_val,color
+239,857013,a green bag and a blue water bottle,一个绿色的包和一个蓝色的水瓶,a green bag?##a blue water bottle?,color_val,color
+240,887226,A bathroom with white tile and a beige toilet.,一个带有白色瓷砖和米色马桶的浴室。,A bathroom?##white tile?##a beige toilet?,color_val,color
+241,78374,A bathroom with beige tile and a white toilet.,一间浴室，配有米色瓷砖和白色马桶。,A bathroom?##beige tile?##a white toilet?,color_val,color
+242,733551,A green bathroom with a mirror and a pink sink.,一个带有镜子和粉红色洗手池的绿色浴室。,A green bathroom?##a mirror?##a pink sink?,color_val,color
+243,811544,A pink bathroom with a mirror and a green sink.,一个带有镜子和绿色洗手池的粉红色浴室。,A pink bathroom?##a mirror?##a green sink?,color_val,color
+244,587966,a black gold and white vase sitting on a counter,一个黑金色和白色的花瓶放在柜台上。,a black gold and white vase?##a counter?,color_val,color
+245,622220,a black white and gold vase sitting on a counter,一个黑白金色的花瓶放在柜台上。,a black white and gold vase?##a counter?,color_val,color
+246,654996,A small white kitchen with brown wood floor.,一个小巧的白色厨房，配有棕色的木地板。,A small white kitchen?##brown wood floor?,color_val,color
+247,645558,A small brown kitchen with white wood floor.,一个小巧的棕色厨房，配有白色木地板。,A small brown kitchen?##white wood floor?,color_val,color
+248,359750,"Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet.",厨房一角，一侧是灰色的台面，另一侧则偏白，配有长颈龙头的黑色水槽。,Kitchen scene?##grey counter top?##one side?##the other and black sink?##long neck faucet?,color_val,color
+249,546663,"Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet.",厨房一角，一侧是黑色的台面，另一侧则呈现出浅白色，配有长颈龙头的灰色水槽。,Kitchen scene?##black counter top?##one side?##the other and grey sink?##long neck faucet?,color_val,color
+250,144700,"Two toilet stall, one blue and the other orange.",两个厕所隔间，一个蓝色，另一个橙色。,Two toilet stall?##one blue?##the other orange?,color_val,color
+251,118278,"Two toilet stall, one orange and the other blue.",两个厕所隔间，一个是橙色的，另一个是蓝色的。,Two toilet stall?##one orange?##the other blue?,color_val,color
+252,303365,"A long, narrow yellow kitchen with black and white floor tiles.",一间细长的黄色厨房，地面铺有黑白两色的地砖。,"A long, narrow yellow kitchen?##black and white floor tiles?",color_val,color
+253,398309,"A long, narrow black kitchen with yellow and white floor tiles.",一间细长的黑色厨房，地板铺有黄色和白色的瓷砖。,"A long, narrow black kitchen?##yellow and white floor tiles?",color_val,color
+254,828547,Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby.,两根热狗放在白色纸盘上，旁边是一杯汽水，这些都摆放在绿色的野餐桌上。附近还停着一辆自行车和一辆银色的汽车。,Two hot dogs?##a white paper plate?##a soda cup?##which?##a green picnic table?##a bike?##a silver car?,color_val,color
+255,180442,Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby.,两根热狗放在绿色纸盘上，旁边是一杯汽水，这些都摆放在一张白色的野餐桌上。附近停着一辆自行车和一辆银色的汽车。,Two hot dogs?##a green paper plate?##a soda cup?##which?##a white picnic table?##a bike?##a silver car?,color_val,color
+256,690334,A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid.,这个洗手间的地板采用了黑白相间的方格图案，里面有两个厕所，一个配备了黑色的座圈和盖板，另一个则是白色的座圈和盖板。,A restroom?##black and white checkered flooring?##two toilets?##which?##a black seat?##lid?##the other a white seat?##lid?,color_val,color
+257,727707,A restroom features white and white checkered flooring and two toilets of which has a black seat and lid and the other a black seat and lid.,这个洗手间的地板是白色和白色方格图案，里面有两个厕所，一个的座圈和盖子是黑色的，另一个也是黑色的座圈和盖子。,A restroom?##white and white checkered flooring?##two toilets?##which?##a black seat?##lid?##the other a black seat?##lid?,color_val,color
+258,435367,Bathroom scene with white background and tan accents.,浴室场景，以白色为背景，搭配米色点缀。,Bathroom scene?##white background?##tan accents?,color_val,color
+259,396910,Bathroom scene with tan background and white accents.,浴室场景，以米色为背景，点缀以白色装饰。,Bathroom scene?##tan background?##white accents?,color_val,color
+260,746891,A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows.,不锈钢烤箱位于白色橱柜之间，橱柜上方是黑色的台面，阳光透过厨房的窗户照射进来。,A stainless steel?##white cupboards?##black counter tops?##sun?##the kitchen windows?,color_val,color
+261,539562,A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows.,阳光透过厨房的窗户照射进来，一台不锈钢烤箱位于黑色橱柜之间，橱柜上方是白色的台面。,A stainless steel?##black cupboards?##white counter tops?##sun?##the kitchen windows?,color_val,color
+262,103076,A kitchen with white tile floor and blue sloped ceiling.,一个厨房，拥有白色瓷砖地板和蓝色斜坡天花板。,A kitchen?##white tile floor?##blue sloped ceiling?,color_val,color
+263,312655,A kitchen with blue tile floor and white sloped ceiling.,一个厨房，地面铺着蓝色瓷砖，天花板是白色的斜坡设计。,A kitchen?##blue tile floor?##white sloped ceiling?,color_val,color
+264,268003,A bathroom with green tile and a red shower curtain.,一间浴室，墙面贴着绿色瓷砖，搭配红色的浴帘。,A bathroom?##green tile?##a red shower curtain?,color_val,color
+265,680566,A bathroom with red tile and a green shower curtain.,一个带有红色瓷砖和绿色浴帘的浴室。,A bathroom?##red tile?##a green shower curtain?,color_val,color
+266,161710,"A white bath tub sits empty in a tan, clean bathroom.",一个白色的浴缸空置在一个干净的米色浴室里。,"A white bath tub?##a tan, clean bathroom?",color_val,color
+267,101743,"A tan bath tub sits empty in a white, clean bathroom.",一只棕褐色的浴缸空置在一个洁净的白色浴室里。,"A tan bath tub?##a white, clean bathroom?",color_val,color
+268,874800,"two white sheep, a black goat and a white goat in a field",一片田野里有两只白羊、一只黑山羊和一只白山羊。,two white sheep?##a black goat?##a white goat?##a field?,color_val,color
+269,653486,"two black sheep, a white goat and a white goat in a field",一片田野里有两只黑羊和一只白羊,two black sheep?##a white goat?##a white goat?##a field?,color_val,color
+270,861606,A black and white cat sits in a white sink.,一只黑白相间的猫坐在一个白色的洗手池里。,A black and white cat?##a white sink?,color_val,color
+271,611212,A black and white cat sits in a white sink.,一只黑白相间的猫坐在一个白色的洗手池里。,A black and white cat?##a white sink?,color_val,color
+272,457469,A woman in a white shirt and jeans holds a pink umbrella in the rain.,一个穿着白衬衫和牛仔裤的女士在雨中撑着一把粉色雨伞。,A woman?##a white shirt?##jeans?##a pink umbrella?##the rain?,color_val,color
+273,746546,A woman in a pink shirt and jeans holds a white umbrella in the rain.,一个穿着粉色衬衫和牛仔裤的女士在雨中撑着一把白色雨伞。,A woman?##a pink shirt?##jeans?##a white umbrella?##the rain?,color_val,color
+274,193002,A small bathroom with a small brown toilet next to a white sink.,一个小浴室里，旁边有一个白色的洗手池，紧挨着放置了一个小巧的棕色马桶。,A small bathroom?##a small brown toilet?##a white sink?,color_val,color
+275,508122,A small bathroom with a small white toilet next to a brown sink.,一个小浴室里，旁边有一个白色的小马桶紧挨着一个棕色的洗手池。,A small bathroom?##a small white toilet?##a brown sink?,color_val,color
+276,945261,A black and green tile bathroom with a black toilet and a yellow bucket on the floor.,一间黑色和绿色瓷砖的浴室，地上有一个黑色的马桶和一个黄色的水桶。,A black and green tile bathroom?##a black toilet?##a yellow bucket?##the floor?,color_val,color
+277,57138,A black and green tile bathroom with a yellow toilet and a black bucket on the floor.,一间黑绿相间的瓷砖浴室，里面有一个黄色的马桶和地上放着一个黑色的水桶。,A black and green tile bathroom?##a yellow toilet?##a black bucket?##the floor?,color_val,color
+278,202601,A red carpet in a bathroom with white fixtures.,卫生间里铺着一条红地毯，配有白色的卫浴设施。,A red carpet?##a bathroom?##white fixtures?,color_val,color
+279,944598,A white carpet in a bathroom with red fixtures.,卫生间里铺着一块白色的地毯，装有红色固定装置。,A white carpet?##a bathroom?##red fixtures?,color_val,color
+280,300720,Many stoplights flash yellow on a snow covered street.,许多红绿灯在雪覆盖的街道上闪烁黄光。,Many stoplights?##a snow covered street?,color_val,color
+281,351665,Many stoplights flash snow on a yellow covered street.,许多红绿灯在黄色覆盖的街道上闪烁着雪花。,Many stoplights?##snow?##a yellow covered street?,color_val,color
+282,415733,A blue scooter is parked near a curb in front of a green vintage car.,一辆蓝色的滑板车停在一辆绿色复古汽车前的路边。,A blue scooter?##a curb?##front?##a green vintage car?,color_val,color
+283,420213,A green scooter is parked near a curb in front of a blue vintage car.,一辆绿色的滑板车停在一辆蓝色复古汽车前的路边。,A green scooter?##a curb?##front?##a blue vintage car?,color_val,color
+284,958340,"A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets.",餐厅区域配备了木质桌椅、一台银色冰箱以及浅棕色的橱柜。,A dining area?##a wood table?##chairs?##a silver refrigerator?##light brown cabinets?,color_val,color
+285,988457,"A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets.",餐厅区域配备了一张木质餐桌和椅子，一台棕色的冰箱以及浅银色的橱柜。,A dining area?##a wood table?##chairs?##a brown refrigerator?##silver cabinets?,color_val,color
+286,326489,"Bathroom scene, white commode and matching white sink on light brown tone tiled floor.",浴室场景，配套的白色马桶和白色洗手池位于浅棕色瓷砖地面上。,Bathroom scene?##white commode?##white sink?##light brown tone?##tiled floor?,color_val,color
+287,114449,"Bathroom scene, white commode and matching white sink on light brown tone tiled floor.",浴室场景，配套的白色马桶和白色洗手池位于浅棕色瓷砖地面上。,Bathroom scene?##white commode?##white sink?##light brown tone?##tiled floor?,color_val,color
+288,555359,A traffic light with a smile green light above a red sign.,一个交通灯上方是微笑的绿灯，下方是红色的标志。,A traffic light?##a smile green light?##a red sign?,color_val,color
+289,855922,A traffic light with a smile red light above a green sign.,一个交通灯上方有一个带笑脸的红灯，下方是一个绿色的标志。,A traffic light?##a smile red light?##a green sign?,color_val,color
+290,464614,The man on the large black motorcycle has pink chaps.,骑着大型黑色摩托车的男人穿着粉红色的护腿。,The man?##the large black motorcycle?##pink chaps?,color_val,color
+291,922480,The man on the large pink motorcycle has black chaps.,骑着大型粉红色摩托车的男人穿着黑色皮裤。,The man?##the large pink motorcycle?##black chaps?,color_val,color
+292,965810,A black motorcycle is parked on grey cobblestones.,一辆黑色摩托车停在灰色鹅卵石上。,A black motorcycle?##grey cobblestones?,color_val,color
+293,529006,A grey motorcycle is parked on black cobblestones.,一辆灰色的摩托车停在黑色的鹅卵石上。,A grey motorcycle?##black cobblestones?,color_val,color
+294,244524,The white and yellow clock with a red roof reads 11:44.,带有红色屋顶的白色和黄色时钟显示的时间是11:44。,The white and yellow clock?##a red roof?,color_val,color
+295,846681,The white and red clock with a yellow roof reads 11:44.,白色和红色的钟表，带有黄色屋顶，显示时间为11:44。,The white and red clock?##a yellow roof?,color_val,color
+296,872614,A man in a gray jacket standing in a kitchen next to a black dog.,一个穿着灰色夹克的男人站在厨房里，旁边是一只黑色的狗。,A man?##a gray jacket?##a kitchen?##a black dog?,color_val,color
+297,371421,A man in a black jacket standing in a kitchen next to a gray dog.,一个穿着黑色夹克的男人站在厨房里，旁边是一只灰色的狗。,A man?##a black jacket?##a kitchen?##a gray dog?,color_val,color
+298,941204,a white bathroom with a black and white shower curtain,一个白色的浴室，配有黑白相间的淋浴帘。,a white bathroom?##a black and white shower curtain?,color_val,color
+299,446538,a white bathroom with a black and white shower curtain,一个白色的浴室，配有黑白相间的淋浴帘。,a white bathroom?##a black and white shower curtain?,color_val,color
+300,652839,an oblong cucumber and a teardrop plum,一个长方形的黄瓜和一个泪滴形的李子,an oblong cucumber?##a teardrop plum?,shape_val,shape
+301,159520,a pentagonal stop sign and a spherical traffic light,一个五边形的停车标志和一个球形的交通灯,a pentagonal stop sign?##a spherical traffic light?,shape_val,shape
+302,649958,a cubic ice cube and a spherical ice bucket,一个立方体冰块和一个球形冰桶,a cubic ice cube?##a spherical ice bucket?,shape_val,shape
+303,233709,an oblong eggplant and a teardrop melon,一根长条形的茄子和一个泪滴形的甜瓜,an oblong eggplant?##a teardrop melon?,shape_val,shape
+304,648762,a cubic block and a cylindrical bottle,一个立方体积木和一个圆柱形瓶子,a cubic block?##a cylindrical bottle?,shape_val,shape
+305,375933,a cubic block and a cylindrical canister,一个立方体积木和一个圆柱形罐,a cubic block?##a cylindrical canister?,shape_val,shape
+306,650853,a diamond pendant and a round locket,一颗钻石吊坠和一个圆形小盒子,a round locket?,shape_val,shape
+307,891922,a teardrop pendant and a cubic bracelet charm,一枚泪滴形吊坠和一个立方体手链饰品,a teardrop?##a cubic bracelet charm?,shape_val,shape
+308,290633,a pentagonal speed limit sign and a pyramidal paperweight,一个五角形限速标志和一个金字塔形纸镇,a pentagonal speed limit sign?##a pyramidal paperweight?,shape_val,shape
+309,892233,a diamond ring and a pyramidal ring box,一枚钻石戒指和一个金字塔形戒指盒,a diamond ring?##a pyramidal ring box?,shape_val,shape
+310,667953,a diamond brooch and a teardrop bracelet,一枚钻石胸针和一条泪滴形手链,a diamond brooch?##a teardrop bracelet?,shape_val,shape
+311,303375,a pentagonal postbox and a pyramidal obelisk,一个五边形的邮筒和一个金字塔形的方尖碑,a pentagonal postbox?##a pyramidal obelisk?,shape_val,shape
+312,532636,a conical wizard hat and a spherical crystal wand,一个尖顶巫师帽和一个球形水晶魔杖,a conical wizard hat?##a spherical crystal wand?,shape_val,shape
+313,544878,a round muffin and a square napkin,一个圆形的松饼和一张方形的餐巾纸,a round muffin?##a square napkin?,shape_val,shape
+314,773317,a cylindrical candle and a pentagonal candle holder,一个圆柱形蜡烛和一个五角形烛台,a cylindrical candle?##a pentagonal candle holder?,shape_val,shape
+315,234476,a round muffin and a square muffin liner,一个圆形松饼和一个方形松饼纸杯,a round muffin?##a square muffin liner?,shape_val,shape
+316,382534,a spherical globe and a conical flagpole,一个球形地球仪和一个圆锥形旗杆,a spherical globe?##a conical flagpole?,shape_val,shape
+317,206403,a big bear and a small squirrel,一只大熊和一只小松鼠,a big bear?##a small squirrel?,shape_val,shape
+318,283712,an oval sink and a rectangular mirror.,一个椭圆形的洗手池和一个长方形的镜子。,an oval sink?##a rectangular mirror?,shape_val,shape
+319,544570,an oval mirror and a rectangular painting,一个椭圆形镜子和一幅长方形画作,an oval mirror?##a rectangular painting?,shape_val,shape
+320,686399,a triangular slice of cheese and a rectangular cheese board,一块三角形的奶酪和一个长方形的砧板,a triangular slice?##cheese?##a rectangular cheese board?,shape_val,shape
+321,704959,a small bagel and a rectangular sandwich,一个小贝果和一个长方形的三明治,a small bagel?##a rectangular sandwich?,shape_val,shape
+322,432571,a tall skyscraper and a short lamppost,一座高耸的摩天大楼和一根矮小的路灯柱,a tall skyscraper?##a short lamppost?,shape_val,shape
+323,917139,a teardrop pendant and a triangular chain necklace,一枚泪滴形吊坠和一条三角形链条项链,a teardrop?##a triangular chain necklace?,shape_val,shape
+324,812485,an oblong sweet potato and a teardrop peach,,an oblong sweet potato?##a teardrop peach?,shape_val,shape
+325,399183,a spherical balloon and a conical party hat,一个球形气球和一个圆锥形派对帽,a spherical balloon?##a conical party hat?,shape_val,shape
+326,39324,a pyramidal trophy and a spherical trophy ball,一个金字塔形的奖杯和一个球形的奖杯球,a pyramidal trophy?##a spherical trophy ball?,shape_val,shape
+327,317661,an oblong squash and a teardrop plum,一个长方形的南瓜和一个泪滴形的李子,an oblong squash?##a teardrop plum?,shape_val,shape
+328,127950,a tall skyscraper and a short street lamp,一座高耸的摩天大楼和一盏矮小的路灯,a tall skyscraper?##a short street lamp?,shape_val,shape
+329,371864,a spherical baseball and a conical baseball cap,一个球形的棒球和一个圆锥形的棒球帽,a spherical baseball?##a conical baseball cap?,shape_val,shape
+330,144999,an oval coffee table and a rectangular rug,一个椭圆形的咖啡桌和一个长方形的地毯,an oval coffee table?##a rectangular rug?,shape_val,shape
+331,484639,a round cookie and a square container.,一个圆形饼干和一个方形容器。,a round cookie?##a square container?,shape_val,shape
+332,374712,a diamond engagement ring and a round pendant,一枚钻石订婚戒指和一个圆形吊坠,a diamond engagement ring?,shape_val,shape
+333,626924,an oval bathtub and a square shower curtain,一个椭圆形的浴缸和一个方形的淋浴帘,an oval bathtub?##a square shower curtain?,shape_val,shape
+334,949791,an oblong acorn squash and a teardrop apricot,一个长方形的橡子南瓜和一个泪滴形的杏子,a teardrop apricot?,shape_val,shape
+335,302990,an oblong pear and a teardrop melon,一个长圆形的梨和一个水滴形的瓜,an oblong pear?##a teardrop melon?,shape_val,shape
+336,695998,a tall skyscraper and a short cabin,一座高耸的摩天大楼和一间矮小的小屋,a tall skyscraper?##a short cabin?,shape_val,shape
+337,513430,a round bag and a square box,一个圆形包和一个方形盒子,a round bag?##a square box?,shape_val,shape
+338,254012,a spherical ball and a conical party hat,一个球形的球和一个圆锥形的派对帽,a spherical ball?##a conical party hat?,shape_val,shape
+339,296271,a long snake and a short tree,一条长蛇和一棵矮树,a long snake?##a short tree?,shape_val,shape
+340,381137,a tall basketball player and a small hat,一个高个子篮球运动员和一顶小帽子,a tall basketball player?##a small hat?,shape_val,shape
+341,701026,a square book and a cylindrical pencil,一本方形的书和一支圆柱形的铅笔,a square book?##a cylindrical pencil?,shape_val,shape
+342,329818,a cubic block and a cylindrical container of hand cream,一个立方体形状的块状物和一个圆柱形的手霜容器,a cubic block?##a cylindrical container?##hand cream?,shape_val,shape
+343,9895,a cubic block and a triangular building set,一个立方体积木和一个三角形建筑套装,a cubic block?##a triangular building?,shape_val,shape
+344,415120,a diamond pendant and a round bracelet,一颗钻石吊坠和一个圆形手镯,a round bracelet?,shape_val,shape
+345,895132,an oval sink and a rectangular soap dispenser,一个椭圆形的洗手池和一个长方形的洗手液分配器,an oval sink?##a rectangular soap dispenser?,shape_val,shape
+346,194297,an oblong squash and a teardrop strawberry,一个长方形的南瓜和一个泪滴形的草莓,an oblong squash?##a teardrop strawberry?,shape_val,shape
+347,963340,a rectangular laptop and a teardrop laptop bag,一个长方形的笔记本电脑和一个水滴形的笔记本电脑包,a rectangular laptop?##a teardrop laptop bag?,shape_val,shape
+348,481290,an oblong carrot and a teardrop plum,一根长方形的胡萝卜和一个泪滴形的李子,an oblong carrot?##a teardrop plum?,shape_val,shape
+349,799194,a big hippopotamus and a small rabbit,一只大河马和一只小兔子,a big hippopotamus?##a small rabbit?,shape_val,shape
+350,135607,a cylindrical vase and a triangular flower arrangement,一个圆柱形花瓶和一个三角形的花卉摆放,a cylindrical vase?##a triangular flower arrangement?,shape_val,shape
+351,703016,a spherical ornament and a triangular tree topper,一个球形装饰品和一个三角形的树顶装饰,a spherical ornament?##a triangular tree topper?,shape_val,shape
+352,880716,a conical Christmas tree and a pentagonal tree skirt,一个圆锥形的圣诞树和一个五角形的树裙,a conical Christmas tree?##a pentagonal tree skirt?,shape_val,shape
+353,963587,a round bagel and a square toaster,一个圆形的百吉饼和一个方形的烤面包机,a round bagel?##a square toaster?,shape_val,shape
+354,757012,a big hippopotamus and a small mouse,一只大河马和一只小老鼠,a big hippopotamus?##a small mouse?,shape_val,shape
+355,754665,a big lion and a small mouse,一只大狮子和一只小老鼠,a big lion?##a small mouse?,shape_val,shape
+356,118869,a tall sunflower and a short daisy,一株高大的向日葵和一朵矮小的雏菊,a tall sunflower?##a short daisy?,shape_val,shape
+357,259736,a spherical basketball and a conical referee hat,一个球形的篮球和一个圆锥形的裁判帽,a spherical basketball?##a conical referee hat?,shape_val,shape
+358,420471,a circular rug and a triangular coffee table,一个圆形地毯和一个三角形咖啡桌,a circular rug?##a triangular coffee table?,shape_val,shape
+359,666867,a pyramidal paperweight and a pentagonal paperclip holder,一个金字塔形纸镇和一个五边形回形针盒,a pyramidal paperweight?##a pentagonal paperclip holder?,shape_val,shape
+360,58800,a cubic box and a pyramidal paperweight,一个立方体盒子和一个金字塔形纸镇,a cubic box?##a pyramidal paperweight?,shape_val,shape
+361,212328,an oblong zucchini and a teardrop plum,一个长方形的西葫芦和一个泪滴形的李子,an oblong zucchini?##a teardrop plum?,shape_val,shape
+362,595397,a cubic block and a cylindrical flashlight.,一个立方体积木和一个圆柱形手电筒。,a cubic block?##a cylindrical flashlight?,shape_val,shape
+363,815874,a pentagonal yield sign and a pyramidal book stand.,一个五边形的让路标志和一个金字塔形的书架。,a pentagonal yield sign?##a pyramidal book stand?,shape_val,shape
+364,105670,an oblong potato and a teardrop mango,一个长方形的土豆和一个泪滴形的芒果,an oblong potato?##a teardrop mango?,shape_val,shape
+365,244616,a round basketball and a cylindrical water bottle,一个圆形的篮球和一个圆柱形的水瓶,a round basketball?##a cylindrical water bottle?,shape_val,shape
+366,318398,a rectangular mirror and a spherical magnifying glass,一个长方形镜子和一个球形放大镜,a rectangular mirror?##a spherical magnifying glass?,shape_val,shape
+367,793626,an oblong zucchini and a teardrop cherry,一个长方形的西葫芦和一个泪珠形的樱桃,an oblong zucchini?##a teardrop cherry?,shape_val,shape
+368,253580,a tall palm tree and a short cactus,一棵高大的棕榈树和一株矮小的仙人掌,a tall palm tree?##a short cactus?,shape_val,shape
+369,824178,a diamond bracelet and a rectangular watch,一条钻石手链和一块矩形手表,a diamond bracelet?##a rectangular watch?,shape_val,shape
+370,133655,a pentagonal medal and a pyramidal trophy,一个五角形奖牌和一个金字塔形奖杯,a pentagonal medal?##a pyramidal trophy?,shape_val,shape
+371,702214,a round bagel and a rectangular sandwich press,一个圆形的贝果和一个长方形的三明治机,a round bagel?##a rectangular sandwich press?,shape_val,shape
+372,651252,a small block and a cylindrical soda can,一个小方块和一个圆柱形的汽水罐,a small block?##a cylindrical soda?,shape_val,shape
+373,832658,a cubic block and a cylindrical paper towel roll,一个立方体积木和一个圆柱形纸巾卷,a cubic block?##a cylindrical paper towel roll?,shape_val,shape
+374,411311,a pyramidal candle and a diamond candlestick holder,一个金字塔形状的蜡烛和一个钻石形状的烛台,a pyramidal candle?##a diamond candlestick holder?,shape_val,shape
+375,601651,a tall skyscraper and a short cottage,一座高耸的摩天大楼和一间矮小的小屋,a tall skyscraper?##a short cottage?,shape_val,shape
+376,86615,a tall oak tree and a short sapling,一棵高大的橡树和一株矮小的树苗,a tall oak tree?##a short sapling?,shape_val,shape
+377,896245,a pentagonal pencil sharpener and a cylindrical eraser,一个五角形的铅笔刨和一个圆柱形的橡皮擦,a pentagonal pencil sharpener?##a cylindrical eraser?,shape_val,shape
+378,379118,a round pizza and a rectangular piece of lasagna,一张圆形的披萨和一块长方形的千层面,a round pizza?##a rectangular piece?##lasagna?,shape_val,shape
+379,49781,a pyramidal candle holder and a conical candle,一个金字塔形状的烛台和一个圆锥形的蜡烛,a pyramidal candle holder?##a conical candle?,shape_val,shape
+380,63097,an oblong sweet potato and a teardrop blueberry,一块长方形的甜薯和一颗泪滴形的蓝莓,an oblong sweet potato?##a teardrop blueberry?,shape_val,shape
+381,206736,a big gorilla and a small mouse,一只大猩猩和一只小老鼠,a big gorilla?##a small mouse?,shape_val,shape
+382,537300,a round cookie and a square tin,一个圆形饼干和一个方形铁罐,a round cookie?##a square tin?,shape_val,shape
+383,829082,a pentagonal caution sign and a pyramidal vase,一个五角形警告标志和一个金字塔形瓶子,a pentagonal caution sign?##a pyramidal vase?,shape_val,shape
+384,676866,a spherical soccer ball and a diamond soccer goal,一个球形的足球和一个菱形的足球门,a spherical soccer ball?##a diamond soccer goal?,shape_val,shape
+385,226152,a rectangular computer and a teardrop pendant,一个矩形电脑和一个水滴形吊坠,a rectangular computer?##a teardrop?,shape_val,shape
+386,702774,an oval picture frame and a rectangular painting,一个椭圆形的画框和一幅矩形的画作,an oval picture frame?##a rectangular painting?,shape_val,shape
+387,710664,a pentagonal pencil and a teardrop pencil sharpener,一支五角形铅笔和一个泪滴形铅笔刨,a pentagonal pencil?##a teardrop pencil sharpener?,shape_val,shape
+388,740153,a teardrop pendant and a pentagonal charm bracelet,一枚泪滴形吊坠和一条五角形魅力手链,a teardrop pendant?##a pentagonal charm bracelet?,shape_val,shape
+389,822746,a cubic box and a cylindrical bottle of lotion,一个立方体盒子和一个圆柱形的乳液瓶,a cubic box?##a cylindrical bottle?##lotion?,shape_val,shape
+390,504265,a big tiger and a small kitten,一只大老虎和一只小猫咪,a big tiger?##a small kitten?,shape_val,shape
+391,358310,a pentagonal road sign and a pyramidal bookshelf,一个五边形的路标和一个金字塔形的书架,a pentagonal road sign?##a pyramidal?##bookshelf?,shape_val,shape
+392,341166,a small rug and a triangular end table,一张小地毯和一个三角形的角几,a small rug?##a triangular end table?,shape_val,shape
+393,565499,a teardrop pendant and a spherical bead necklace,一条泪滴形吊坠和一串圆珠项链,a teardrop?##a spherical bead necklace?,shape_val,shape
+394,9215,a round bagel and a square piece of toast,一个圆形的贝果和一片方形的吐司,a round bagel?##a square piece?##toast?,shape_val,shape
+395,868086,a big elephant and a small cricket,一只大象和一只小蟋蟀,a big elephant?##a small cricket?,shape_val,shape
+396,91619,a cubic ice cube and a cylindrical water bottle,一个立方体冰块和一个圆柱形水瓶,a cubic ice cube?##a cylindrical water bottle?,shape_val,shape
+397,451044,a pentagonal clock and a conical clock face,一个五角形的钟和一个圆锥形的钟面,a pentagonal clock?##a conical clock face?,shape_val,shape
+398,621419,an oblong watermelon and a teardrop pear.,一个长方形的西瓜和一个水滴形的梨。,an oblong watermelon?##a teardrop pear?,shape_val,shape
+399,710258,a pyramidal paperweight and a conical pen holder,一个金字塔形纸镇和一个圆锥形笔筒,a pyramidal paperweight?##a conical pen holder?,shape_val,shape
+400,815827,a big whale and a small dolphin,一只大鲸鱼和一只小海豚,a big whale?##a small dolphin?,shape_val,shape
+401,377873,a rectangular television and a teardrop remote control,一个长方形的电视和一个泪滴形的遥控器,a rectangular television?##a teardrop remote control?,shape_val,shape
+402,473920,an oblong carrot and a teardrop peach,一根长方形的胡萝卜和一个水滴形的桃子,an oblong carrot?##a teardrop peach?,shape_val,shape
+403,36004,a round bagel and a rectangular bacon strip,一个圆形的贝果和一条矩形的培根条,a round bagel?##a rectangular bacon strip?,shape_val,shape
+404,380156,a pyramidal tomb and a spherical urn,一个金字塔形的墓穴和一个球形的骨灰盒,a pyramidal tomb?##a spherical urn?,shape_val,shape
+405,99979,a round bagel and a rectangular piece of toast,一个圆形的贝果和一片长方形的吐司,a round bagel?##a rectangular piece?##toast?,shape_val,shape
+406,6735,a pentagonal badge and a pyramidal crystal,一个五边形徽章和一个金字塔形水晶,a pentagonal badge?##a pyramidal crystal?,shape_val,shape
+407,906449,a spherical snowball and a conical snowman hat,一个球形的雪球和一个圆锥形的雪人帽,a spherical snowball?##a conical snowman hat?,shape_val,shape
+408,348367,an oval picture frame and a square painting,一个椭圆形的画框和一幅方形的画作,an oval picture frame?##a square painting?,shape_val,shape
+409,899153,a long bridge and a short fence,一座长桥和一道短篱笆,a long bridge?##a short fence?,shape_val,shape
+410,728042,a triangular slice of pizza and a pentagonal pizza box,一个三角形的披萨片和一个五边形的披萨盒,a triangular slice?##pizza?##a pentagonal pizza box?,shape_val,shape
+411,748730,a diamond tiara and a round brooch,一顶钻石头饰和一个圆形胸针,a diamond tiara?##a round brooch?,shape_val,shape
+412,550495,a circular pendant light and a triangular corner shelf.,一个圆形吊灯和一个三角形角落架。,a circular pendant light?##a triangular corner shelf?,shape_val,shape
+413,70669,a spherical snowball and a conical party hat,一个球形的雪球和一个圆锥形的派对帽,a spherical snowball?##a conical party hat?,shape_val,shape
+414,755427,a big bear and a small rabbit,一只大熊和一只小兔子,a big bear?##a small rabbit?,shape_val,shape
+415,424500,a pentagonal star and a crescent moon,五角星和新月,a pentagonal star?##a crescent moon?,shape_val,shape
+416,130661,a cubic block and a cylindrical toothpaste tube,一个立方体积木和一个圆柱形牙膏管,a cubic block?##a cylindrical toothpaste tube?,shape_val,shape
+417,598246,a pyramidal trophy and a spherical trophy stand,一个金字塔形奖杯和一个球形奖杯架,a pyramidal trophy?##a spherical trophy stand?,shape_val,shape
+418,950031,a round bagel and a rectangular breakfast sandwich,一个圆形的贝果和一个长方形的早餐三明治,a round bagel?##a rectangular breakfast sandwich?,shape_val,shape
+419,442319,a pentagonal traffic sign and a pyramidal paper clip holder,一个五边形交通标志和一个金字塔形的回形针盒,a pentagonal traffic sign?##a pyramidal paper clip holder?,shape_val,shape
+420,85203,a big elephant and a small dog,一只大象和一只小狗,a big elephant?##a small dog?,shape_val,shape
+421,321138,a cubic box and a conical party hat,一个立方体盒子和一个圆锥形派对帽,a cubic box?##a conical party hat?,shape_val,shape
+422,655383,a spherical tennis ball and a conical tennis shoe,一个球形的网球和一个锥形的网球鞋,a spherical tennis ball?##a conical tennis shoe?,shape_val,shape
+423,162334,a pentagonal parking sign and a pyramidal trophy,一个五边形停车标志和一个金字塔形奖杯,a pentagonal parking sign?##a pyramidal trophy?,shape_val,shape
+424,903875,a pyramidal bookend and a conical bookstand,一个金字塔形书挡和一个圆锥形书架,a pyramidal bookend?##a conical bookstand?,shape_val,shape
+425,18262,a spherical snow globe and an oblong frame,一个球形的雪球和一个长方形的相框,a spherical snow globe?##an oblong frame?,shape_val,shape
+426,440202,a cubic block and a cylindrical container of markers,一个立方体积木和一个圆柱形的马克笔容器,a cubic block?##a cylindrical container?##markers?,shape_val,shape
+427,27140,a circular dining table and a triangular table runner,一个圆形餐桌和一个三角形桌布,a circular dining table?##a triangular table runner?,shape_val,shape
+428,265748,a circular mirror and a triangular shelf unit,一个圆形镜子和一个三角形架子,a circular mirror?##a triangular shelf unit?,shape_val,shape
+429,962540,a cubic block and a cylindrical tube of toothpaste,一个立方体的块状物和一根圆柱形的牙膏管,a cubic block?##a cylindrical tube?##toothpaste?,shape_val,shape
+430,529130,an oblong potato and a teardrop grapefruit,一个长方形的土豆和一个泪滴形的葡萄柚,an oblong potato?##a teardrop grapefruit?,shape_val,shape
+431,63308,a triangular slice of pizza and a pyramidal pizza box,一个三角形切片的披萨和一个金字塔形的披萨盒,a triangular slice?##pizza?##a pyramidal pizza box?,shape_val,shape
+432,996329,a cubic block and a pyramidal puzzle box,一个立方体积木和一个金字塔形的拼图盒,a cubic block?##a pyramidal puzzle box?,shape_val,shape
+433,674517,a conical lampshade and a cubic lamp base,一个圆锥形的灯罩和一个立方体的灯座,a conical lampshade?##a cubic lamp base?,shape_val,shape
+434,167266,a round pizza and a square pizza box,一个圆形的披萨和一个方形的披萨盒,a round pizza?##a square pizza box?,shape_val,shape
+435,16440,a pentagonal yield sign and a pyramidal salt shaker,一个五边形的让路标志和一个金字塔形的盐罐,a pentagonal yield sign?##a pyramidal salt shaker?,shape_val,shape
+436,239992,an oblong squash and a teardrop nectarine.,一个长方形的南瓜和一个水滴形的油桃。,an oblong squash?##a teardrop nectarine?,shape_val,shape
+437,785478,a cubic dice and a triangular game piece,一个立方体骰子和一个三角形游戏棋子,a cubic dice?##a triangular game piece?,shape_val,shape
+438,772150,a circular pendant light and a triangular wall hook,一个圆形吊灯和一个三角形墙钩,a circular pendant light?##a triangular wall hook?,shape_val,shape
+439,451730,a small bathtub and a rectangular bath mat,一个小浴缸和一个长方形的浴室地垫,a small bathtub?##a rectangular bath mat?,shape_val,shape
+440,445555,a cubic book and a cylindrical can of soup,一个立方体形状的书和一个圆柱形的汤罐,a cubic book?##a cylindrical can?##soup?,shape_val,shape
+441,9616,a pentagonal pencil sharpener and a spherical pencil eraser,一个五角形的铅笔刨和一个球形的橡皮擦,a pentagonal pencil sharpener?##a spherical pencil eraser?,shape_val,shape
+442,339237,a circular mirror and a triangular corner shelf,一个圆形镜子和一个三角形角落架,a circular mirror?##a triangular corner shelf?,shape_val,shape
+443,828519,a triangular slice of pie and a rectangular pie dish,一个三角形的派切片和一个长方形的派盘,a triangular slice?##pie?##a rectangular pie dish?,shape_val,shape
+444,501397,a cubic block and a cylindrical bottle of water,一个立方体积木和一个圆柱形水瓶,a cubic block?##a cylindrical bottle?##water?,shape_val,shape
+445,758668,a tall basketball player and a short jockey.,一个高个子篮球运动员和一个矮小的赛马骑师。,a tall basketball player?##a short jockey?,shape_val,shape
+446,700519,a teardrop pendant and a pyramidal gemstone,一颗泪珠形吊坠和一个金字塔形宝石,a teardrop?##a pyramidal gemstone?,shape_val,shape
+447,750702,a big hippopotamus and a small cat,一只大河马和一只小猫,a big hippopotamus?##a small cat?,shape_val,shape
+448,888446,a circular clock and a triangular wall shelf.,一个圆形的钟和一个三角形的墙架。,a circular clock?##a triangular wall shelf?,shape_val,shape
+449,348378,a tall lighthouse and a short bench,一座高大的灯塔和一张矮矮的长凳,a tall lighthouse?##a short bench?,shape_val,shape
+450,934905,a round bagel and a square toaster.,一个圆形的贝果和一个方形的烤面包机。,a round bagel?##a square toaster?,shape_val,shape
+451,155009,a circular clock and a triangular wall art,一个圆形的钟和一个三角形的墙饰,a circular clock?##a triangular wall art?,shape_val,shape
+452,832940,a pyramidal puzzle box and a cubic puzzle piece,一个金字塔形的益智盒和一个立方体形状的拼图块,a pyramidal puzzle box?##a cubic puzzle piece?,shape_val,shape
+453,996966,an oblong squash and a teardrop apricot,一个长方形的南瓜和一个泪滴形的杏子,an oblong squash?##a teardrop apricot?,shape_val,shape
+454,187995,a spherical globe and a conical pencil.,一个球形的地球仪和一个圆锥形的铅笔。,a spherical globe?##a conical pencil?,shape_val,shape
+455,326401,an oblong cucumber and a teardrop kiwi,一个长方形的黄瓜和一个泪滴形的猕猴桃,an oblong cucumber?##a teardrop kiwi?,shape_val,shape
+456,884300,a spherical beach ball and a conical party hat,一个球形的沙滩球和一个圆锥形的派对帽,a spherical beach ball?##a conical party hat?,shape_val,shape
+457,832938,an oval rug and a square coffee table,一个椭圆形的地毯和一个方形的咖啡桌,an oval rug?##a square coffee table?,shape_val,shape
+458,246057,a diamond engagement ring and a teardrop necklace,一枚钻石订婚戒指和一条泪滴形项链,a diamond engagement ring?##a teardrop necklace?,shape_val,shape
+459,615296,an oblong carrot and a teardrop grape,一个长方形的胡萝卜和一个泪珠形的葡萄,an oblong carrot?##a teardrop grape?,shape_val,shape
+460,11161,a spherical soccer ball and a conical traffic cone,一个球形的足球和一个圆锥形的交通锥,a spherical soccer ball?##a conical traffic cone?,shape_val,shape
+461,841620,a tall skyscraper and a short bush.,一座高耸的摩天大楼和一株矮小的灌木。,a tall skyscraper?##a short bush?,shape_val,shape
+462,825253,a small stop sign and a pyramidal paperweight,一个小型停车标志和一个金字塔形纸镇,a small stop sign?##a pyramidal paperweight?,shape_val,shape
+463,184740,a cubic block and a cylindrical jar of honey,一个立方体积木和一个圆柱形蜂蜜罐,a cubic block?##a cylindrical jar?##honey?,shape_val,shape
+464,346693,a round pizza and a rectangular slice of bread,一张圆形的披萨和一片长方形的面包片,a round pizza?##a rectangular slice?##bread?,shape_val,shape
+465,253826,a round bagel and a rectangular toaster,一个圆形的贝果和一个长方形的烤面包机,a round bagel?##a rectangular toaster?,shape_val,shape
+466,710846,a rectangular table and a pentagonal tablecloth,一个长方形的桌子和一个五角形的桌布,a rectangular table?##a pentagonal tablecloth?,shape_val,shape
+467,460075,a tall palm tree and a short shrub,一棵高大的棕榈树和一株矮小的灌木,a tall palm tree?##a short shrub?,shape_val,shape
+468,644389,a big pig and a small mouse,一只大猪和一只小老鼠,a big pig?##a small mouse?,shape_val,shape
+469,5532,an oblong squash and a teardrop peach,一个长方形的南瓜和一个泪滴形的桃子,an oblong squash?##a teardrop peach?,shape_val,shape
+470,12304,a pentagonal stop sign and a pyramidal monument,一个五边形的停车标志和一个金字塔形的纪念碑,a pentagonal stop sign?##a pyramidal monument?,shape_val,shape
+471,921803,a small eraser and a cylindrical pen,一个小橡皮和一支圆柱形的笔,a small eraser?##a cylindrical pen?,shape_val,shape
+472,626948,a spherical globe and a conical pencil sharpener,一个球形地球仪和一个锥形铅笔刀,a spherical globe?##a conical pencil sharpener?,shape_val,shape
+473,433535,a pyramidal trophy and a pentagonal trophy base,一个金字塔形的奖杯和一个五边形的奖杯底座,a pyramidal trophy?##a pentagonal trophy base?,shape_val,shape
+474,971150,an oval bathtub and a rectangular soap dish,一个椭圆形的浴缸和一个长方形的肥皂盒,an oval bathtub?##a rectangular soap dish?,shape_val,shape
+475,42418,a rectangular wallet and a spherical coin purse,一个长方形钱包和一个球形零钱包,a rectangular wallet?##a spherical coin purse?,shape_val,shape
+476,207313,a pentagonal badge and a pyramidal monument,一个五角形徽章和一个金字塔形纪念碑,a pentagonal badge?##a pyramidal monument?,shape_val,shape
+477,613696,a tall tree and a short bush,一棵高大的树和一丛矮小的灌木,a tall tree?##a short bush?,shape_val,shape
+478,452995,a cubic dice and a cylindrical pencil holder,一个立方体骰子和一个圆柱形笔筒,a cubic dice?##a cylindrical pencil holder?,shape_val,shape
+479,706503,a pentagonal street sign and a pyramidal pyramid,一个五边形的街道标志和一个金字塔形的金字塔,a pentagonal street sign?##a pyramidal pyramid?,shape_val,shape
+480,407795,a pyramidal mountain and a conical volcano,一个金字塔形的山和一个圆锥形的火山,a pyramidal mountain?##a conical volcano?,shape_val,shape
+481,73065,a diamond ring and a round necklace,一枚钻石戒指和一个圆形项链,a diamond ring?##a round necklace?,shape_val,shape
+482,611688,a pentagonal badge and a pyramidal award statue,一个五角形徽章和一个金字塔形奖杯,a pentagonal badge?##a pyramidal award statue?,shape_val,shape
+483,306547,a spherical golf ball and a conical tee.,一个球形的高尔夫球和一个圆锥形的球座。,a spherical golf ball?##a conical tee?,shape_val,shape
+484,187962,a tall oak tree and a short blade of grass,一棵高大的橡树和一株矮小的草 Blades,a tall oak tree?##a short blade?##grass?,shape_val,shape
+485,342109,a rectangular table and a round lamp,一个长方形的桌子和一个圆形的灯,a rectangular table?##a round lamp?,shape_val,shape
+486,66763,an oval platter and a rectangular tablecloth.,一个椭圆形的大盘子和一块长方形的桌布。,an oval platter?##a rectangular tablecloth?,shape_val,shape
+487,247390,a teardrop pendant and a diamond brooch pin,一枚泪滴形吊坠和一枚钻石胸针,a teardrop?##a diamond brooch pin?,shape_val,shape
+488,481587,a round doughnut and a square napkin.,一个圆形的甜甜圈和一块方形的餐巾。,a round doughnut?##a square napkin?,shape_val,shape
+489,540744,a diamond cufflink and a spherical shirt button,一颗钻石袖扣和一个球形衬衫纽扣,a diamond cufflink?##a spherical shirt?,shape_val,shape
+490,48407,a cubic dice and a cylindrical salt shaker,一个立方体骰子和一个圆柱形盐瓶,a cubic dice?##a cylindrical salt shaker?,shape_val,shape
+491,186749,an oblong eggplant and a teardrop fig.,一根长圆形的茄子和一个泪滴形的无花果。,an oblong eggplant?##a teardrop fig?,shape_val,shape
+492,996472,a pentagonal stop sign and a pyramidal sculpture,一个五边形的停车标志和一个金字塔形的雕塑,a pentagonal stop sign?##a pyramidal sculpture?,shape_val,shape
+493,627681,a circular clock and a triangular shelf,一个圆形的钟和一个三角形的架子,a circular clock?##a triangular shelf?,shape_val,shape
+494,105380,a round watermelon and a square cutting board.,一个圆形的西瓜和一个方形的砧板。,a round watermelon?##a square cutting board?,shape_val,shape
+495,583929,a circular clock and a triangular bookshelf,一个圆形的钟表和一个三角形的书架,a circular clock?##a triangular?##bookshelf?,shape_val,shape
+496,410914,a big whale and a small shrimp,一头大鲸鱼和一只小虾,a big whale?##a small shrimp?,shape_val,shape
+497,118,an oval picture and a rectangular frame.,一个椭圆形的图片和一个矩形的框架。,an oval picture?##a rectangular frame?,shape_val,shape
+498,82420,an oval dining table and a square dining chair,一个椭圆形餐桌和一个方形餐椅,an oval dining table?##a square dining chair?,shape_val,shape
+499,698644,a cubic die and a cylindrical flashlight,一个立方体骰子和一个圆柱形手电筒,a cubic die?##a cylindrical flashlight?,shape_val,shape
+500,357667,a triangular slice of bread and a rectangular bread basket,一个三角形切片的面包和一个长方形的面包篮,a triangular slice?##bread?##a rectangular bread basket?,shape_val,shape
+501,555640,a pentagonal toolbox and a spherical toolset,一个五边形工具箱和一个球形工具套装,a pentagonal toolbox?##a spherical toolset?,shape_val,shape
+502,747076,a small key and a big door,一把小钥匙和一扇大门,a small key?##a big door?,shape_val,shape
+503,275611,an oval coffee table and a square end table,一个椭圆形的咖啡桌和一个方形的边桌,an oval coffee table?##a square end table?,shape_val,shape
+504,729205,a round balloon and a rectangular party invitation,一个圆形气球和一张长方形的派对邀请函,a round balloon?##a rectangular party invitation?,shape_val,shape
+505,757075,a spherical crystal and a pyramidal crystal holder,一个球形水晶和一个金字塔形水晶座,a spherical crystal?##a pyramidal crystal holder?,shape_val,shape
+506,62588,a cubic box of chocolates and a teardrop chocolate truffle,一个立方体形状的巧克力盒和一个泪滴形的巧克力松露球,a cubic box?##chocolates?##a teardrop chocolate truffle?,shape_val,shape
+507,564186,a pentagonal desk and a diamond desk organizer,一个五边形的书桌和一个钻石形的桌面整理器,a pentagonal desk?##a diamond desk organizer?,shape_val,shape
+508,226918,a big mountain and a small tree,一座大山和一棵小树,a big mountain?##a small tree?,shape_val,shape
+509,458735,an oval table and a square placemat,一个椭圆形的桌子和一个方形的餐垫,an oval table?##a square placemat?,shape_val,shape
+510,7924,a pentagonal chocolate box and a spherical chocolate truffle,一个五角形巧克力盒和一个球形巧克力松露,a pentagonal chocolate box?##a spherical chocolate truffle?,shape_val,shape
+511,930407,a circular ceiling light and a triangular bookshelf.,一个圆形的吊灯和一个三角形的书架。,a circular ceiling light?##a triangular?##bookshelf?,shape_val,shape
+512,953396,a spherical bowling ball and a conical bowling pin,一个球形的保龄球和一个圆锥形的保龄球瓶,a spherical bowling ball?##a conical bowling pin?,shape_val,shape
+513,359608,a big gorilla and a small monkey,一只大猩猩和一只小猴子,a big gorilla?##a small monkey?,shape_val,shape
+514,583352,a short book and a long bookmark,一本薄书配上一条长书签,a short book?##a long bookmark?,shape_val,shape
+515,649587,a small keychain and a big set of keys,一个小钥匙扣和一大串钥匙,a small keychain?##a big set?##keys?,shape_val,shape
+516,49002,a pyramidal gift box and a cubic gift wrap,一个金字塔形礼品盒和一个立方体礼品包装,a pyramidal gift box?##a cubic gift wrap?,shape_val,shape
+517,250911,a cubic Rubik's cube and a pentagonal game box,一个立方体魔方和一个五边形游戏盒,a cubic Rubik's cube?##a pentagonal game box?,shape_val,shape
+518,899722,a big sunflower and a small daisy,一朵大向日葵和一朵小雏菊,a big sunflower?##a small daisy?,shape_val,shape
+519,69782,a cubic Rubik's cube and a cylindrical pencil holder,一个立方体魔方和一个圆筒形笔筒,a cubic Rubik's cube?##a cylindrical pencil holder?,shape_val,shape
+520,289467,a pentagonal handbag and a spherical keychain charm,一个五边形手提包和一个球形钥匙扣饰品,a pentagonal handbag?##a spherical keychain charm?,shape_val,shape
+521,827982,a big truck and a small car,一辆大卡车和一辆小汽车,a big truck?##a small car?,shape_val,shape
+522,950769,a long necklace and a short earring,一条长项链和一对短耳环,a long necklace?##a short earring?,shape_val,shape
+523,31546,an oval coffee table and a square ottoman,一个椭圆形的咖啡桌和一个方形的脚踏凳,an oval coffee table?##a square ottoman?,shape_val,shape
+524,143189,a rectangular phone and a teardrop phone charm,一个矩形手机和一个水滴形手机挂饰,a rectangular phone?##a teardrop phone charm?,shape_val,shape
+525,712316,a small cup and a big saucer,一个小杯子和一个大托盘,a small cup?##a big saucer?,shape_val,shape
+526,564004,a small pebble and a big rock,一颗小石子和一块大石头,a small pebble?##a big rock?,shape_val,shape
+527,213889,a cubic sugar cube and a cylindrical salt shaker,一个立方体糖块和一个圆柱形盐瓶,a cubic sugar cube?##a cylindrical salt shaker?,shape_val,shape
+528,110228,a small button and a big zipper,一个小扣子和一条大拉链,a small button?##a big zipper?,shape_val,shape
+529,246070,a spherical balloon and a rectangular banner,一个球形气球和一个长方形横幅,a spherical balloon?##a rectangular banner?,shape_val,shape
+530,940006,a big balloon and a small marble,一个大气球和一个小弹珠,a big balloon?##a small marble?,shape_val,shape
+531,32986,a diamond wine glass and a cylindrical wine bottle,一只钻石形酒杯和一个圆柱形酒瓶,a diamond wine glass?##a cylindrical wine bottle?,shape_val,shape
+532,546595,a round peach and a rectangular bar of soap,一个圆形的桃子和一块长方形的肥皂,a round peach?##a rectangular bar?##soap?,shape_val,shape
+533,887208,a triangular slice of bread and a cylindrical loaf,一个三角形切片的面包和一个圆柱形的面包卷,a triangular slice?##bread?##a cylindrical loaf?,shape_val,shape
+534,707751,an oblong potato and a teardrop plum,一颗长方形的土豆和一颗泪滴形的李子,an oblong potato?##a teardrop plum?,shape_val,shape
+535,543173,an oval pizza and a round pizza cutter.,一个椭圆形的披萨和一个圆形的披萨切割器。,an oval pizza?##a round pizza cutter?,shape_val,shape
+536,526289,a triangular sign and a small sculpture,一个三角形标志和一个小雕塑,a triangular sign?##a small sculpture?,shape_val,shape
+537,629514,an big bathtub and a square showerhead,一个大浴缸和一个方形淋浴头,an big bathtub?##a square showerhead?,shape_val,shape
+538,460533,a small lion and a big horse,一只小狮子和一匹大马,a small lion?##a big horse?,shape_val,shape
+539,719179,a round cinnamon roll and a round toaster pastry,一个圆形肉桂卷和一个圆形烤面点,a round cinnamon roll?##a round toaster pastry?,shape_val,shape
+540,995148,The cylindrical water bottle with its square lid and conical base kept hikers hydrated on the triangular trail.,这款圆柱形水壶，配有方形盖子和圆锥形底座，在三角形徒步道上为徒步者提供了充足的水分。,The cylindrical water bottle?##its square lid?##conical base?##hikers?##the triangular trail?,shape_val,shape
+541,302014,The rectangular mirror with its oval reflection and oblong frame hung in the round bathroom.,这面长方形镜子，带着椭圆形的反射和长方形的框架，挂在圆形的浴室里。,The rectangular mirror?##its oval reflection?##oblong frame?##the round bathroom?,shape_val,shape
+542,667432,The teardrop earrings with their triangular studs and spherical pearls sparkled in the diamond jewelry box.,泪滴形耳环配上三角形耳钉和圆形珍珠，在钻石首饰盒中闪耀着光芒。,The teardrop earrings?##their triangular studs?##spherical pearls?##the diamond jewelry box?,shape_val,shape
+543,14137,The cubic bookshelf with its cylindrical legs and rectangular shelves held books in the oblong study.,这个立方体书架，带有圆柱形的腿和长方形的架子，放置在长方形书房里的书籍。,The cubic bookshelf?##its cylindrical legs?##rectangular shelves?##books?##the oblong study?,shape_val,shape
+544,176508,The triangular sail with its pentagonal stitching and oblong boom propelled the circular boat on the ocean.,三角形的帆，上面缀有五边形的缝线和长方形的桅杆，推动着圆形的船在海洋上前进。,The triangular sail?##its pentagonal stitching?##oblong boom?##the circular boat?##the ocean?,shape_val,shape
+545,142752,The crescent sofa with its square cushions and oval back provided seating in the triangular living room.,新月形沙发配上方形靠垫和椭圆形背靠，在三角形客厅中提供了座位。,The crescent sofa?##its square cushions?##oval?##seating?##the triangular living room?,shape_val,shape
+546,860787,The oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room.,这个长方形花瓶上有菱形图案和圆形口，被放置在房间的锥形角落里展示着花朵。,The oblong vase?##its diamond pattern?##circular mouth?##flowers?##the conical corner?##the room?,shape_val,shape
+547,63505,The pyramidal pyramid with its triangular base and rectangular entrance attracted tourists to the square desert.,这座以三角形为底、带有矩形入口的金字塔吸引了众多游客前往这片广阔的沙漠。,The pyramidal pyramid?##its triangular base?##rectangular entrance?##tourists?##the square desert?,shape_val,shape
+548,15481,The circular steering wheel with its triangular spokes and oblong rim controlled the conical car on the pentagonal road.,圆形方向盘通过其三角形辐条和椭圆形边缘控制着在五边形道路上行驶的圆锥形汽车。,The circular steering wheel?##its triangular spokes?##oblong rim?##the conical car?##the pentagonal road?,shape_val,shape
+549,52580,The conical ice cream cone with its spherical scoop and triangular cone held a tasty treat in the diamond park.,圆锥形的冰淇淋蛋筒，顶着一个球形的冰淇淋球，成为了钻石公园里一道美味的风景。,The conical ice cream?##its spherical scoop?##triangular cone?##a tasty treat?##the diamond park?,shape_val,shape
+550,283062,A long rectangular table and a small circular vase were placed in the center of the room.,房间中央摆放着一张长方形的桌子和一个小圆形的花瓶。,A long rectangular table?##a small circular vase?##the center?##the room?,shape_val,shape
+551,774126,The cylindrical tower and the spherical dome stood tall against the skyline.,圆柱形的塔楼和球形的穹顶在天际线上巍然耸立。,The cylindrical tower?##the spherical dome?##the skyline?,shape_val,shape
+552,519897,The triangular wedge and the oblong brick were the only pieces left in the construction set.,在这套建筑玩具中，只剩下了三角楔形块和长方形砖块两个部件。,The triangular wedge?##the oblong brick?##the only pieces?##the construction set?,shape_val,shape
+553,382100,The round knob and the square plate were attached to the door.,圆形把手和方形板都被安装在门上了。,The round knob?##the square plate?##the door?,shape_val,shape
+554,128938,The teardrop pendant and the diamond-studded bracelet were her favorite pieces of jewelry.,那颗泪滴形吊坠和镶满钻石的手链是她最喜欢的珠宝首饰。,The teardrop?##the diamond-studded bracelet?##her favorite pieces?##jewelry?,shape_val,shape
+555,60937,The conical hat and the crescent moon were the only things visible in the night sky.,夜空中唯一可见的是锥形帽和新月。,The conical hat?##the crescent moon?##the only things?##the night sky?,shape_val,shape
+556,317814,A row of cubic boxes and a pile of pyramidal stones were stacked neatly in the corner of the room.,一排立方体盒子和一堆金字塔形的石头被整齐地堆放在房间的角落里。,A row?##cubic boxes?##a pile?##pyramidal stones?##the corner?##the room?,shape_val,shape
+557,377448,The oval mirror and the rectangular frame were mounted on the wall.,椭圆形镜子和矩形框架被挂在墙上。,The oval mirror?##the rectangular frame?##the wall?,shape_val,shape
+558,842141,The spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson.,在几何课上，重点讲解的对象是球体和五角锥。,The spherical ball?##the pentagonal pyramid?##the objects?##focus?##the geometry lesson?,shape_val,shape
+559,451745,The triangular sail and the square deck were the defining features of the sailboat.,三角帆和方形甲板是这艘帆船的显著特征。,The triangular sail?##the square deck?##the defining features?##the sailboat?,shape_val,shape
+560,510686,The cylindrical barrel and the conical flask were the only containers left in the laboratory.,实验室里只剩下圆柱形的桶和圆锥形的烧瓶了。,The cylindrical barrel?##the conical flask?##the only containers?##the laboratory?,shape_val,shape
+561,725287,The oblong rug and the circular ottoman were arranged in the center of the living room.,椭圆形的地毯和圆形的脚踏凳被摆放在客厅的中央。,The oblong rug?##the circular ottoman?##the center?##the living room?,shape_val,shape
+562,513867,The diamond window and the rectangular door were the only openings in the otherwise blank wall.,除了一扇菱形窗户和一个长方形的门外，这面墙别无其他开口。,The diamond window?##the rectangular door?##the only openings?##the otherwise blank wall?,shape_val,shape
+563,248374,The spherical planet and the crescent moon were the celestial bodies that fascinated him the most.,球形的行星和新月是他最为着迷的天体。,The spherical planet?##the crescent moon?##the celestial bodies?##that?##him?,shape_val,shape
+564,237846,The triangular slice and the round pizza were the only options on the menu.,菜单上只有三角形切片和圆形披萨两种选择。,The triangular slice?##the round pizza?##the only options?##the menu?,shape_val,shape
+565,426597,The cubic dice and the cylindrical pencil were the tools of his favorite game.,立方体骰子和圆柱形铅笔是他最喜欢的游戏工具。,The cubic dice?##the cylindrical pencil?##the tools?##his favorite game?,shape_val,shape
+566,461410,The teardrop leaves and the oval petals made up the floral arrangement on the table.,桌上的花卉装饰由泪滴形的叶子和椭圆形的花瓣组成。,The teardrop leaves?##the oval petals?##the floral arrangement?##the table?,shape_val,shape
+567,128043,The square room and the oblong hallway were the only spaces in the house.,这所房子里只有一个方形的房间和一个长方形的走廊。,The square room?##the oblong hallway?##the only spaces?##the house?,shape_val,shape
+568,896543,The pyramidal roof and the triangular archway were the defining features of the ancient temple.,金字塔形的屋顶和三角形的拱门是这座古庙的显著特征。,The pyramidal roof?##the triangular archway?##the defining features?##the ancient temple?,shape_val,shape
+569,393997,The circular wreath and the rectangular picture frame hung on the front door.,圆形花环和长方形画框挂在前门上。,The circular wreath?##the rectangular picture frame?##the front door?,shape_val,shape
+570,870101,The conical hat and the spherical ball were the objects of attention in the magic show.,锥形帽和球形球是魔术表演中的焦点。,The conical hat?##the spherical ball?##the objects?##attention?##the magic show?,shape_val,shape
+571,519662,The crescent curve and the diamond pattern were the highlights of the carpet design.,新月形曲线和菱形图案是这款地毯设计的亮点。,The crescent curve?##the diamond pattern?##the highlights?##the carpet design?,shape_val,shape
+572,263662,The pentagonal prism and the triangular pyramid were the shapes that he struggled with the most in math class.,他在数学课上最难以掌握的图形是五角柱和三角锥。,The pentagonal prism?##the triangular pyramid?##the shapes?##that?##he?##math class?,shape_val,shape
+573,171590,The cylindrical column and the square pedestal were the only pieces of furniture in the foyer.,门厅里唯一的家具就是一个圆柱形的柱子和一个方形的底座。,The cylindrical column?##the square pedestal?##the only pieces?##furniture?##the foyer?,shape_val,shape
+574,97769,The oblong table and the round chairs were arranged for the dinner party.,为了晚宴，长方形的桌子和圆形的椅子被摆放好了。,The oblong table?##the round chairs?##the dinner party?,shape_val,shape
+575,996392,The spherical globe and the teardrop droplet were the symbols of science and nature.,球形地球和泪滴状水滴是科学与自然的象征。,The spherical globe?##the teardrop droplet?##the symbols?##science?##nature?,shape_val,shape
+576,212568,The triangular roof and the diamond windows were the defining features of the modern architecture.,三角形的屋顶和菱形的窗户是这座现代建筑的显著特征。,The triangular roof?##the diamond windows?##the defining features?##the modern architecture?,shape_val,shape
+577,565592,The cubic block and the cylindrical tube were the building blocks for his latest invention.,立方体积木和圆柱形管是他最新发明的基础部件。,The cubic block?##the cylindrical tube?##the building blocks?##his latest invention?,shape_val,shape
+578,530071,The rectangular screen and the oval speakers were the only electronic devices in the room.,房间里唯一的电子设备就是矩形屏幕和椭圆形的扬声器。,The rectangular screen?##the oval speakers?##the only electronic devices?##the room?,shape_val,shape
+579,754955,The conical mountain and the crescent beach were the contrasting views from the hotel room.,从酒店房间看出去，锥形的山和新月形的海滩形成了鲜明的对比。,The conical mountain?##the crescent beach?##the contrasting views?##the hotel room?,shape_val,shape
+580,948140,The pentagonal star and the square checkerboard were the patterns on the quilt.,这床被子上的图案是五角星和方格棋盘。,The pentagonal star?##the square checkerboard?##the patterns?##the quilt?,shape_val,shape
+581,440177,The pyramidal shape and the triangular lines were the inspiration for the art project.,金字塔形状和三角线条是这个艺术项目的灵感来源。,The pyramidal shape?##the triangular lines?##the inspiration?##the art project?,shape_val,shape
+582,193328,The oblong painting and the circular sculpture were the centerpieces of the art exhibit.,长方形的画作和圆形的雕塑是艺术展览的核心展品。,The oblong painting?##the circular sculpture?##the centerpieces?##the art exhibit?,shape_val,shape
+583,22464,The diamond ring and the teardrop necklace were the precious gifts from her beloved.,钻石戒指和水滴项链是她心爱的人赠送的珍贵礼物。,The diamond ring?##the teardrop necklace?##the precious gifts?,shape_val,shape
+584,337084,The cylindrical tower and the spherical fountain were the landmarks of the city.,圆柱形的塔楼和球形的喷泉是这座城市的地标。,The cylindrical tower?##the spherical fountain?##the landmarks?##the city?,shape_val,shape
+585,887871,The triangular flag and the rectangular banner were waving in the wind on the parade.,游行上，三角形的旗帜和长方形的横幅在风中飘扬。,The triangular flag?##the rectangular banner?##the wind?##the parade?,shape_val,shape
+586,91481,The cubic room and the conical lampshade were the unique features of the hotel suite.,酒店套房的独特之处在于其立方体形状的房间和圆锥形的灯罩。,The cubic room?##the conical lampshade?##the unique features?##the hotel suite?,shape_val,shape
+587,326639,The oval platter and the round bowl were used for serving dinner.,椭圆形的大盘子和圆形的碗被用来上晚餐。,The oval platter?##the round bowl?##dinner?,shape_val,shape
+588,979445,The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit.,博物馆展览中的晶体呈现出五角柱和四面体金字塔的形状。,The pentagonal prism?##the pyramidal tetrahedron?##the shapes?##the crystals?##the museum exhibit?,shape_val,shape
+589,634173,A triangular plane and a circular hot air balloon floated in the sky.,一架三角形的飞机和一个圆形的热气球在天空中飘浮。,A triangular plane?##a circular hot air balloon?##the sky?,shape_val,shape
+590,713777,A small kitten and a big dog sat side by side.,一只小猫和一只大狗并排坐着。,A small kitten?##a big dog?##side?##side?,shape_val,shape
+591,653877,A long road and a short path led to the same destination.,一条漫长的道路和一条短途径都通向同一个目的地。,A long road?##a short path?##the same destination?,shape_val,shape
+592,930493,The tall tree and the short shrub created a contrast in the garden.,高大的树木和矮小的灌木在花园中形成了鲜明的对比。,The tall tree?##the short shrub?##a contrast?##the garden?,shape_val,shape
+593,760628,The big book and the small notepad were both useful for different purposes.,大本书和小记事本各有所用，分别适用于不同的目的。,The big book?##the small notepad?##different purposes?,shape_val,shape
+594,260551,The long dress and the short skirt were both fashionable choices.,长裙和短裙都是时尚的选择。,The long dress?##the short skirt?##fashionable choices?,shape_val,shape
+595,413459,The tall tower and the short building dominated the skyline.,高塔和矮楼主宰了天际线。,The tall tower?##the short building?##the skyline?,shape_val,shape
+596,868332,The big elephant and the small mouse made an unlikely pair.,大象和小老鼠成了一对意想不到的伙伴。,The big elephant?##the small mouse?##an unlikely pair?,shape_val,shape
+597,983414,The long river and the short stream flowed through the picturesque valley.,长河与短溪流经风景如画的山谷。,The long river?##the short stream?##the picturesque valley?,shape_val,shape
+598,603151,The tall ladder and the short stool were both necessary for reaching high places.,要想够到高处，不仅需要长梯子，矮凳子也是必不可少的。,The tall ladder?##the short stool?##high places?,shape_val,shape
+599,71339,The big house and the small cabin provided different types of accommodations.,大宅和小木屋提供了不同类型的住宿。,The big house?##the small cabin?##different types?##accommodations?,shape_val,shape
+600,975244,a plastic toy and a glass bottle,一个塑料玩具和一个玻璃瓶,a plastic toy?##a glass bottle?,texture_val,texture
+601,299683,rubber sole shoes and fluffy clouds,橡胶鞋底和蓬松的云朵,rubber sole shoes?##fluffy clouds?,texture_val,texture
+602,568506,a metallic desk lamp and a fluffy sweater,一盏金属台灯和一件毛茸茸的毛衣,a metallic desk lamp?##a fluffy sweater?,texture_val,texture
+603,598431,a rubber band and a wooden floor,一根橡皮筋和一块木地板,a rubber band?##a wooden floor?,texture_val,texture
+604,446318,a fabric towel and a glass table,一条布质毛巾和一张玻璃桌子,a fabric towel?##a glass table?,texture_val,texture
+605,641608,a metallic car and a fabric dress,一辆金属质感的汽车和一件布料制成的连衣裙,a metallic car?##a fabric dress?,texture_val,texture
+606,679522,a rubber ball and a leather wallet,一个橡胶球和一个皮质钱包,a rubber ball?##a leather wallet?,texture_val,texture
+607,983215,a fabric towel and a leather chair,一条布质毛巾和一把皮质椅子,a fabric towel?##a leather chair?,texture_val,texture
+608,456202,a fluffy rug and a leather wallet,一张毛茸茸的地毯和一个皮质钱包,a fluffy rug?##a leather wallet?,texture_val,texture
+609,909180,a plastic cutlery and fluffy clouds,塑料餐具和蓬松的云朵,a plastic cutlery and fluffy clouds?,texture_val,texture
+610,814657,a wooden door and a glass jar,一个木门和一个玻璃罐,a wooden door?##a glass jar?,texture_val,texture
+611,887978,a fluffy teddy bear and a leather belt,一只毛茸茸的泰迪熊和一条皮带,a fluffy teddy bear?##a leather belt?,texture_val,texture
+612,758463,a plastic toy and a fluffy pillow,一个塑料玩具和一个毛绒枕头,a plastic toy?##a fluffy pillow?,texture_val,texture
+613,656166,a rubber band and a plastic container,一个橡皮筋和一个塑料容器,a rubber band?##a plastic container?,texture_val,texture
+614,916818,a leather wallet and a glass window,一只皮钱包和一扇玻璃窗,a leather wallet?##a glass window?,texture_val,texture
+615,149390,a wooden desk and a leather jacket,一张木质书桌和一件皮夹克,a wooden desk?##a leather jacket?,texture_val,texture
+616,538848,a metallic spoon and a wooden chair,一把金属勺子和一把木椅,a metallic spoon?##a wooden chair?,texture_val,texture
+617,748355,a leather jacket and a glass vase,一件皮夹克和一个玻璃花瓶,a leather jacket?##a glass vase?,texture_val,texture
+618,844956,a wooden spoon and a fabric rug,一个木勺和一块布地毯,a wooden spoon?##a fabric rug?,texture_val,texture
+619,771116,a metallic jewelry and a glass bottle,一件金属首饰和一个玻璃瓶,a metallic jewelry?##a glass bottle?,texture_val,texture
+620,376561,a metallic desk lamp and a wooden toy,一盏金属台灯和一个木制玩具,a metallic desk lamp?##a wooden toy?,texture_val,texture
+621,443016,a plastic phone case and a leather chair,一个塑料手机壳和一把皮椅,a plastic phone case?##a leather chair?,texture_val,texture
+622,852956,a rubber band and a wooden spoon,一根橡皮筋和一个木勺子,a rubber band?##a wooden spoon?,texture_val,texture
+623,715680,a metallic key and a fluffy pillow,一把金属钥匙和一个毛绒绒的枕头,a metallic key?##a fluffy pillow?,texture_val,texture
+624,732838,a leather shoes and a glass cup,一双皮鞋和一个玻璃杯,a leather shoes?##a glass cup?,texture_val,texture
+625,103801,a metallic door knob and a wooden floor,一个金属门把手和一块木地板,a metallic door knob?##a wooden floor?,texture_val,texture
+626,317380,a rubber tire and a metallic key,一个橡胶轮胎和一个金属钥匙,a rubber tire?##a metallic key?,texture_val,texture
+627,864343,a metallic keychain and wooden chopsticks,一个金属钥匙扣和一副木筷子,a metallic keychain?##wooden chopsticks?,texture_val,texture
+628,997527,a fabric blanket and a leather jacket,一条布制毯子和一件皮夹克,a fabric blanket?##a leather jacket?,texture_val,texture
+629,789210,a plastic container and a glass jar,一个塑料容器和一个玻璃罐,a plastic container?##a glass jar?,texture_val,texture
+630,992807,fluffy clouds and a glass table,蓬松的云朵和一张玻璃桌子,fluffy clouds?##a glass table?,texture_val,texture
+631,54639,a rubber eraser and a metallic door knob,一个橡皮擦和一个金属门把手,a rubber eraser?##a metallic door knob?,texture_val,texture
+632,109923,a rubber tire and a leather chair,一个橡胶轮胎和一把皮椅,a rubber tire?##a leather chair?,texture_val,texture
+633,280163,a fabric bag and a glass vase,一个布袋和一个玻璃花瓶,a fabric bag?##a glass vase?,texture_val,texture
+634,295752,a plastic container and a fabric blanket,一个塑料容器和一条布毯,a plastic container?##a fabric blanket?,texture_val,texture
+635,983,a metallic desk lamp and a fabric curtain,一盏金属台灯和一幅布艺窗帘,a metallic desk lamp?##a fabric curtain?,texture_val,texture
+636,311713,a metallic desk lamp and a glass cup,一个金属台灯和一个玻璃杯,a metallic desk lamp?##a glass cup?,texture_val,texture
+637,824743,a metallic car and a fluffy sweater,一辆金属质感的汽车和一件毛茸茸的毛衣,a metallic car?##a fluffy sweater?,texture_val,texture
+638,835314,a metallic door knob and a fabric blanket,一个金属门把手和一条布制毯子,a metallic door knob?##a fabric blanket?,texture_val,texture
+639,66027,a rubber ball and a glass vase,一个橡胶球和一个玻璃花瓶,a rubber ball?##a glass vase?,texture_val,texture
+640,320318,a wooden toy and a fabric pants,一个木制玩具和一条布裤子,a wooden toy?##a fabric pants?,texture_val,texture
+641,661740,rubber sole shoes and a metallic key,橡胶鞋底的鞋子和一把金属钥匙,rubber sole shoes?##a metallic key?,texture_val,texture
+642,351042,a wooden door and a fluffy blanket,一扇木门和一条毛茸茸的毯子,a wooden door?##a fluffy blanket?,texture_val,texture
+643,687811,a plastic container and a leather chair,一个塑料容器和一把皮椅,a plastic container?##a leather chair?,texture_val,texture
+644,429309,rubber gloves and a wooden table,橡胶手套和一张木桌,rubber gloves?##a wooden table?,texture_val,texture
+645,856232,a fabric shirt and a fluffy teddy bear,一件布料衬衫和一个毛绒绒的泰迪熊,a fabric shirt?##a fluffy teddy bear?,texture_val,texture
+646,284604,a wooden floor and a fabric shirt,木质地板和布料衬衫,a wooden floor?##a fabric shirt?,texture_val,texture
+647,757752,a fabric bag and a leather chair,一个布质手提包和一把皮质椅子,a fabric bag?##a leather chair?,texture_val,texture
+648,181844,a plastic bag and a fabric pants,一个塑料袋和一条布裤子,a plastic bag?##a fabric pants?,texture_val,texture
+649,57075,a fabric pants and a fluffy rug,一条布料裤子和一张毛茸茸的地毯,a fabric pants?##a fluffy rug?,texture_val,texture
+650,657183,a metallic spoon and a glass vase,一个金属勺子和一个玻璃花瓶,a metallic spoon?##a glass vase?,texture_val,texture
+651,892818,a rubber eraser and leather gloves,一个橡皮擦和一副皮手套,a rubber eraser and leather gloves?,texture_val,texture
+652,557015,a rubber tire and a metallic fork,一个橡胶轮胎和一个金属叉子,a rubber tire?##a metallic fork?,texture_val,texture
+653,501726,a plastic container and a metallic fork,一个塑料容器和一把金属叉子,a plastic container?##a metallic fork?,texture_val,texture
+654,53863,a wooden table and a leather belt,一张木头桌子和一条皮带,a wooden table?##a leather belt?,texture_val,texture
+655,866394,a wooden floor and a glass bottle,一个木质地板和一个玻璃瓶,a wooden floor?##a glass bottle?,texture_val,texture
+656,409970,a metallic door knob and a fabric pillow,一个金属门把手和一个布艺枕头,a metallic door knob?##a fabric pillow?,texture_val,texture
+657,272378,a rubber ball and a fabric curtain,一个橡胶球和一块布帘,a rubber ball?##a fabric curtain?,texture_val,texture
+658,377051,a wooden table and a fabric blanket,一张木头桌子和一条布制毯子,a wooden table?##a fabric blanket?,texture_val,texture
+659,893194,a plastic toy and a leather bag,一个塑料玩具和一个皮质手提包,a plastic toy?##a leather bag?,texture_val,texture
+660,800235,a plastic phone case and a fabric bag,一个塑料手机壳和一个布制袋子,a plastic phone case?##a fabric bag?,texture_val,texture
+661,174068,a metallic watch and a glass bottle,一块金属手表和一个玻璃瓶,a metallic watch?##a glass bottle?,texture_val,texture
+662,651390,a metallic key and fluffy clouds,一把金属钥匙和蓬松的云朵,a metallic key and fluffy clouds?,texture_val,texture
+663,162940,rubber gloves and a metallic watch,橡胶手套和一块金属手表,rubber gloves?##a metallic watch?,texture_val,texture
+664,136731,a plastic toy and a wooden table,一个塑料玩具和一张木头桌子,a plastic toy?##a wooden table?,texture_val,texture
+665,649604,a wooden toy and a fabric hat,一个木制玩具和一顶布帽,a wooden toy?##a fabric hat?,texture_val,texture
+666,385127,a metallic fork and a fabric dress,一把金属叉子和一件布料裙子,a metallic fork?##a fabric dress?,texture_val,texture
+667,45834,a plastic cutlery and a glass mirror,一副塑料餐具和一面玻璃镜子,a plastic cutlery?##a glass mirror?,texture_val,texture
+668,508028,a fabric rug and a leather belt,一块布料地毯和一条皮带,a fabric rug?##a leather belt?,texture_val,texture
+669,793315,a plastic container and a fluffy rug,一个塑料容器和一块毛茸茸的地毯,a plastic container?##a fluffy rug?,texture_val,texture
+670,156273,a metallic car and a glass cup,一辆金属车和一个玻璃杯,a metallic car?##a glass cup?,texture_val,texture
+671,181436,a rubber tire and a plastic bottle,一个橡胶轮胎和一个塑料瓶,a rubber tire?##a plastic bottle?,texture_val,texture
+672,457468,a leather chair and a glass cup,一把皮椅和一个玻璃杯,a leather chair?##a glass cup?,texture_val,texture
+673,109691,a wooden chair and a fabric hat,一把木椅和一顶布帽,a wooden chair?##a fabric hat?,texture_val,texture
+674,509553,a wooden desk and leather gloves,一个木质书桌和一副皮手套,a wooden desk and leather gloves?,texture_val,texture
+675,22556,a plastic chair and a fluffy teddy bear,一把塑料椅和一个毛绒绒的泰迪熊,a plastic chair?##a fluffy teddy bear?,texture_val,texture
+676,996857,a fabric pillow and a leather chair,一只布艺枕头和一把皮质椅子,a fabric pillow?##a leather chair?,texture_val,texture
+677,865601,a fabric rug and a fluffy pillow,一块布艺地毯和一个蓬松的枕头,a fabric rug?##a fluffy pillow?,texture_val,texture
+678,416314,a metallic watch and a fluffy sweater,一块金属手表和一件毛茸茸的毛衣,a metallic watch?##a fluffy sweater?,texture_val,texture
+679,817548,rubber gloves and a fabric hat,橡胶手套和一顶布帽,rubber gloves?##a fabric hat?,texture_val,texture
+680,331356,a metallic key and a fabric curtain,一把金属钥匙和一块布帘,a metallic key?##a fabric curtain?,texture_val,texture
+681,410480,a plastic container and a glass window,一个塑料容器和一扇玻璃窗,a plastic container?##a glass window?,texture_val,texture
+682,233208,a fabric hat and a fluffy blanket,一顶布料帽子和一条毛茸茸的毯子,a fabric hat?##a fluffy blanket?,texture_val,texture
+683,140544,a metallic spoon and a fluffy blanket,一把金属勺子和一条柔软的毯子,a metallic spoon?##a fluffy blanket?,texture_val,texture
+684,4204,a wooden spoon and a glass bottle,一个木勺和一个玻璃瓶,a wooden spoon?##a glass bottle?,texture_val,texture
+685,560229,a metallic desk lamp and a fabric dress,一盏金属台灯和一件布料连衣裙,a metallic desk lamp?##a fabric dress?,texture_val,texture
+686,778035,a fabric blanket and a fluffy blanket,一条布料毯子和一条毛茸茸的毯子,a fabric blanket?##a fluffy blanket?,texture_val,texture
+687,793954,a metallic door knob and a fabric pants,一个金属门把手和一条布料裤子,a metallic door knob?##a fabric pants?,texture_val,texture
+688,730549,a rubber band and wooden chopsticks,一根橡皮筋和一双木筷子,a rubber band?##wooden chopsticks?,texture_val,texture
+689,227870,rubber sole shoes and a fluffy blanket,橡胶底鞋和一条毛茸茸的毯子,rubber sole shoes?##a fluffy blanket?,texture_val,texture
+690,984420,a plastic container and a fluffy teddy bear,一个塑料容器和一个毛绒绒的泰迪熊,a plastic container?##a fluffy teddy bear?,texture_val,texture
+691,669533,a metallic door knob and a wooden desk,一个金属门把手和一张木制书桌,a metallic door knob?##a wooden desk?,texture_val,texture
+692,125858,a wooden chair and a fluffy teddy bear,一把木椅和一个毛绒绒的泰迪熊,a wooden chair?##a fluffy teddy bear?,texture_val,texture
+693,927975,a metallic jewelry and a fabric dress,一件金属首饰和一条布料裙子,a metallic jewelry?##a fabric dress?,texture_val,texture
+694,537067,a rubber ball and a metallic car,一个橡胶球和一辆金属车,a rubber ball?##a metallic car?,texture_val,texture
+695,998945,a fabric rug and fluffy clouds,一块织物地毯和蓬松的云朵,a fabric rug and fluffy clouds?,texture_val,texture
+696,869557,a plastic chair and leather gloves,一把塑料椅和一对皮手套,a plastic chair?##leather?,texture_val,texture
+697,808091,a wooden door and a fabric dress,一扇木门和一件布料裙子,a wooden door?##a fabric dress?,texture_val,texture
+698,407504,a plastic bag and a glass jar,一个塑料袋和一个玻璃罐,a plastic bag?##a glass jar?,texture_val,texture
+699,587157,a rubber band and a glass jar,一个橡皮筋和一个玻璃罐,a rubber band?##a glass jar?,texture_val,texture
+700,123144,a plastic chair and a metallic car,一把塑料椅子和一辆金属汽车,a plastic chair?##a metallic car?,texture_val,texture
+701,124685,a plastic cutlery and a wooden door,一套塑料餐具和一扇木门,a plastic cutlery?##a wooden door?,texture_val,texture
+702,960622,a metallic knife and a glass jar,一把金属刀和一个玻璃罐,a metallic knife?##a glass jar?,texture_val,texture
+703,875079,a rubber ball and a leather shoes,一个橡胶球和一双皮鞋,a rubber ball?##a leather shoes?,texture_val,texture
+704,286045,rubber gloves and a fluffy pillow,橡胶手套和一个毛茸茸的枕头,rubber gloves?##a fluffy pillow?,texture_val,texture
+705,2479,a fabric blanket and a glass jar,一条布毯和一个玻璃罐,a fabric blanket?##a glass jar?,texture_val,texture
+706,665583,a fluffy pillow and a glass window,一个蓬松的枕头和一扇玻璃窗,a fluffy pillow?##a glass window?,texture_val,texture
+707,924733,a metallic key and a wooden jewelry box,一把金属钥匙和一个木质首饰盒,a metallic key?##a wooden jewelry box?,texture_val,texture
+708,284893,a metallic keychain and a fluffy teddy bear,,a metallic keychain?##a fluffy teddy bear?,texture_val,texture
+709,287635,a rubber band and a wooden toy,,a rubber band?##a wooden toy?,texture_val,texture
+710,738002,a plastic bottle and a leather jacket,一个塑料瓶和一件皮夹克,a plastic bottle?##a leather jacket?,texture_val,texture
+711,494724,a plastic phone case and a wooden toy,一个塑料手机壳和一个木制玩具,a plastic phone case?##a wooden toy?,texture_val,texture
+712,553335,rubber sole shoes and a plastic container,橡胶底鞋和一个塑料容器,rubber sole shoes?##a plastic container?,texture_val,texture
+713,531221,a fluffy pillow and a leather belt,一个蓬松的枕头和一条皮带,a fluffy pillow?##a leather belt?,texture_val,texture
+714,946229,a rubber band and a fabric blanket,一根橡皮筋和一块布毯,a rubber band?##a fabric blanket?,texture_val,texture
+715,981445,a metallic door knob and a glass mirror,一个金属门把手和一面玻璃镜子,a metallic door knob?##a glass mirror?,texture_val,texture
+716,589289,leather gloves and a glass jar,皮手套和一个玻璃罐,leather gloves?##a glass jar?,texture_val,texture
+717,375123,rubber sole shoes and a fluffy teddy bear,橡胶底鞋和一个毛绒绒的泰迪熊,rubber sole shoes?##a fluffy teddy bear?,texture_val,texture
+718,338259,rubber gloves and a metallic knife,,rubber gloves?##a metallic knife?,texture_val,texture
+719,775137,wooden chopsticks and a glass cup,木筷子和一个玻璃杯,wooden chopsticks?##a glass cup?,texture_val,texture
+720,379528,a rubber band and a glass window,一根橡皮筋和一扇玻璃窗,a rubber band?##a glass window?,texture_val,texture
+721,189596,a metallic desk lamp and a leather jacket,一盏金属台灯和一件皮夹克,a metallic desk lamp?##a leather jacket?,texture_val,texture
+722,592747,a fabric pillow and a fluffy blanket,一只布艺枕头和一条蓬松的毯子,a fabric pillow?##a fluffy blanket?,texture_val,texture
+723,627811,a fabric hat and a glass mirror,一顶布帽和一面玻璃镜子,a fabric hat?##a glass mirror?,texture_val,texture
+724,411065,a rubber ball and a leather belt,一个橡胶球和一条皮带,a rubber ball?##a leather belt?,texture_val,texture
+725,33569,a plastic phone case and a fabric curtain,一个塑料手机壳和一块布艺窗帘,a plastic phone case?##a fabric curtain?,texture_val,texture
+726,44238,a rubber band and a fabric curtain,一根橡皮筋和一块布窗帘,a rubber band?##a fabric curtain?,texture_val,texture
+727,276721,a metallic fork and leather gloves,一把金属叉和一副皮手套,a metallic fork?##leather gloves?,texture_val,texture
+728,798901,a metallic spoon and wooden chopsticks,一把金属勺子和一双木筷子,a metallic spoon and wooden chopsticks?,texture_val,texture
+729,691019,a rubber ball and a metallic spoon,一个橡胶球和一个金属勺子,a rubber ball?##a metallic spoon?,texture_val,texture
+730,956819,a metallic fork and a fabric blanket,一只金属叉子和一条布毯,a metallic fork?##a fabric blanket?,texture_val,texture
+731,366118,a rubber tire and a fluffy rug,一个橡胶轮胎和一块毛茸茸的地毯,a rubber tire?##a fluffy rug?,texture_val,texture
+732,951802,a metallic jewelry and a wooden spoon,一件金属首饰和一个木勺子,a metallic jewelry?##a wooden spoon?,texture_val,texture
+733,734072,rubber gloves and a wooden spoon,橡胶手套和木勺子,rubber gloves?##a wooden spoon?,texture_val,texture
+734,277837,a metallic watch and a fluffy towel,一块金属手表和一条柔软的毛巾,a metallic watch?##a fluffy towel?,texture_val,texture
+735,870358,a plastic chair and a glass mirror,一个塑料椅子和一面玻璃镜子,a plastic chair?##a glass mirror?,texture_val,texture
+736,413676,a rubber band and a glass table,一根橡皮筋和一张玻璃桌子,a rubber band?##a glass table?,texture_val,texture
+737,981426,rubber gloves and a metallic car,橡胶手套和一辆金属车,rubber gloves?##a metallic car?,texture_val,texture
+738,594152,rubber gloves and a plastic toy,橡胶手套和一个塑料玩具,rubber gloves?##a plastic toy?,texture_val,texture
+739,610358,a fabric shirt and a leather wallet,一件布料衬衫和一个皮质钱包,a fabric shirt?##a leather wallet?,texture_val,texture
+740,366157,a fabric pants and a fluffy blanket,一条布料裤子和一条蓬松的毯子,a fabric pants?##a fluffy blanket?,texture_val,texture
+741,523767,a metallic car and a leather shoes,一辆金属质感的汽车和一双皮鞋,a metallic car?##a leather shoes?,texture_val,texture
+742,663332,a rubber ball and a glass mirror,一个橡胶球和一面玻璃镜子,a rubber ball?##a glass mirror?,texture_val,texture
+743,176887,rubber gloves and leather gloves,橡胶手套和皮手套,rubber gloves?##leather gloves?,texture_val,texture
+744,731612,a metallic desk lamp and a fluffy blanket,一盏金属台灯和一条柔软的毯子,a metallic desk lamp?##a fluffy blanket?,texture_val,texture
+745,346388,rubber gloves and a metallic door knob,橡胶手套和一个金属门把手,rubber gloves?##a metallic door knob?,texture_val,texture
+746,264309,a leather belt and a glass bottle,一条皮带和一个玻璃瓶,a leather belt?##a glass bottle?,texture_val,texture
+747,835419,a rubber ball and a plastic phone case,一个橡胶球和一个塑料手机壳,a rubber ball?##a plastic phone case?,texture_val,texture
+748,59857,a wooden jewelry box and a fabric blanket,一个木质首饰盒和一条布艺毯子,a wooden jewelry box?##a fabric blanket?,texture_val,texture
+749,836458,a plastic bag and a wooden table,一个塑料袋和一张木头桌子,a plastic bag?##a wooden table?,texture_val,texture
+750,93303,a metallic keychain and a wooden jewelry box,一个金属钥匙扣和一个木制首饰盒,a metallic keychain?##a wooden jewelry box?,texture_val,texture
+751,536214,a wooden floor and a fluffy rug,一块木质地板和一张毛茸茸的地毯,a wooden floor?##a fluffy rug?,texture_val,texture
+752,294346,a plastic chair and a wooden chair,一把塑料椅和一把木椅,a plastic chair?##a wooden chair?,texture_val,texture
+753,575896,a rubber tire and a wooden table,一个橡胶轮胎和一张木制桌子,a rubber tire?##a wooden table?,texture_val,texture
+754,92049,a metallic keychain and a fabric pants,一个金属钥匙扣和一条布料裤子,a metallic keychain?##a fabric pants?,texture_val,texture
+755,50820,a plastic bag and a fluffy rug,一个塑料袋和一张毛茸茸的地毯,a plastic bag?##a fluffy rug?,texture_val,texture
+756,696980,a wooden door and a glass mirror,一扇木门和一面玻璃镜子,a wooden door?##a glass mirror?,texture_val,texture
+757,350804,a wooden jewelry box and a fluffy blanket,一个木质首饰盒和一条毛茸茸的毯子,a wooden jewelry box?##a fluffy blanket?,texture_val,texture
+758,72360,a fabric hat and a fluffy sweater,一顶布料帽子和一件蓬松的毛衣,a fabric hat?##a fluffy sweater?,texture_val,texture
+759,444850,a plastic bottle and a leather wallet,一个塑料瓶和一个皮质钱包,a plastic bottle?##a leather wallet?,texture_val,texture
+760,316301,a plastic phone case and a fabric hat,一个塑料手机壳和一顶布料帽子,a plastic phone case?##a fabric hat?,texture_val,texture
+761,825568,a metallic spoon and a fluffy towel,一把金属勺子和一条柔软的毛巾,a metallic spoon?##a fluffy towel?,texture_val,texture
+762,180228,a rubber eraser and a plastic chair,一个橡皮擦和一把塑料椅子,a rubber eraser?##a plastic chair?,texture_val,texture
+763,386897,a metallic spoon and a glass window,一把金属勺子和一扇玻璃窗,a metallic spoon?##a glass window?,texture_val,texture
+764,86800,a rubber tire and a wooden spoon,一个橡胶轮胎和一个木勺子,a rubber tire?##a wooden spoon?,texture_val,texture
+765,482940,rubber sole shoes and a metallic car,橡胶鞋底的鞋子和一辆金属车,rubber sole shoes?##a metallic car?,texture_val,texture
+766,350140,a plastic cutlery and a wooden picture frame,一套塑料餐具和一个木质相框,a plastic cutlery?##a wooden picture frame?,texture_val,texture
+767,819441,a metallic fork and a fluffy blanket,一只金属叉子和一条柔软的毯子,a metallic fork?##a fluffy blanket?,texture_val,texture
+768,656981,a plastic toy and a metallic jewelry,一个塑料玩具和一件金属首饰,a plastic toy?##a metallic jewelry?,texture_val,texture
+769,387715,rubber sole shoes and a glass cup,橡胶鞋底的鞋子和一个玻璃杯,rubber sole shoes?##a glass cup?,texture_val,texture
+770,831680,a wooden floor and a glass window,木质地板和玻璃窗户,a wooden floor?##a glass window?,texture_val,texture
+771,95581,a fabric shirt and a glass window,一件布料制成的衬衫和一扇玻璃窗,a fabric shirt?##a glass window?,texture_val,texture
+772,486492,a plastic container and a fabric curtain,一个塑料容器和一块布窗帘,a plastic container?##a fabric curtain?,texture_val,texture
+773,96941,a plastic container and a metallic jewelry,一个塑料容器和一件金属首饰,a plastic container?##a metallic jewelry?,texture_val,texture
+774,7540,a rubber eraser and a metallic keychain,一个橡皮擦和一个金属钥匙扣,a rubber eraser?##a metallic keychain?,texture_val,texture
+775,499998,a fabric dress and a fluffy towel,一件布料连衣裙和一条毛茸茸的毛巾,a fabric dress?##a fluffy towel?,texture_val,texture
+776,317643,a rubber tire and a plastic container,一个橡胶轮胎和一个塑料容器,a rubber tire?##a plastic container?,texture_val,texture
+777,854016,a plastic chair and a fabric shirt,一把塑料椅子和一件布料衬衫,a plastic chair?##a fabric shirt?,texture_val,texture
+778,371340,a metallic fork and a wooden desk,一把金属叉子和一张木制书桌,a metallic fork?##a wooden desk?,texture_val,texture
+779,235669,a metallic jewelry and a leather wallet,一件金属首饰和一个皮质钱包,a metallic jewelry?##a leather wallet?,texture_val,texture
+780,162466,a plastic phone case and leather gloves,一个塑料手机壳和一双皮手套,a plastic phone case?##leather gloves?,texture_val,texture
+781,769585,a metallic key and a fabric bag,一把金属钥匙和一个布袋,a metallic key?##a fabric bag?,texture_val,texture
+782,468838,a rubber tire and a fabric pillow,一个橡胶轮胎和一个布艺枕头,a rubber tire?##a fabric pillow?,texture_val,texture
+783,389253,rubber gloves and a wooden floor,橡胶手套和木地板,rubber gloves?##a wooden floor?,texture_val,texture
+784,387406,a plastic bag and a leather chair,一个塑料袋和一把皮椅,a plastic bag?##a leather chair?,texture_val,texture
+785,962364,a metallic car and a leather jacket,一辆金属质感的汽车和一件皮夹克,a metallic car?##a leather jacket?,texture_val,texture
+786,289364,a rubber eraser and a wooden picture frame,一个橡皮擦和一个木质相框,a rubber eraser?##a wooden picture frame?,texture_val,texture
+787,164606,a fluffy towel and a leather belt,一条柔软的毛巾和一条皮带,a fluffy towel?##a leather belt?,texture_val,texture
+788,736850,a fabric blanket and a glass cup,一条布毯和一个玻璃杯,a fabric blanket?##a glass cup?,texture_val,texture
+789,250822,a plastic container and a fluffy blanket,一个塑料容器和一条柔软的毯子,a plastic container?##a fluffy blanket?,texture_val,texture
+790,522814,a metallic fork and a wooden jewelry box,一把金属叉子和一个木质珠宝盒,a metallic fork?##a wooden jewelry box?,texture_val,texture
+791,606209,a fluffy pillow and a leather shoes,一只松软的枕头和一双皮鞋,a fluffy pillow?##a leather shoes?,texture_val,texture
+792,143571,a fluffy towel and a glass jar,一条柔软的毛巾和一个玻璃罐,a fluffy towel?##a glass jar?,texture_val,texture
+793,587715,a metallic fork and a wooden spoon,一个金属叉子和一个木勺子,a metallic fork?##a wooden spoon?,texture_val,texture
+794,485456,a rubber ball and a fluffy towel,一个橡皮球和一条毛茸茸的毛巾,a rubber ball?##a fluffy towel?,texture_val,texture
+795,232487,a rubber eraser and a leather belt,一个橡皮擦和一条皮带,a rubber eraser?##a leather belt?,texture_val,texture
+796,296230,a plastic phone case and a metallic jewelry,一个塑料手机壳和一件金属饰品,a plastic phone case?##a metallic jewelry?,texture_val,texture
+797,899879,a plastic container and a fluffy sweater,一个塑料容器和一件毛茸茸的毛衣,a plastic container?##a fluffy sweater?,texture_val,texture
+798,777549,a rubber band and a fabric towel,一根橡皮筋和一条布毛巾,a rubber band?##a fabric towel?,texture_val,texture
+799,361201,a fabric dress and a glass vase,一件布料连衣裙和一个玻璃花瓶,a fabric dress?##a glass vase?,texture_val,texture
+800,997910,rubber boots and a glass plate,橡胶靴和玻璃板,rubber boots?##a glass plate?,texture_val,texture
+801,43579,a metallic necklace and a fabric sweater,一条金属项链和一件布料毛衣,a metallic necklace?##a fabric sweater?,texture_val,texture
+802,226420,rubber boots and a leather sofa,橡胶靴和皮质沙发,rubber boots?##a leather sofa?,texture_val,texture
+803,891527,a plastic cup and a leather hat,一个塑料杯和一顶皮帽,a plastic cup?##a leather hat?,texture_val,texture
+804,875010,rubber mat and a glass bowl,橡胶垫和玻璃碗,rubber mat?##a glass bowl?,texture_val,texture
+805,403250,a fabric sweater and a fluffy hat,一件布料制成的毛衣和一顶蓬松的帽子,a fabric sweater?##a fluffy hat?,texture_val,texture
+806,804061,a metallic bracelet and a fabric jacket,一条金属手链和一件布料夹克,a metallic bracelet?##a fabric jacket?,texture_val,texture
+807,646559,a wooden fork and a leather sofa,一个木制叉子和一张皮质沙发,a wooden fork?##a leather sofa?,texture_val,texture
+808,589493,wooden pencils and a fluffy scarf,木质铅笔和一条蓬松的围巾,wooden pencils?##a fluffy scarf?,texture_val,texture
+809,79882,rubber boots and a plastic cup,橡胶靴和一个塑料杯,rubber boots?##a plastic cup?,texture_val,texture
+810,284457,a fluffy hat and a glass plate,一顶毛茸茸的帽子和一个玻璃盘子,a fluffy hat?##a glass plate?,texture_val,texture
+811,98966,a plastic cup and a fabric sweater,一个塑料杯和一件布料毛衣,a plastic cup?##a fabric sweater?,texture_val,texture
+812,598212,a metallic bracelet and a wooden knife,一条金属手链和一把木制刀具,a metallic bracelet?##a wooden knife?,texture_val,texture
+813,839081,a metallic necklace and a wooden fork,一条金属项链和一个木制叉子,a metallic necklace?##a wooden fork?,texture_val,texture
+814,261190,a metallic ring and a fluffy hat,一个金属戒指和一顶毛茸茸的帽子,a metallic ring?##a fluffy hat?,texture_val,texture
+815,672728,a fabric scarf and a glass bowl,一条布制围巾和一个玻璃碗,a fabric scarf?##a glass bowl?,texture_val,texture
+816,945200,a fabric scarf and a leather hat,一条布制围巾和一顶皮质帽子,a fabric scarf?##a leather hat?,texture_val,texture
+817,161463,wooden pencils and a leather hat,木质铅笔和一顶皮帽,wooden pencils?##a leather hat?,texture_val,texture
+818,691854,wooden pencils and a leather sofa,木质铅笔和皮质沙发,wooden pencils?##a leather sofa?,texture_val,texture
+819,502956,a wooden fork and a glass bowl,一个木叉和一个玻璃碗,a wooden fork?##a glass bowl?,texture_val,texture
+820,340996,a metallic ring and a glass plate,一个金属环和一个玻璃板,a metallic ring?##a glass plate?,texture_val,texture
+821,963909,a fabric jacket and a glass plate,一件布料夹克和一块玻璃盘子,a fabric jacket?##a glass plate?,texture_val,texture
+822,940367,a metallic bracelet and a leather hat,一条金属手链和一顶皮质帽子,a metallic bracelet?##a leather hat?,texture_val,texture
+823,47598,a metallic earring and a leather sofa,,a metallic earring?##a leather sofa?,texture_val,texture
+824,800571,a fabric sweater and a leather watch,一件布料毛衣和一块皮质手表,a fabric sweater?##a leather watch?,texture_val,texture
+825,112207,a plastic plate and a fluffy hat,一个塑料盘子和一顶毛茸茸的帽子,a plastic plate?##a fluffy hat?,texture_val,texture
+826,787421,a metallic ring and a wooden knife,一个金属戒指和一把木制刀具,a metallic ring?##a wooden knife?,texture_val,texture
+827,909488,a plastic plate and a fluffy scarf,一个塑料盘和一条蓬松的围巾,a plastic plate?##a fluffy scarf?,texture_val,texture
+828,26093,a fabric sweater and a leather sofa,一件布料毛衣和一张皮质沙发,a fabric sweater?##a leather sofa?,texture_val,texture
+829,402421,a plastic cup and a wooden knife,一个塑料杯和一把木刀,a plastic cup?##a wooden knife?,texture_val,texture
+830,840123,a metallic necklace and a leather hat,一条金属项链和一顶皮质帽子,a metallic necklace?##a leather hat?,texture_val,texture
+831,650795,rubber mat and a metallic bracelet,橡胶垫和金属手链,rubber mat?##a metallic bracelet?,texture_val,texture
+832,535251,a fabric scarf and a leather sofa,一条布料围巾和一张皮质沙发,a fabric scarf?##a leather sofa?,texture_val,texture
+833,786065,a metallic earring and a fabric jacket,一只金属耳环和一件布料夹克,a metallic earring?##a fabric jacket?,texture_val,texture
+834,366734,rubber mat and a fluffy scarf,橡胶垫和一条毛茸茸的围巾,rubber mat?##a fluffy scarf?,texture_val,texture
+835,810631,a fluffy hat and a leather hat,一顶毛茸茸的帽子和一顶皮质帽子,a fluffy hat?##a leather hat?,texture_val,texture
+836,526562,rubber boots and a leather watch,橡胶靴和皮质手表,rubber boots?##a leather watch?,texture_val,texture
+837,18960,a metallic ring and a fabric sweater,一个金属戒指和一件布料毛衣,a metallic ring?##a fabric sweater?,texture_val,texture
+838,733494,a wooden fork and a leather hat,一个木制的叉子和一个皮质的帽子,a wooden fork?##a leather hat?,texture_val,texture
+839,324797,wooden pencils and a glass plate,木质铅笔和玻璃板,wooden pencils?##a glass plate?,texture_val,texture
+840,766145,The glass perfume bottle and metallic cap release the fragrance of the wooden scent on the fabric handkerchief.,玻璃香水瓶和金属瓶盖释放出的木质香味，渗透到织物手帕上。,The glass perfume bottle?##metallic cap?##the fragrance?##the wooden scent?##the fabric handkerchief?,texture_val,texture
+841,559548,The metallic whisk and wooden bowl mix the fluffy batter for the cake on the plastic counter.,金属打蛋器和木碗在塑料台面上搅拌着蛋糕的蓬松面糊。,The metallic whisk?##wooden bowl?##the fluffy batter?##the cake?##the plastic counter?,texture_val,texture
+842,667270,The leather wallet and fluffy keychain hang on the metallic hook by the wooden door.,皮钱包和毛绒钥匙链挂在木门旁的金属钩上。,The leather wallet?##fluffy keychain?##the metallic hook?##the wooden door?,texture_val,texture
+843,851786,The wooden ladder and glass jar hold the metallic screws for the shelf on the fabric workbench.,木梯和玻璃罐用来存放架子上的金属螺丝，放在布艺工作台上。,The wooden ladder and glass jar?##the metallic screws?##the shelf?##the fabric workbench?,texture_val,texture
+844,480740,The metallic chair and plastic table hold the wooden laptop for the fluffy student in the library.,图书馆里，一张塑料桌子和一把金属椅子托着木质笔记本电脑，供那位毛茸茸的学生使用。,The metallic chair?##plastic table?##the wooden laptop?##the fluffy student?##the library?,texture_val,texture
+845,991897,The fluffy rug and leather ottoman rest on the wooden floor in the cozy reading nook.,舒适的阅读角落里，毛茸茸的地毯和皮革脚踏凳安放在木地板上。,The fluffy rug and leather ottoman rest?##the wooden floor?##the cozy reading nook?,texture_val,texture
+846,97994,The glass vase and metallic stand display the wooden flowers on the fabric dresser.,玻璃花瓶和金属支架将木制花朵展示在布艺梳妆台上。,The glass vase?##metallic stand?##the wooden flowers?##the fabric dresser?,texture_val,texture
+847,222504,The wooden spoon and metallic ladle serve the fluffy soup in the plastic bowl.,木勺和金属杓子被用来盛装塑料碗中的松软汤品。,The wooden spoon?##metallic ladle?##the fluffy soup?##the plastic bowl?,texture_val,texture
+848,122904,The leather shoes and fluffy socks rest on the metallic rack by the glass door.,皮鞋和蓬松的袜子放在玻璃门旁的金属架上。,The leather shoes?##fluffy socks?##the metallic rack?##the glass door?,texture_val,texture
+849,602545,The wooden crate and glass bottle hold the metallic soda on the fabric picnic blanket.,木制箱子和玻璃瓶将金属味苏打水放在了布质野餐毯上。,The wooden crate and glass bottle?##the metallic soda?##the fabric picnic blanket?,texture_val,texture
+850,738630,The metallic lamp and wooden desk provide light for the glass computer on the fluffy chair.,金属灯和木质桌子为放在蓬松椅子上的玻璃电脑提供了光线。,The metallic lamp?##wooden desk?##light?##the glass computer?##the fluffy chair?,texture_val,texture
+851,907394,The leather journal and wooden pen rest on the fabric notebook for the metallic writer.,皮革日记本和木质笔托放在了布面笔记本上，为那位金属作家而准备。,The leather journal?##wooden pen rest?##the fabric notebook?##the metallic writer?,texture_val,texture
+852,753105,The wooden cutting board and metallic cheese grater slice the fluffy cheddar for the plastic sandwich.,木制砧板和金属奶酪刨将蓬松的切达奶酪切片，用于塑料三明治。,The wooden cutting board?##metallic cheese grater slice?##the fluffy cheddar?##the plastic sandwich?,texture_val,texture
+853,435854,The glass test tube and metallic clamp hold the wooden pipette for the fluffy experiment.,玻璃试管和金属夹持住木质滴管，用于进行这个蓬松实验。,The glass test tube?##metallic clamp?##the wooden pipette?##the fluffy experiment?,texture_val,texture
+854,787783,The leather wallet and metallic coin purse hold the plastic credit cards on the fabric counter.,皮质钱包和金属零钱包里装着塑料信用卡，放在布面柜台上。,The leather wallet?##metallic coin purse?##the plastic credit cards?##the fabric counter?,texture_val,texture
+855,245205,The wooden salad bowl and metallic tongs mix the fluffy greens for the glass dinner party.,木质沙拉碗和金属夹子搅拌着蓬松的绿叶蔬菜，为玻璃晚宴会增添风味。,The wooden salad bowl?##metallic tongs?##the fluffy greens?##the glass dinner party?,texture_val,texture
+856,53891,The metallic pot and wooden spoon boil the fluffy noodles on the plastic stove.,金属锅和木勺子在塑料炉上煮着蓬松的面条。,The metallic pot?##wooden spoon?##the fluffy noodles?##the plastic stove?,texture_val,texture
+857,572960,The glass picture frame and metallic stand display the wooden photo on the fabric nightstand.,玻璃相框和金属支架将木质照片展示在布艺床头柜上。,The glass picture frame?##metallic stand?##the wooden photo?##the fabric nightstand?,texture_val,texture
+858,644261,The fluffy cat and leather collar nap on the wooden windowsill next to the glass vase.,毛茸茸的猫和皮质项圈一起躺在木制窗台上，旁边是玻璃花瓶。,The fluffy cat?##leather collar nap?##the wooden windowsill?##the glass vase?,texture_val,texture
+859,579990,The wooden bookshelf and metallic bookends hold the plastic books for the fluffy reader.,木制书架和金属书挡托着塑料书本，供毛茸茸的读者使用。,The wooden bookshelf and metallic bookends?##the plastic books?##the fluffy reader?,texture_val,texture
+860,124304,The metallic bicycle and wooden basket hold the fluffy flowers on the plastic handlebar.,金属自行车上的木制篮子挂在塑料把手上，里面装着蓬松的花朵。,The metallic bicycle?##wooden basket?##the fluffy flowers?##the plastic handlebar?,texture_val,texture
+861,390796,The glass candle holder and metallic candlestick illuminate the wooden dining table on the fabric tablecloth.,玻璃烛台和金属烛杆在布艺桌布上的木餐桌上发出柔和的光芒。,The glass candle holder?##metallic candlestick?##the wooden dining table?##the fabric tablecloth?,texture_val,texture
+862,400897,The leather wallet and fluffy coin pouch hold the metallic change for the plastic vending machine.,皮质钱包和毛茸茸的零钱袋装着用于塑料自动售货机的金属硬币。,The leather wallet?##fluffy coin pouch?##the metallic change?##the plastic vending machine?,texture_val,texture
+863,933741,The wooden ruler and glass magnifying glass measure the metallic screws on the fabric workbench.,木制尺子和玻璃放大镜用于测量布面工作台上的金属螺丝。,The wooden ruler?##glass magnifying glass?##the metallic screws?##the fabric workbench?,texture_val,texture
+864,22019,The metallic pen and plastic notebook write the wooden notes for the fluffy presentation.,金属笔和塑料笔记本为轻松的展示撰写木质笔记。,The metallic pen and plastic notebook?##the wooden notes?##the fluffy presentation?,texture_val,texture
+865,172110,The fluffy teddy bear and leather collar sit on the glass shelf by the wooden bed.,,The fluffy teddy bear?##leather collar?##the glass shelf?##the wooden bed?,texture_val,texture
+866,12830,The wooden rolling pin and metallic cookie cutter shape the fluffy dough for the plastic cookies.,木制的擀面杖和金属饼干模具将蓬松的面团塑形成塑料饼干的形状。,The wooden rolling pin?##metallic cookie cutter?##the fluffy dough?##the plastic cookies?,texture_val,texture
+867,679880,The glass fish tank and metallic filter provide a home for the wooden fish on the fluffy stand.,玻璃鱼缸和金属过滤器为木制鱼提供了一个位于蓬松支架上的家。,The glass fish tank?##metallic filter?##a home?##the wooden fish?##the fluffy stand?,texture_val,texture
+868,616263,The metallic spoon and wooden chopsticks stir the fluffy noodles in the plastic takeout container.,金属勺子和木筷子在塑料外卖盒里搅拌着蓬松的面条。,The metallic spoon?##wooden chopsticks?##the fluffy noodles?##the plastic takeout container?,texture_val,texture
+869,165041,The leather belt and fluffy scarf hang on the metallic hook by the glass mirror.,皮带和蓬松的围巾挂在玻璃镜子旁的金属挂钩上。,The leather belt?##fluffy scarf hang?##the metallic hook?##the glass mirror?,texture_val,texture
+870,110191,The wooden birdhouse and glass bird feeder attract the metallic birds on the fabric tree.,木制鸟屋和玻璃鸟食器吸引了布艺树上的金属鸟。,The wooden birdhouse?##glass bird feeder?##the metallic birds?##the fabric tree?,texture_val,texture
+871,854576,The fluffy towel and plastic soap dish rest on the metallic tray by the wooden bathtub.,毛茸茸的毛巾和塑料肥皂盒放在木制浴缸旁的金属托盘上。,The fluffy towel?##plastic soap dish rest?##the metallic tray?##the wooden bathtub?,texture_val,texture
+872,38284,The glass baking dish and wooden spoon bake the metallic lasagna for the fluffy dinner party.,玻璃烤盘和木勺一起烹制金属质感的千层面，为这个温馨的晚宴增添风味。,The glass?##wooden spoon?##the metallic lasagna?##the fluffy dinner party?,texture_val,texture
+873,594587,The metallic stapler and leather portfolio hold the plastic documents on the wooden desk.,金属订书机和皮质文件夹将塑料文件固定在木桌上。,The metallic stapler and leather portfolio?##the plastic documents?##the wooden desk?,texture_val,texture
+874,635993,The wooden birdhouse and fluffy bird perch on the metallic pole by the glass window.,木制的鸟屋和蓬松的鸟栖息在靠近玻璃窗的金属杆上。,The wooden birdhouse?##fluffy bird perch?##the metallic pole?##the glass window?,texture_val,texture
+875,567204,The glass vase and metallic watering can hold the wooden flowers on the fabric windowsill.,玻璃花瓶和金属浇水壶一起托着木制花朵，放在布艺窗台上。,The glass vase?##metallic watering?##the wooden flowers?##the fabric windowsill?,texture_val,texture
+876,689987,The metallic pan and plastic spatula cook the fluffy eggs on the wooden stove.,金属平底锅和塑料铲子在木制灶上煎着蓬松的鸡蛋。,The metallic pan?##plastic spatula?##the fluffy eggs?##the wooden stove?,texture_val,texture
+877,483188,The wooden bookshelf and glass bookends hold the metallic books for the fluffy bookworm.,木制书架和玻璃书挡托着金属质地的书籍，供那位爱书的绒毛书虫享用。,The wooden bookshelf and glass bookends?##the metallic books?##the fluffy bookworm?,texture_val,texture
+878,555202,The leather chair and metallic lamp provide comfort and light for the wooden desk on the fluffy rug.,皮质椅子和金属灯为放在蓬松地毯上的木质书桌提供了舒适和光明。,The leather chair?##metallic lamp?##comfort?##light?##the wooden desk?##the fluffy rug?,texture_val,texture
+879,14571,The glass terrarium and wooden plant holder display the metallic succulent on the fabric shelf.,玻璃生态瓶和木质植物架在布艺架上展示了金属质感的多肉植物。,The glass terrarium and wooden plant holder?##the metallic succulent?##the fabric shelf?,texture_val,texture
+880,906072,The metallic hammer and wooden mallet pound the fluffy nails into the plastic board.,金属锤和木槌将蓬松的钉子敲入塑料板中。,The metallic hammer?##mallet?##the fluffy nails?##the plastic board?,texture_val,texture
+881,983609,The glass vase and metallic frame display the wooden flowers on the fabric mantle.,玻璃花瓶和金属框架将木制花朵展示在布艺壁炉架上。,The glass vase?##metallic frame?##the wooden flowers?##the fabric mantle?,texture_val,texture
+882,74273,The leather belt and fluffy hat hang on the metallic hook by the glass door.,皮带和毛茸茸的帽子挂在玻璃门旁的金属钩上。,The leather belt?##fluffy hat?##the metallic hook?##the glass door?,texture_val,texture
+883,430441,The wooden pencil and metallic sharpener write the fluffy notes on the plastic notepad.,木质铅笔和金属铅笔刀在塑料记事本上记录着轻柔的笔记。,The wooden pencil?##metallic sharpener?##the fluffy notes?##the plastic notepad?,texture_val,texture
+884,948960,The fluffy pillow and glass lampshade rest on the wooden nightstand by the metallic bed.,蓬松的枕头和玻璃灯罩放在金属床旁的木制床头柜上。,The fluffy pillow and glass lampshade rest?##the wooden nightstand?##the metallic bed?,texture_val,texture
+885,901640,The wooden spoon and plastic measuring cup mix the metallic ingredients for the fluffy cake batter.,木勺和塑料量杯被用来混合蓬松蛋糕糊的金属成分。,The wooden spoon?##plastic measuring cup?##the metallic ingredients?##the fluffy cake batter?,texture_val,texture
+886,155403,The leather jacket and metallic zipper keep the fluffy wearer warm on the glass sidewalk.,皮夹克和金属拉链让穿着者在玻璃人行道上保持温暖。,The leather jacket?##metallic zipper?##the fluffy wearer?##the glass sidewalk?,texture_val,texture
+887,740640,The metallic whisk and plastic bowl beat the fluffy egg whites for the wooden meringue.,金属打蛋器和塑料碗将蛋白打发至松软，用于制作木质风味的蛋白霜。,The metallic whisk and plastic bowl?##the fluffy egg whites?##the wooden meringue?,texture_val,texture
+888,286830,The wooden hanger and fluffy dress hang on the metallic rack by the glass mirror.,木质衣架上挂着蓬松的连衣裙，放在玻璃镜子旁的金属架上。,The wooden hanger and fluffy dress hang?##the metallic rack?##the glass mirror?,texture_val,texture
+889,995024,The glass bottle and metallic opener hold the wooden beer for the fluffy party.,玻璃瓶和金属开瓶器为毛茸茸的聚会准备了木质啤酒。,The glass bottle?##metallic opener?##the wooden beer?##the fluffy party?,texture_val,texture
+890,564074,The metallic scissors and plastic ruler cut the fluffy paper for the wooden craft project.,金属剪刀和塑料尺子裁剪着蓬松的纸张，用于木制手工艺项目。,The metallic scissors?##plastic ruler?##the fluffy paper?##the wooden craft project?,texture_val,texture
+891,377964,The wooden clipboard and glass paperweight hold the metallic documents for the fluffy meeting.,木质的剪贴板和玻璃纸镇固定着金属文件，为这场轻松的会议做准备。,The wooden clipboard and glass paperweight?##the metallic documents?##the fluffy meeting?,texture_val,texture
+892,309362,The leather couch and fluffy pillow provide comfort on the wooden floor by the glass window.,皮质沙发和蓬松的枕头在木地板上的玻璃窗旁提供了舒适感。,The leather couch?##fluffy pillow?##comfort?##the wooden floor?##the glass window?,texture_val,texture
+893,14824,The metallic kettle and wooden spoon boil the fluffy water for the plastic tea.,金属壶和木勺一起煮沸蓬松的水，用来泡塑料茶。,The metallic kettle?##wooden spoon?##the fluffy water?##the plastic tea?,texture_val,texture
+894,414086,The glass jar and fluffy ribbon hold the metallic candy on the wooden table.,玻璃罐和蓬松的丝带一起，将金属质感的糖果托放在木桌上。,The glass jar?##fluffy ribbon?##the metallic candy?##the wooden table?,texture_val,texture
+895,62437,The wooden salad bowl and plastic tongs mix the metallic greens for the fluffy salad.,木质沙拉碗和塑料夹子将金属色的绿叶蔬菜混合，制作出蓬松的沙拉。,The wooden salad bowl?##plastic tongs?##the metallic greens?##the fluffy salad?,texture_val,texture
+896,81979,The leather wallet and metallic keychain hold the plastic keys by the glass door.,皮钱包和金属钥匙链挂着塑料钥匙，放在玻璃门旁。,The leather wallet?##metallic keychain?##the plastic keys?##the glass door?,texture_val,texture
+897,595027,The fluffy towel and metallic hook hang on the wooden hook by the glass shower.,毛巾柔软，挂在玻璃淋浴间旁的木制挂钩上，旁边还有一个金属钩。,The fluffy towel?##metallic hook?##the wooden hook?##the glass shower?,texture_val,texture
+898,341465,The glass ornament and wooden hook decorate the metallic Christmas tree on the fabric skirt.,玻璃装饰品和木制挂钩装点着金属圣诞树，圣诞树底部铺着布艺裙。,The glass ornament and wooden hook?##the metallic Christmas tree?##the fabric skirt?,texture_val,texture
+899,526152,The metallic pen and fluffy notebook jot down ideas on the wooden desk.,金属笔和蓬松笔记本在木桌上记录下想法。,jot?##the wooden desk?,texture_val,texture

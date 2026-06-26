@@ -1,0 +1,301 @@
+index,seed,prompt,prompt_cn,questions,dataset,dataset_type
+0,267341,a green bench and a blue bowl,一张绿色的长凳和一个蓝色的碗,a green bench?##a blue bowl?,color_val,color
+1,108588,a blue bench and a green bowl,一张蓝色的长凳和一个绿色的碗,a blue bench?##a green bowl?,color_val,color
+2,77444,a green bench and a blue cake,一张绿色的长凳和一个蓝色的蛋糕,a green bench?##a blue cake?,color_val,color
+3,833272,a blue bench and a green cake,一个蓝色的长凳和一个绿色的蛋糕,a blue bench?##a green cake?,color_val,color
+4,471996,a brown horse and a blue vase,一匹棕色的马和一个蓝色的花瓶,a brown horse?##a blue vase?,color_val,color
+5,404098,a blue horse and a brown vase,一匹蓝色的马和一个棕色的花瓶,a blue horse?##a brown vase?,color_val,color
+6,455972,a blue backpack and a brown cow,一个蓝色的背包和一头棕色的牛,a blue backpack?##a brown cow?,color_val,color
+7,394899,a brown backpack and a blue cow,一个棕色的背包和一头蓝色的牛,a brown backpack?##a blue cow?,color_val,color
+8,702812,a blue backpack and a red book,一个蓝色的背包和一本红色的书,a blue backpack?##a red book?,color_val,color
+9,944345,a red backpack and a blue book,一个红色的背包和一本蓝色的书,a red backpack?##a blue book?,color_val,color
+10,368762,a brown bear and a red book,一只棕熊和一本红书,a brown bear?##a red book?,color_val,color
+11,573825,a red bear and a brown book,一只红色的熊和一本棕色的书,a red bear?##a brown book?,color_val,color
+12,773913,a red orange and a brown sheep,一只红橙色的羊和一只棕色的羊,a red orange?##a brown sheep?,color_val,color
+13,18098,a brown orange and a red sheep,一只棕色的橙子和一只红色的羊,a brown orange?##a red sheep?,color_val,color
+14,611362,a green banana and a brown dog,一根绿色的香蕉和一只棕色的狗,a green banana?##a brown dog?,color_val,color
+15,190654,a brown banana and a green dog,一根棕色的香蕉和一只绿色的狗,a brown banana?##a green dog?,color_val,color
+16,914521,a green banana and a brown horse,一根青色的香蕉和一匹棕色的马,a green banana?##a brown horse?,color_val,color
+17,977465,a brown banana and a green horse,一根棕色的香蕉和一匹绿色的马,a brown banana?##a green horse?,color_val,color
+18,409426,a blue cake and a red suitcase,一个蓝色的蛋糕和一个红色的手提箱,a blue cake?##a red suitcase?,color_val,color
+19,450084,a red cake and a blue suitcase,一个红色的蛋糕和一个蓝色的手提箱,a red cake?##a blue suitcase?,color_val,color
+20,851053,a brown elephant and a red suitcase,一头棕色的大象和一个红色的手提箱,a brown elephant?##a red suitcase?,color_val,color
+21,487541,a red elephant and a brown suitcase,一头红色的大象和一个棕色的手提箱,a red elephant?##a brown suitcase?,color_val,color
+22,898402,a green apple and a brown horse,一个绿苹果和一匹棕马,a green apple?##a brown horse?,color_val,color
+23,733361,a brown apple and a green horse,一个棕色的苹果和一匹绿色的马,a brown apple?##a green horse?,color_val,color
+24,369490,a green banana and a blue vase,一根青色的香蕉和一个蓝色的花瓶,a green banana?##a blue vase?,color_val,color
+25,512419,a blue banana and a green vase,一根蓝色的香蕉和一个绿色的花瓶,a blue banana?##a green vase?,color_val,color
+26,345175,a blue backpack and a brown bear,一个蓝色的背包和一只棕色的熊,a blue backpack?##a brown bear?,color_val,color
+27,882965,a brown backpack and a blue bear,一个棕色的背包和一只蓝色的熊,a brown backpack?##a blue bear?,color_val,color
+28,401729,a green apple and a blue vase,一个绿苹果和一个蓝色的花瓶,a green apple?##a blue vase?,color_val,color
+29,8047,a blue apple and a green vase,一个蓝色的苹果和一个绿色的花瓶,a blue apple?##a green vase?,color_val,color
+30,619915,a green banana and a red suitcase,一根青色的香蕉和一个红色的手提箱,a green banana?##a red suitcase?,color_val,color
+31,764217,a red banana and a green suitcase,一根红色的香蕉和一个绿色的手提箱,a red banana?##a green suitcase?,color_val,color
+32,9801,a blue bowl and a brown elephant,一个蓝色的碗和一只棕色的大象,a blue bowl?##a brown elephant?,color_val,color
+33,918780,a brown bowl and a blue elephant,一个棕色的碗和一只蓝色的大象,a brown bowl?##a blue elephant?,color_val,color
+34,644549,a blue backpack and a red orange,一个蓝色的背包和一个红橙色的橙子,a blue backpack?##a red orange?,color_val,color
+35,333355,a red backpack and a blue orange,一个红色的背包和一个蓝色的橙子,a red backpack?##a blue orange?,color_val,color
+36,811208,a blue backpack and a red chair,一个蓝色的背包和一把红色的椅子,a blue backpack?##a red chair?,color_val,color
+37,456009,a red backpack and a blue chair,一个红色的背包和一把蓝色的椅子,a red backpack?##a blue chair?,color_val,color
+38,527766,a blue cup and a brown horse,一个蓝色的杯子和一匹棕色的马,a blue cup?##a brown horse?,color_val,color
+39,90935,a brown cup and a blue horse,一个棕色的杯子和一匹蓝色的马,a brown cup?##a blue horse?,color_val,color
+40,376214,a brown sheep and a blue vase,一只棕色的羊和一个蓝色的花瓶,a brown sheep?##a blue vase?,color_val,color
+41,362306,a blue sheep and a brown vase,一只蓝色的羊和一个棕色的花瓶,a blue sheep?##a brown vase?,color_val,color
+42,654450,a brown cat and a gold clock,一只棕色的猫和一只金色的钟,a brown cat?##a gold clock?,color_val,color
+43,839199,a gold cat and a brown clock,一只金色的猫和一只棕色的钟,a gold cat?##a brown clock?,color_val,color
+44,53237,a blue backpack and a green banana,一个蓝色的背包和一根绿色的香蕉,a blue backpack?##a green banana?,color_val,color
+45,106363,a green backpack and a blue banana,一个绿色的背包和一根蓝色的香蕉,a green backpack?##a blue banana?,color_val,color
+46,636507,a brown horse and a red orange,一匹棕色的马和一个红橙色的橙子,a brown horse?##a red orange?,color_val,color
+47,924228,a red horse and a brown orange,一匹红马和一个棕色的橙子,a red horse?##a brown orange?,color_val,color
+48,183370,a red chair and a brown elephant,一把红色的椅子和一头棕色的大象,a red chair?##a brown elephant?,color_val,color
+49,763717,a brown chair and a red elephant,一把棕色的椅子和一只红色的大象,a brown chair?##a red elephant?,color_val,color
+50,545876,a green apple and a blue backpack,一个绿苹果和一个蓝色的背包,a green apple?##a blue backpack?,color_val,color
+51,362289,a blue apple and a green backpack,一个蓝色的苹果和一个绿色的背包,a blue apple?##a green backpack?,color_val,color
+52,822759,a blue backpack and a gold clock,一个蓝色的背包和一只金色的钟,a blue backpack?##a gold clock?,color_val,color
+53,589935,a gold backpack and a blue clock,一个金色的背包和一个蓝色的钟表,a gold backpack?##a blue clock?,color_val,color
+54,968557,a brown dog and a red orange,一只棕色的狗和一个红橙色的橙子,a brown dog?##a red orange?,color_val,color
+55,24097,a red dog and a brown orange,一只红色的狗和一个棕橙色的橙子,a red dog?##a brown orange?,color_val,color
+56,459582,a blue backpack and a brown sheep,一个蓝色的背包和一只棕色的羊,a blue backpack?##a brown sheep?,color_val,color
+57,55561,a brown backpack and a blue sheep,一个棕色的背包和一只蓝色的羊,a brown backpack?##a blue sheep?,color_val,color
+58,354804,a blue backpack and a brown giraffe,一个蓝色的背包和一只棕色的长颈鹿,a blue backpack?##a brown giraffe?,color_val,color
+59,798856,a brown backpack and a blue giraffe,一个棕色的背包和一只蓝色的长颈鹿,a brown backpack?##a blue giraffe?,color_val,color
+60,891922,a red book and a blue cake,一本红色的书和一个蓝色的蛋糕,a red book?##a blue cake?,color_val,color
+61,112063,a blue book and a red cake,一本蓝色的书和一个红色的蛋糕,a blue book?##a red cake?,color_val,color
+62,89472,a red suitcase and a blue vase,一个红色的手提箱和一个蓝色的花瓶,a red suitcase?##a blue vase?,color_val,color
+63,247740,a blue suitcase and a red vase,一个蓝色的手提箱和一个红色的花瓶,a blue suitcase?##a red vase?,color_val,color
+64,80529,a blue cup and a brown sheep,一个蓝色的杯子和一只棕色的羊,a blue cup?##a brown sheep?,color_val,color
+65,256821,a brown cup and a blue sheep,一个棕色的杯子和一只蓝色的羊,a brown cup?##a blue sheep?,color_val,color
+66,767445,a brown bear and a red train,一只棕熊和一列红火车,a brown bear?##a red train?,color_val,color
+67,788673,a blue cup and a red orange,一个蓝色的杯子和一个红色的橙子,a blue cup?##a red orange?,color_val,color
+68,190892,a red cup and a blue orange,一个红色的杯子和一个蓝色的橙子,a red cup?##a blue orange?,color_val,color
+69,298715,a green apple and a red suitcase,一个绿苹果和一个红色的手提箱,a green apple?##a red suitcase?,color_val,color
+70,937497,a red apple and a green suitcase,一个红苹果和一个绿色的手提箱,a red apple?##a green suitcase?,color_val,color
+71,187766,a blue bowl and a red train,一个蓝色的碗和一辆红色的火车,a blue bowl?##a red train?,color_val,color
+72,42860,a red bowl and a blue train,一个红色的碗和一辆蓝色的火车,a red bowl?##a blue train?,color_val,color
+73,360246,a green bench and a red orange,一张绿色的长凳和一个红橙色的橙子,a green bench?##a red orange?,color_val,color
+74,215756,a red bench and a green orange,一张红色的长凳和一个绿色的橙子,a red bench?##a green orange?,color_val,color
+75,37962,a brown cat and a red orange,一只棕色的猫和一个红橙色的橙子,a brown cat?##a red orange?,color_val,color
+76,784456,a red cat and a brown orange,一只红色的猫和一个棕橙色的橙子,a red cat?##a brown orange?,color_val,color
+77,684674,a green apple and a red train,一个绿苹果和一辆红火车,a green apple?##a red train?,color_val,color
+78,787391,a red apple and a green train,一个红苹果和一辆绿火车,a red apple?##a green train?,color_val,color
+79,659562,a brown giraffe and a red train,一只棕色的长颈鹿和一辆红色的火车,a brown giraffe?##a red train?,color_val,color
+80,579563,a red giraffe and a brown train,一只红色的长颈鹿和一辆棕色的火车,a red giraffe?##a brown train?,color_val,color
+81,321672,a blue boat and a red suitcase,一艘蓝色的船和一个红色的手提箱,a blue boat?##a red suitcase?,color_val,color
+82,69414,a red boat and a blue suitcase,一艘红色的船和一个蓝色的手提箱,a red boat?##a blue suitcase?,color_val,color
+83,371252,a blue bowl and a brown horse,一个蓝色的碗和一匹棕色的马,a blue bowl?##a brown horse?,color_val,color
+84,655197,a brown bowl and a blue horse,一个棕色的碗和一匹蓝色的马,a brown bowl?##a blue horse?,color_val,color
+85,887069,a blue backpack and a red train,一个蓝色的背包和一辆红色的火车,a blue backpack?##a red train?,color_val,color
+86,79217,a red backpack and a blue train,一个红色的背包和一辆蓝色的火车,a red backpack?##a blue train?,color_val,color
+87,939697,a gold clock and a red orange,一只金色的钟和一个红橙色的橙子,a gold clock?##a red orange?,color_val,color
+88,377012,a red clock and a gold orange,一个红色的钟表和一个金色的橘子,a red clock?##a gold orange?,color_val,color
+89,204019,a brown bear and a blue vase,一只棕色的熊和一个蓝色的花瓶,a brown bear?##a blue vase?,color_val,color
+90,352735,a blue bear and a brown vase,一只蓝色的熊和一个棕色的花瓶,a blue bear?##a brown vase?,color_val,color
+91,279646,a green apple and a brown elephant,一个绿苹果和一头棕色的大象,a green apple?##a brown elephant?,color_val,color
+92,314470,a brown apple and a green elephant,一个棕色的苹果和一只绿色的大象,a brown apple?##a green elephant?,color_val,color
+93,309552,a green banana and a brown bear,一根青色的香蕉和一只棕色的熊,a green banana?##a brown bear?,color_val,color
+94,600561,a brown banana and a green bear,一根棕色的香蕉和一只绿色的熊,a brown banana?##a green bear?,color_val,color
+95,883300,a blue boat and a brown cat,一艘蓝色的船和一只棕色的猫,a blue boat?##a brown cat?,color_val,color
+96,198613,a brown boat and a blue cat,一艘棕色的船和一只蓝色的猫,a brown boat?##a blue cat?,color_val,color
+97,298183,a green banana and a blue boat,一根青色的香蕉和一艘蓝色的船,a green banana?##a blue boat?,color_val,color
+98,184451,a blue banana and a green boat,一根蓝色的香蕉和一艘绿色的船,a blue banana?##a green boat?,color_val,color
+99,844649,a red car and a blue cup,一辆红色的车和一个蓝色的杯子,a red car?##a blue cup?,color_val,color
+100,281402,a blue car and a red cup,一辆蓝色的车和一个红色的杯子,a blue car?##a red cup?,color_val,color
+101,186477,a blue backpack and a red car,一个蓝色的背包和一辆红色的汽车,a blue backpack?##a red car?,color_val,color
+102,703362,a red backpack and a blue car,一个红色的背包和一辆蓝色的汽车,a red backpack?##a blue car?,color_val,color
+103,653061,a brown cow and a blue cup,一头棕色的牛和一个蓝色的杯子,a brown cow?##a blue cup?,color_val,color
+104,218395,a blue cow and a brown cup,一头蓝色的牛和一个棕色的杯子,a blue cow?##a brown cup?,color_val,color
+105,302693,a red train and a blue vase,一辆红色的火车和一个蓝色的花瓶,a red train?##a blue vase?,color_val,color
+106,607,a blue train and a red vase,一辆蓝色的火车和一个红色的花瓶,a blue train?##a red vase?,color_val,color
+107,554038,a brown giraffe and a red orange,一只棕色的长颈鹿和一个红橙色的橙子,a brown giraffe?##a red orange?,color_val,color
+108,704888,a red giraffe and a brown orange,一只红色的长颈鹿和一个棕橙色的橙子,a red giraffe?##a brown orange?,color_val,color
+109,614303,a green banana and a brown cow,一根青色的香蕉和一头棕色的牛,a green banana?##a brown cow?,color_val,color
+110,448714,a brown banana and a green cow,一根变黄的香蕉和一头绿色的奶牛,a brown banana?##a green cow?,color_val,color
+111,355717,a brown giraffe and a blue vase,一只棕色的长颈鹿和一个蓝色的花瓶,a brown giraffe?##a blue vase?,color_val,color
+112,921694,a blue giraffe and a brown vase,一只蓝色的长颈鹿和一个棕色的花瓶,a blue giraffe?##a brown vase?,color_val,color
+113,395592,a brown cow and a red suitcase,一头棕色的牛和一个红色的手提箱,a brown cow?##a red suitcase?,color_val,color
+114,897174,a red cow and a brown suitcase,一头红毛的牛和一个棕色的手提箱,a red cow?##a brown suitcase?,color_val,color
+115,21285,a green apple and a blue cup,一个绿苹果和一个蓝色的杯子,a green apple?##a blue cup?,color_val,color
+116,296043,a blue apple and a green cup,一个蓝色的苹果和一个绿色的杯子,a blue apple?##a green cup?,color_val,color
+117,532066,a red book and a brown sheep,一本红色的书和一只棕色的羊,a red book?##a brown sheep?,color_val,color
+118,110295,a brown book and a red sheep,一本棕色的书和一只红色的羊,a brown book?##a red sheep?,color_val,color
+119,550594,a green banana and a brown giraffe,一根绿色的香蕉和一只棕色的长颈鹿,a green banana?##a brown giraffe?,color_val,color
+120,256209,a brown banana and a green giraffe,一根棕色的香蕉和一只绿色的长颈鹿,a brown banana?##a green giraffe?,color_val,color
+121,164462,a blue boat and a red book,一艘蓝色的船和一本红色的书,a blue boat?##a red book?,color_val,color
+122,49846,a red boat and a blue book,一艘红色的船和一本蓝色的书,a red boat?##a blue book?,color_val,color
+123,717370,a blue cup and a brown elephant,一个蓝色的杯子和一只棕色的大象,a blue cup?##a brown elephant?,color_val,color
+124,87844,a brown cup and a blue elephant,一个棕色的杯子和一只蓝色的大象,a brown cup?##a blue elephant?,color_val,color
+125,344575,a red chair and a brown sheep,一把红色的椅子和一只棕色的羊,a red chair?##a brown sheep?,color_val,color
+126,790749,a brown chair and a red sheep,一把棕色的椅子和一只红色的羊,a brown chair?##a red sheep?,color_val,color
+127,969010,a brown bear and a blue boat,一只棕色的熊和一艘蓝色的船,a brown bear?##a blue boat?,color_val,color
+128,500750,a blue bear and a brown boat,一只蓝色的熊和一艘棕色的船,a blue bear?##a brown boat?,color_val,color
+129,233838,a red car and a white sheep,一辆红色的汽车和一只白色的羊,a red car?##a white sheep?,color_val,color
+130,269992,a blue bird and a brown bear,一只蓝色的小鸟和一只棕色的熊,a blue bird?##a brown bear?,color_val,color
+131,236646,a green apple and a black backpack,一个绿苹果和一个黑色背包,a green apple?##a black backpack?,color_val,color
+132,273346,a green cup and a blue cell phone,一个绿色的杯子和一部蓝色的手机,a green cup?##a blue cell phone?,color_val,color
+133,111247,a yellow book and a red vase,一本黄色的书和一个红色的花瓶,a yellow book?##a red vase?,color_val,color
+134,557225,a white car and a red sheep,一辆白色的汽车和一只红色的羊,a white car?##a red sheep?,color_val,color
+135,203029,a brown bird and a blue bear,一只棕色的鸟和一只蓝色的熊,a brown bird?##a blue bear?,color_val,color
+136,689049,a black apple and a green backpack,一个黑色的苹果和一个绿色的背包,a black apple?##a green backpack?,color_val,color
+137,438071,a blue cup and a green cell phone,一个蓝色的杯子和一个绿色的手机,a blue cup?##a green cell phone?,color_val,color
+138,698220,a red book and a yellow vase,一本红色的书和一个黄色的花瓶,a red book?##a yellow vase?,color_val,color
+139,745724,a red apple and yellow bananas,一个红苹果和几根黄香蕉,a red apple?##yellow bananas?,color_val,color
+140,821418,a yellow apple and red bananas,一个黄色的苹果和红色的香蕉,a yellow apple and red bananas?,color_val,color
+141,302050,a black hat and a red scarf,一顶黑帽子和一条红围巾,a black hat?##a red scarf?,color_val,color
+142,370628,a red hat and a black scarf,一顶红帽子和一条黑围巾,a red hat?##a black scarf?,color_val,color
+143,660329,a silver spoon and a blue plate,一把银汤匙和一个蓝色盘子,a silver spoon?##a blue plate?,color_val,color
+144,668779,a yellow bus and a green tree,一辆黄色的公交车和一棵绿色的树,a yellow bus?##a green tree?,color_val,color
+145,155967,a green bus and a yellow tree,一辆绿色的公交车和一棵黄色的树,a green bus?##a yellow tree?,color_val,color
+146,529651,a red apple and a purple grape,一个红苹果和一个紫葡萄,a red apple?##a purple grape?,color_val,color
+147,109407,a purple apple and a red grape,一个紫色的苹果和一个红色的葡萄,a purple apple?##a red grape?,color_val,color
+148,831977,a white dove and a black feather,一只白鸽和一根黑羽毛,a white dove?##a black feather?,color_val,color
+149,897219,a black dove and a white feather,一只黑鸽和一根白羽毛,a black dove?##a white feather?,color_val,color
+150,123934,a brown acorn and a green leaf,一颗棕色的橡子和一片绿叶,a green leaf?,color_val,color
+151,221972,a green acorn and a brown leaf,一颗绿色的橡树果实和一片棕色的树叶,a brown leaf?,color_val,color
+152,434489,a red stop sign and a white line,一块红色的停车标志和一条白线,a red stop sign?##a white line?,color_val,color
+153,130801,a stop sign and red white line,停车标志和红白线,a stop sign?##red white line?,color_val,color
+154,995005,a black cat and a brown mouse,一只黑猫和一只棕色的老鼠,a black cat?##a brown mouse?,color_val,color
+155,335896,a brown cat and a black mouse,一只棕色的猫和一只黑色的老鼠,a brown cat?##a black mouse?,color_val,color
+156,147305,a blue pen and a yellow highlighter,一支蓝色的笔和一支黄色的荧光笔,a blue pen?##a yellow highlighter?,color_val,color
+157,230463,a yellow pen and a blue highlighter,一支黄色的笔和一支蓝色的荧光笔,a yellow pen?##a blue highlighter?,color_val,color
+158,876456,a black moon and a white sky,一轮黑月亮和一片白天空,a black moon?##a white sky?,color_val,color
+159,800903,a yellow pencil and a blue notebook,一支黄色的铅笔和一本蓝色的笔记本,a yellow pencil?##a blue notebook?,color_val,color
+160,683734,a green leaf and a yellow flower,一片绿叶和一朵黄花,a green leaf?##a yellow flower?,color_val,color
+161,913375,a yellow leaf and a green flower,一片黄叶和一朵绿花,a yellow leaf?##a green flower?,color_val,color
+162,529472,a black cat and a white paw,一只黑猫和一只白爪,a black cat?##a white paw?,color_val,color
+163,637850,a white cat and a black paw,一只白猫和一只黑爪,a white cat?##a black paw?,color_val,color
+164,317445,a yellow duck and a blue pond,一只黄色的鸭子和一个蓝色的池塘,a yellow duck?##a blue pond?,color_val,color
+165,578728,a green frog and a brown pond,一只绿色的青蛙和一个棕色的池塘,a green frog?##a brown pond?,color_val,color
+166,209652,a brown frog and a green pond,一只棕色的青蛙和一个绿色的池塘,a brown frog?##a green pond?,color_val,color
+167,820219,a yellow sun and a red sunset,一轮黄日与一抹红霞,a yellow sun?##a red sunset?,color_val,color
+168,984255,a red sun and a yellow sunset,一轮红日与黄昏的落日,a red sun?##a yellow sunset?,color_val,color
+169,496126,a blue pen and a black ink,一支蓝色的笔和黑色的墨水,a blue pen?##a black ink?,color_val,color
+170,722054,a black pen and a blue ink,一支黑色的笔和蓝色的墨水,a black pen?##a blue ink?,color_val,color
+171,649341,a green grass and a yellow dandelion,一片绿草和一朵黄色的蒲公英,a green grass?##a yellow dandelion?,color_val,color
+172,943978,a yellow grass and a green dandelion,一株黄色的草和一朵绿色的蒲公英,a yellow grass?##a green dandelion?,color_val,color
+173,755816,a black cat and a gray mouse,一只黑猫和一只灰色的老鼠,a black cat?##a gray mouse?,color_val,color
+174,336913,a gray cat and a black mouse,一只灰猫和一只黑老鼠,a gray cat?##a black mouse?,color_val,color
+175,352594,a red apple and a yellow pear,一个红苹果和一个黄梨,a red apple?##a yellow pear?,color_val,color
+176,304829,a yellow apple and a red pear,一个黄色的苹果和一个红色的梨,a yellow apple?##a red pear?,color_val,color
+177,992661,a white snow and a blue sled,一片白雪和一辆蓝色的雪橇,a white snow?,color_val,color
+178,811869,a blue snow and a white sled,一场蓝色的雪和一辆白色的雪橇,a blue snow?,color_val,color
+179,117945,a green frog and a yellow fly,一只绿色的青蛙和一只黄色的苍蝇,a green frog?##a yellow fly?,color_val,color
+180,790375,a yellow frog and a green fly,一只黄色的青蛙和一只绿色的苍蝇,a yellow frog?##a green fly?,color_val,color
+181,189946,a yellow pencil and a red eraser,一支黄色的铅笔和一个红色的橡皮擦,a yellow pencil?##a red eraser?,color_val,color
+182,338618,a red pencil and a yellow eraser,一支红色的铅笔和一个黄色的橡皮擦,a red pencil?##a yellow eraser?,color_val,color
+183,135962,a black cat and a white whisker,一只黑猫和一根白胡须,a black cat?##a white whisker?,color_val,color
+184,373716,a white cat and a black whisker,一只白猫和一根黑色的胡须,a white cat?##a black whisker?,color_val,color
+185,869623,a brown tree and a green grass,一棵棕色的树和绿色的草地,a brown tree?##a green grass?,color_val,color
+186,807365,a green tree and a brown grass,一棵绿色的树和一片棕色的草地,a green tree?##a brown grass?,color_val,color
+187,769986,a red rose and a white carnation,一朵红玫瑰和一朵白色康乃馨,a white carnation?,color_val,color
+188,601385,a white rose and a red carnation,一朵白玫瑰和一朵红康乃馨,a red carnation?,color_val,color
+189,308756,a white cloud and a black sky,一朵白云在黑色的天空中,a white cloud?##a black sky?,color_val,color
+190,257476,a black cloud and a white sky,一朵黑云和一片白天空,a black cloud?##a white sky?,color_val,color
+191,583824,a green leaf and a yellow butterfly,一片绿叶和一只黄蝴蝶,a green leaf?##a yellow butterfly?,color_val,color
+192,308654,a yellow leaf and a green butterfly,一片黄叶和一只绿蝴蝶,a yellow leaf?##a green butterfly?,color_val,color
+193,985885,a red tomato and a yellow pepper,一个红色的西红柿和一个黄色的辣椒,a red tomato?##a yellow pepper?,color_val,color
+194,774433,a yellow tomato and a red pepper,一个黄色的西红柿和一个红色的辣椒,a yellow tomato?##a red pepper?,color_val,color
+195,82212,a red apple and a green kiwi,一个红苹果和一个绿色的猕猴桃,a red apple?##a green kiwi?,color_val,color
+196,881580,a green apple and a red kiwi,一个绿苹果和一个红猕猴桃,a green apple?##a red kiwi?,color_val,color
+197,334490,a white piano and a black bench,一架白色的钢琴和一张黑色的长凳,a white piano?##a black bench?,color_val,color
+198,845306,a black piano and a white bench,一架黑色的钢琴和一张白色的长凳,a black piano?##a white bench?,color_val,color
+199,353467,a brown jacket and a black hat,一件棕色的夹克和一顶黑帽子,a brown jacket?##a black hat?,color_val,color
+200,599546,a red bear and a brown train,一只红色的熊和一辆棕色的火车,a red bear?##a brown train?,color_val,color
+201,590707,a red cylinder and a blue cube,一个红色的圆柱体和一个蓝色的立方体,a red cylinder?##a blue cube?,color_val,color
+202,350479,a blue cylinder and a red cube,一个蓝色的圆柱体和一个红色的立方体,a blue cylinder?##a red cube?,color_val,color
+203,152836,a blue spoon and a silver plate,一把蓝色的勺子和一个银色的盘子,a blue spoon?##a silver plate?,color_val,color
+204,163020,a blue bird and a yellow canary,一只蓝色的鸟和一只黄色的金丝雀,a blue bird?##a yellow canary?,color_val,color
+205,419146,a canary and a yellow bluebird,一只金丝雀和一只黄蓝色的鸟,a canary?##a yellow bluebird?,color_val,color
+206,678176,a yellow taxi and a black tire,一辆黄色出租车和一个黑色轮胎,a yellow taxi?##a black tire?,color_val,color
+207,706341,a black taxi and a yellow tire,一辆黑色出租车和一个黄色轮胎,a black taxi?##a yellow tire?,color_val,color
+208,145464,a green snake and a brown log,一条绿蛇和一根棕色的木头,a green snake?##a brown log?,color_val,color
+209,694851,a brown snake and a green log,一条棕色的蛇和一根绿色的木头,a brown snake?##a green log?,color_val,color
+210,339164,a white moon and a black sky,一轮白月亮悬挂在黑色的夜空中,a white moon?##a black sky?,color_val,color
+211,668482,a blue pencil and a yellow notebook,一支蓝色的铅笔和一本黄色的笔记本,a blue pencil?##a yellow notebook?,color_val,color
+212,162701,a blue duck and a yellow pond,一只蓝色的鸭子和一片黄色的池塘,a blue duck?##a yellow pond?,color_val,color
+213,895673,a blue jay and a green parrot,一只蓝松鸟和一只绿鹦鹉,a blue jay?##a green parrot?,color_val,color
+214,593775,a green jay and a blue parrot,一只绿松鸟和一只蓝鹦鹉,a green jay?##a blue parrot?,color_val,color
+215,356207,a brown squirrel and a black nut,一只棕色的松鼠和一个黑色的坚果,a brown squirrel?##a black nut?,color_val,color
+216,198868,a black squirrel and a brown nut,一只黑色的松鼠和一颗棕色的坚果,a black squirrel?##a brown nut?,color_val,color
+217,124815,a white swan and a black lake,一只白天鹅与一片黑湖,a white swan?##a black lake?,color_val,color
+218,260707,a black swan and a white lake,一只黑天鹅与一片白色的湖,a black swan?##a white lake?,color_val,color
+219,714761,a brown log and a green moss,一根棕色的木头和一些绿色的苔藓,a brown log?##a green moss?,color_val,color
+220,183494,a green log and a brown moss,一根绿色的原木和一块棕色的苔藓,a green log?##a brown moss?,color_val,color
+221,401724,a brown guitar and a black amplifier,一把棕色的吉他和一个黑色的音箱,a brown guitar?##a black amplifier?,color_val,color
+222,253394,a black guitar and a brown amplifier,一把黑色的吉他和一个棕色的扩音器,a black guitar?##a brown amplifier?,color_val,color
+223,122229,a white envelope and a blue stamp,一封装在白色信封里，贴着蓝色邮票的信,a white envelope?##a blue stamp?,color_val,color
+224,388685,a blue envelope and a white stamp,一只蓝色的信封和一枚白色的邮票,a blue envelope?##a white stamp?,color_val,color
+225,545372,a blue bicycle and a red helmet,一辆蓝色的自行车和一个红色的头盔,a blue bicycle?##a red helmet?,color_val,color
+226,595278,a red bicycle and a blue helmet,一辆红色的自行车和一个蓝色的头盔,a red bicycle?##a blue helmet?,color_val,color
+227,256611,a yellow taxi and a black tire,一辆黄色出租车和一个黑色轮胎,a yellow taxi?##a black tire?,color_val,color
+228,152135,a black taxi and a yellow tire,一辆黑色出租车和一个黄色轮胎,a black taxi?##a yellow tire?,color_val,color
+229,708415,a black jacket and a brown hat,一件黑色夹克和一顶棕色帽子,a black jacket?##a brown hat?,color_val,color
+230,664202,a blue rose and a green tulip,一朵蓝色的玫瑰和一朵绿色的郁金香,a green tulip?,color_val,color
+231,98867,a green rose and a blue tulip,一朵绿色的玫瑰和一朵蓝色的郁金香,a blue tulip?,color_val,color
+232,336783,a red school bus and a green bag,一辆红色的校车和一个绿色的包,a red school bus?##a green bag?,color_val,color
+233,623153,a green school bus and a red bag,一辆绿色的校车和一个红色的包,a green school bus?##a red bag?,color_val,color
+234,577920,a yellow rabbit and a red rat,一只黄色的兔子和一只红色的老鼠,a yellow rabbit?##a red rat?,color_val,color
+235,679607,a red rabbit and a yellow rat,一只红色的兔子和一只黄色的老鼠,a red rabbit?##a yellow rat?,color_val,color
+236,211056,a red lipstick and a pink blush,一支红色口红和一块粉红色腮红,a red lipstick?##a pink blush?,color_val,color
+237,648266,a pink lipstick and a red blush,一支粉色口红和一个红色腮红,a pink lipstick?##a red blush?,color_val,color
+238,60482,a blue bag and a green water bottle,一个蓝色的包和一个绿色的水瓶,a blue bag?##a green water bottle?,color_val,color
+239,857013,a green bag and a blue water bottle,一个绿色的包和一个蓝色的水瓶,a green bag?##a blue water bottle?,color_val,color
+240,887226,A bathroom with white tile and a beige toilet.,一个带有白色瓷砖和米色马桶的浴室。,A bathroom?##white tile?##a beige toilet?,color_val,color
+241,78374,A bathroom with beige tile and a white toilet.,一间浴室，配有米色瓷砖和白色马桶。,A bathroom?##beige tile?##a white toilet?,color_val,color
+242,733551,A green bathroom with a mirror and a pink sink.,一个带有镜子和粉红色洗手池的绿色浴室。,A green bathroom?##a mirror?##a pink sink?,color_val,color
+243,811544,A pink bathroom with a mirror and a green sink.,一个带有镜子和绿色洗手池的粉红色浴室。,A pink bathroom?##a mirror?##a green sink?,color_val,color
+244,587966,a black gold and white vase sitting on a counter,一个黑金色和白色的花瓶放在柜台上。,a black gold and white vase?##a counter?,color_val,color
+245,622220,a black white and gold vase sitting on a counter,一个黑白金色的花瓶放在柜台上。,a black white and gold vase?##a counter?,color_val,color
+246,654996,A small white kitchen with brown wood floor.,一个小巧的白色厨房，配有棕色的木地板。,A small white kitchen?##brown wood floor?,color_val,color
+247,645558,A small brown kitchen with white wood floor.,一个小巧的棕色厨房，配有白色木地板。,A small brown kitchen?##white wood floor?,color_val,color
+248,359750,"Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet.",厨房一角，一侧是灰色的台面，另一侧则偏白，配有长颈龙头的黑色水槽。,Kitchen scene?##grey counter top?##one side?##the other and black sink?##long neck faucet?,color_val,color
+249,546663,"Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet.",厨房一角，一侧是黑色的台面，另一侧则呈现出浅白色，配有长颈龙头的灰色水槽。,Kitchen scene?##black counter top?##one side?##the other and grey sink?##long neck faucet?,color_val,color
+250,144700,"Two toilet stall, one blue and the other orange.",两个厕所隔间，一个蓝色，另一个橙色。,Two toilet stall?##one blue?##the other orange?,color_val,color
+251,118278,"Two toilet stall, one orange and the other blue.",两个厕所隔间，一个是橙色的，另一个是蓝色的。,Two toilet stall?##one orange?##the other blue?,color_val,color
+252,303365,"A long, narrow yellow kitchen with black and white floor tiles.",一间细长的黄色厨房，地面铺有黑白两色的地砖。,"A long, narrow yellow kitchen?##black and white floor tiles?",color_val,color
+253,398309,"A long, narrow black kitchen with yellow and white floor tiles.",一间细长的黑色厨房，地板铺有黄色和白色的瓷砖。,"A long, narrow black kitchen?##yellow and white floor tiles?",color_val,color
+254,828547,Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby.,两根热狗放在白色纸盘上，旁边是一杯汽水，这些都摆放在绿色的野餐桌上。附近还停着一辆自行车和一辆银色的汽车。,Two hot dogs?##a white paper plate?##a soda cup?##which?##a green picnic table?##a bike?##a silver car?,color_val,color
+255,180442,Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby.,两根热狗放在绿色纸盘上，旁边是一杯汽水，这些都摆放在一张白色的野餐桌上。附近停着一辆自行车和一辆银色的汽车。,Two hot dogs?##a green paper plate?##a soda cup?##which?##a white picnic table?##a bike?##a silver car?,color_val,color
+256,690334,A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid.,这个洗手间的地板采用了黑白相间的方格图案，里面有两个厕所，一个配备了黑色的座圈和盖板，另一个则是白色的座圈和盖板。,A restroom?##black and white checkered flooring?##two toilets?##which?##a black seat?##lid?##the other a white seat?##lid?,color_val,color
+257,727707,A restroom features white and white checkered flooring and two toilets of which has a black seat and lid and the other a black seat and lid.,这个洗手间的地板是白色和白色方格图案，里面有两个厕所，一个的座圈和盖子是黑色的，另一个也是黑色的座圈和盖子。,A restroom?##white and white checkered flooring?##two toilets?##which?##a black seat?##lid?##the other a black seat?##lid?,color_val,color
+258,435367,Bathroom scene with white background and tan accents.,浴室场景，以白色为背景，搭配米色点缀。,Bathroom scene?##white background?##tan accents?,color_val,color
+259,396910,Bathroom scene with tan background and white accents.,浴室场景，以米色为背景，点缀以白色装饰。,Bathroom scene?##tan background?##white accents?,color_val,color
+260,746891,A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows.,不锈钢烤箱位于白色橱柜之间，橱柜上方是黑色的台面，阳光透过厨房的窗户照射进来。,A stainless steel?##white cupboards?##black counter tops?##sun?##the kitchen windows?,color_val,color
+261,539562,A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows.,阳光透过厨房的窗户照射进来，一台不锈钢烤箱位于黑色橱柜之间，橱柜上方是白色的台面。,A stainless steel?##black cupboards?##white counter tops?##sun?##the kitchen windows?,color_val,color
+262,103076,A kitchen with white tile floor and blue sloped ceiling.,一个厨房，拥有白色瓷砖地板和蓝色斜坡天花板。,A kitchen?##white tile floor?##blue sloped ceiling?,color_val,color
+263,312655,A kitchen with blue tile floor and white sloped ceiling.,一个厨房，地面铺着蓝色瓷砖，天花板是白色的斜坡设计。,A kitchen?##blue tile floor?##white sloped ceiling?,color_val,color
+264,268003,A bathroom with green tile and a red shower curtain.,一间浴室，墙面贴着绿色瓷砖，搭配红色的浴帘。,A bathroom?##green tile?##a red shower curtain?,color_val,color
+265,680566,A bathroom with red tile and a green shower curtain.,一个带有红色瓷砖和绿色浴帘的浴室。,A bathroom?##red tile?##a green shower curtain?,color_val,color
+266,161710,"A white bath tub sits empty in a tan, clean bathroom.",一个白色的浴缸空置在一个干净的米色浴室里。,"A white bath tub?##a tan, clean bathroom?",color_val,color
+267,101743,"A tan bath tub sits empty in a white, clean bathroom.",一只棕褐色的浴缸空置在一个洁净的白色浴室里。,"A tan bath tub?##a white, clean bathroom?",color_val,color
+268,874800,"two white sheep, a black goat and a white goat in a field",一片田野里有两只白羊、一只黑山羊和一只白山羊。,two white sheep?##a black goat?##a white goat?##a field?,color_val,color
+269,653486,"two black sheep, a white goat and a white goat in a field",一片田野里有两只黑羊和一只白羊,two black sheep?##a white goat?##a white goat?##a field?,color_val,color
+270,861606,A black and white cat sits in a white sink.,一只黑白相间的猫坐在一个白色的洗手池里。,A black and white cat?##a white sink?,color_val,color
+271,611212,A black and white cat sits in a white sink.,一只黑白相间的猫坐在一个白色的洗手池里。,A black and white cat?##a white sink?,color_val,color
+272,457469,A woman in a white shirt and jeans holds a pink umbrella in the rain.,一个穿着白衬衫和牛仔裤的女士在雨中撑着一把粉色雨伞。,A woman?##a white shirt?##jeans?##a pink umbrella?##the rain?,color_val,color
+273,746546,A woman in a pink shirt and jeans holds a white umbrella in the rain.,一个穿着粉色衬衫和牛仔裤的女士在雨中撑着一把白色雨伞。,A woman?##a pink shirt?##jeans?##a white umbrella?##the rain?,color_val,color
+274,193002,A small bathroom with a small brown toilet next to a white sink.,一个小浴室里，旁边有一个白色的洗手池，紧挨着放置了一个小巧的棕色马桶。,A small bathroom?##a small brown toilet?##a white sink?,color_val,color
+275,508122,A small bathroom with a small white toilet next to a brown sink.,一个小浴室里，旁边有一个白色的小马桶紧挨着一个棕色的洗手池。,A small bathroom?##a small white toilet?##a brown sink?,color_val,color
+276,945261,A black and green tile bathroom with a black toilet and a yellow bucket on the floor.,一间黑色和绿色瓷砖的浴室，地上有一个黑色的马桶和一个黄色的水桶。,A black and green tile bathroom?##a black toilet?##a yellow bucket?##the floor?,color_val,color
+277,57138,A black and green tile bathroom with a yellow toilet and a black bucket on the floor.,一间黑绿相间的瓷砖浴室，里面有一个黄色的马桶和地上放着一个黑色的水桶。,A black and green tile bathroom?##a yellow toilet?##a black bucket?##the floor?,color_val,color
+278,202601,A red carpet in a bathroom with white fixtures.,卫生间里铺着一条红地毯，配有白色的卫浴设施。,A red carpet?##a bathroom?##white fixtures?,color_val,color
+279,944598,A white carpet in a bathroom with red fixtures.,卫生间里铺着一块白色的地毯，装有红色固定装置。,A white carpet?##a bathroom?##red fixtures?,color_val,color
+280,300720,Many stoplights flash yellow on a snow covered street.,许多红绿灯在雪覆盖的街道上闪烁黄光。,Many stoplights?##a snow covered street?,color_val,color
+281,351665,Many stoplights flash snow on a yellow covered street.,许多红绿灯在黄色覆盖的街道上闪烁着雪花。,Many stoplights?##snow?##a yellow covered street?,color_val,color
+282,415733,A blue scooter is parked near a curb in front of a green vintage car.,一辆蓝色的滑板车停在一辆绿色复古汽车前的路边。,A blue scooter?##a curb?##front?##a green vintage car?,color_val,color
+283,420213,A green scooter is parked near a curb in front of a blue vintage car.,一辆绿色的滑板车停在一辆蓝色复古汽车前的路边。,A green scooter?##a curb?##front?##a blue vintage car?,color_val,color
+284,958340,"A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets.",餐厅区域配备了木质桌椅、一台银色冰箱以及浅棕色的橱柜。,A dining area?##a wood table?##chairs?##a silver refrigerator?##light brown cabinets?,color_val,color
+285,988457,"A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets.",餐厅区域配备了一张木质餐桌和椅子，一台棕色的冰箱以及浅银色的橱柜。,A dining area?##a wood table?##chairs?##a brown refrigerator?##silver cabinets?,color_val,color
+286,326489,"Bathroom scene, white commode and matching white sink on light brown tone tiled floor.",浴室场景，配套的白色马桶和白色洗手池位于浅棕色瓷砖地面上。,Bathroom scene?##white commode?##white sink?##light brown tone?##tiled floor?,color_val,color
+287,114449,"Bathroom scene, white commode and matching white sink on light brown tone tiled floor.",浴室场景，配套的白色马桶和白色洗手池位于浅棕色瓷砖地面上。,Bathroom scene?##white commode?##white sink?##light brown tone?##tiled floor?,color_val,color
+288,555359,A traffic light with a smile green light above a red sign.,一个交通灯上方是微笑的绿灯，下方是红色的标志。,A traffic light?##a smile green light?##a red sign?,color_val,color
+289,855922,A traffic light with a smile red light above a green sign.,一个交通灯上方有一个带笑脸的红灯，下方是一个绿色的标志。,A traffic light?##a smile red light?##a green sign?,color_val,color
+290,464614,The man on the large black motorcycle has pink chaps.,骑着大型黑色摩托车的男人穿着粉红色的护腿。,The man?##the large black motorcycle?##pink chaps?,color_val,color
+291,922480,The man on the large pink motorcycle has black chaps.,骑着大型粉红色摩托车的男人穿着黑色皮裤。,The man?##the large pink motorcycle?##black chaps?,color_val,color
+292,965810,A black motorcycle is parked on grey cobblestones.,一辆黑色摩托车停在灰色鹅卵石上。,A black motorcycle?##grey cobblestones?,color_val,color
+293,529006,A grey motorcycle is parked on black cobblestones.,一辆灰色的摩托车停在黑色的鹅卵石上。,A grey motorcycle?##black cobblestones?,color_val,color
+294,244524,The white and yellow clock with a red roof reads 11:44.,带有红色屋顶的白色和黄色时钟显示的时间是11:44。,The white and yellow clock?##a red roof?,color_val,color
+295,846681,The white and red clock with a yellow roof reads 11:44.,白色和红色的钟表，带有黄色屋顶，显示时间为11:44。,The white and red clock?##a yellow roof?,color_val,color
+296,872614,A man in a gray jacket standing in a kitchen next to a black dog.,一个穿着灰色夹克的男人站在厨房里，旁边是一只黑色的狗。,A man?##a gray jacket?##a kitchen?##a black dog?,color_val,color
+297,371421,A man in a black jacket standing in a kitchen next to a gray dog.,一个穿着黑色夹克的男人站在厨房里，旁边是一只灰色的狗。,A man?##a black jacket?##a kitchen?##a gray dog?,color_val,color
+298,941204,a white bathroom with a black and white shower curtain,一个白色的浴室，配有黑白相间的淋浴帘。,a white bathroom?##a black and white shower curtain?,color_val,color
+299,446538,a white bathroom with a black and white shower curtain,一个白色的浴室，配有黑白相间的淋浴帘。,a white bathroom?##a black and white shower curtain?,color_val,color

@@ -1,0 +1,55 @@
+# ==============================================================================
+# Inference config for MoT (MoT-4.5B-A1B) models.
+# Only inference-relevant settings are included.
+# Pass checkpoint path via: EXP=checkpoints/MoT-4.5B-A1B bash scripts/eval/eval_*.sh
+# ==============================================================================
+
+__GLOBAL_VARS__:
+  _DEFAULT_ASSETS_BASE: ./public_assets
+  ASSETS_BASE: ${oc.env:ASSETS_BASE,${__GLOBAL_VARS__._DEFAULT_ASSETS_BASE}}
+
+MODEL_ARGS:
+  model-name: multimodal.qwen3-06b-mot
+  model-structure: MultimodalModel
+  max-position-embeddings: 32768
+  seq-length: 8192
+  init-device: meta
+  autocast-dtype: bf16
+  enabled:
+    - bf16
+EXTRA_MODEL_ARGS:
+  enabled:
+    - use-vae
+    - use-vit
+    - vit-frozen
+  vae-type: 16x16-128c-flux2
+  vae-latent-dim: 128
+  vae-precision: fp32
+  vae-autocast-dtype: fp32
+  vit-type: qwen3vl-vit-for-0.6b
+  __FROZEN__EXTRA_MODEL_ARGS:
+    vit_config:
+      attn_implementation: flash_attention_2
+      spatial_merge_size: 2
+
+DENOISE_ARGS:
+  flow-snr-type: lognorm
+  flow-reverse: True
+  flow-shift: 1.0
+
+DATA_ARGS:
+  modality:
+    - text
+    - vae_image
+    - vit_image
+  tokenizer-name: qwen3-0.6b-base
+  tokenizer-class: tokenizer.Qwen3BaseTokenizerFast
+  add-timestep-token: True
+  add-image-shape-token: True
+  sequence-template: instruct
+  vae-image-token-length: 256
+  reso-base-size: 256
+  reso-align: 16
+  reso-preset: arc33
+  vit-image-token-length: 4096
+  min-vit-image-token-length: 256

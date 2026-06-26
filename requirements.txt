@@ -1,0 +1,33 @@
+# Core
+einops==0.8.1
+numpy==1.26.4
+pillow==11.2.1
+diffusers==0.31.0
+safetensors==0.6.2
+tokenizers==0.22.1
+transformers==4.57.1
+accelerate==1.10.1
+huggingface_hub[cli]>=0.24.0
+loguru==0.7.3
+easydict>=1.13
+pyyaml>=6.0
+omegaconf>=2.3.0
+packaging>=24.0
+tqdm>=4.66.0
+requests>=2.31.0
+
+# Vision / Image
+opencv-python>=4.9.0
+timm>=1.0.0
+scipy>=1.13.0
+
+# Data / Training
+pandas>=2.0.0
+datasets>=2.20.0
+pyarrow>=15.0.0
+tensorboard>=2.17.0
+
+# Evaluation-only extras
+# pip install hpsv2
+# pip install git+https://github.com/openai/CLIP.git
+# pip install spacy openpyxl

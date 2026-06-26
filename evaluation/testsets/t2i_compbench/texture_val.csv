@@ -1,0 +1,301 @@
+index,seed,prompt,prompt_cn,questions,dataset,dataset_type
+0,975244,a plastic toy and a glass bottle,一个塑料玩具和一个玻璃瓶,a plastic toy?##a glass bottle?,texture_val,texture
+1,299683,rubber sole shoes and fluffy clouds,橡胶鞋底和蓬松的云朵,rubber sole shoes?##fluffy clouds?,texture_val,texture
+2,568506,a metallic desk lamp and a fluffy sweater,一盏金属台灯和一件毛茸茸的毛衣,a metallic desk lamp?##a fluffy sweater?,texture_val,texture
+3,598431,a rubber band and a wooden floor,一根橡皮筋和一块木地板,a rubber band?##a wooden floor?,texture_val,texture
+4,446318,a fabric towel and a glass table,一条布质毛巾和一张玻璃桌子,a fabric towel?##a glass table?,texture_val,texture
+5,641608,a metallic car and a fabric dress,一辆金属质感的汽车和一件布料制成的连衣裙,a metallic car?##a fabric dress?,texture_val,texture
+6,679522,a rubber ball and a leather wallet,一个橡胶球和一个皮质钱包,a rubber ball?##a leather wallet?,texture_val,texture
+7,983215,a fabric towel and a leather chair,一条布质毛巾和一把皮质椅子,a fabric towel?##a leather chair?,texture_val,texture
+8,456202,a fluffy rug and a leather wallet,一张毛茸茸的地毯和一个皮质钱包,a fluffy rug?##a leather wallet?,texture_val,texture
+9,909180,a plastic cutlery and fluffy clouds,塑料餐具和蓬松的云朵,a plastic cutlery and fluffy clouds?,texture_val,texture
+10,814657,a wooden door and a glass jar,一个木门和一个玻璃罐,a wooden door?##a glass jar?,texture_val,texture
+11,887978,a fluffy teddy bear and a leather belt,一只毛茸茸的泰迪熊和一条皮带,a fluffy teddy bear?##a leather belt?,texture_val,texture
+12,758463,a plastic toy and a fluffy pillow,一个塑料玩具和一个毛绒枕头,a plastic toy?##a fluffy pillow?,texture_val,texture
+13,656166,a rubber band and a plastic container,一个橡皮筋和一个塑料容器,a rubber band?##a plastic container?,texture_val,texture
+14,916818,a leather wallet and a glass window,一只皮钱包和一扇玻璃窗,a leather wallet?##a glass window?,texture_val,texture
+15,149390,a wooden desk and a leather jacket,一张木质书桌和一件皮夹克,a wooden desk?##a leather jacket?,texture_val,texture
+16,538848,a metallic spoon and a wooden chair,一把金属勺子和一把木椅,a metallic spoon?##a wooden chair?,texture_val,texture
+17,748355,a leather jacket and a glass vase,一件皮夹克和一个玻璃花瓶,a leather jacket?##a glass vase?,texture_val,texture
+18,844956,a wooden spoon and a fabric rug,一个木勺和一块布地毯,a wooden spoon?##a fabric rug?,texture_val,texture
+19,771116,a metallic jewelry and a glass bottle,一件金属首饰和一个玻璃瓶,a metallic jewelry?##a glass bottle?,texture_val,texture
+20,376561,a metallic desk lamp and a wooden toy,一盏金属台灯和一个木制玩具,a metallic desk lamp?##a wooden toy?,texture_val,texture
+21,443016,a plastic phone case and a leather chair,一个塑料手机壳和一把皮椅,a plastic phone case?##a leather chair?,texture_val,texture
+22,852956,a rubber band and a wooden spoon,一根橡皮筋和一个木勺子,a rubber band?##a wooden spoon?,texture_val,texture
+23,715680,a metallic key and a fluffy pillow,一把金属钥匙和一个毛绒绒的枕头,a metallic key?##a fluffy pillow?,texture_val,texture
+24,732838,a leather shoes and a glass cup,一双皮鞋和一个玻璃杯,a leather shoes?##a glass cup?,texture_val,texture
+25,103801,a metallic door knob and a wooden floor,一个金属门把手和一块木地板,a metallic door knob?##a wooden floor?,texture_val,texture
+26,317380,a rubber tire and a metallic key,一个橡胶轮胎和一个金属钥匙,a rubber tire?##a metallic key?,texture_val,texture
+27,864343,a metallic keychain and wooden chopsticks,一个金属钥匙扣和一副木筷子,a metallic keychain?##wooden chopsticks?,texture_val,texture
+28,997527,a fabric blanket and a leather jacket,一条布制毯子和一件皮夹克,a fabric blanket?##a leather jacket?,texture_val,texture
+29,789210,a plastic container and a glass jar,一个塑料容器和一个玻璃罐,a plastic container?##a glass jar?,texture_val,texture
+30,992807,fluffy clouds and a glass table,蓬松的云朵和一张玻璃桌子,fluffy clouds?##a glass table?,texture_val,texture
+31,54639,a rubber eraser and a metallic door knob,一个橡皮擦和一个金属门把手,a rubber eraser?##a metallic door knob?,texture_val,texture
+32,109923,a rubber tire and a leather chair,一个橡胶轮胎和一把皮椅,a rubber tire?##a leather chair?,texture_val,texture
+33,280163,a fabric bag and a glass vase,一个布袋和一个玻璃花瓶,a fabric bag?##a glass vase?,texture_val,texture
+34,295752,a plastic container and a fabric blanket,一个塑料容器和一条布毯,a plastic container?##a fabric blanket?,texture_val,texture
+35,983,a metallic desk lamp and a fabric curtain,一盏金属台灯和一幅布艺窗帘,a metallic desk lamp?##a fabric curtain?,texture_val,texture
+36,311713,a metallic desk lamp and a glass cup,一个金属台灯和一个玻璃杯,a metallic desk lamp?##a glass cup?,texture_val,texture
+37,824743,a metallic car and a fluffy sweater,一辆金属质感的汽车和一件毛茸茸的毛衣,a metallic car?##a fluffy sweater?,texture_val,texture
+38,835314,a metallic door knob and a fabric blanket,一个金属门把手和一条布制毯子,a metallic door knob?##a fabric blanket?,texture_val,texture
+39,66027,a rubber ball and a glass vase,一个橡胶球和一个玻璃花瓶,a rubber ball?##a glass vase?,texture_val,texture
+40,320318,a wooden toy and a fabric pants,一个木制玩具和一条布裤子,a wooden toy?##a fabric pants?,texture_val,texture
+41,661740,rubber sole shoes and a metallic key,橡胶鞋底的鞋子和一把金属钥匙,rubber sole shoes?##a metallic key?,texture_val,texture
+42,351042,a wooden door and a fluffy blanket,一扇木门和一条毛茸茸的毯子,a wooden door?##a fluffy blanket?,texture_val,texture
+43,687811,a plastic container and a leather chair,一个塑料容器和一把皮椅,a plastic container?##a leather chair?,texture_val,texture
+44,429309,rubber gloves and a wooden table,橡胶手套和一张木桌,rubber gloves?##a wooden table?,texture_val,texture
+45,856232,a fabric shirt and a fluffy teddy bear,一件布料衬衫和一个毛绒绒的泰迪熊,a fabric shirt?##a fluffy teddy bear?,texture_val,texture
+46,284604,a wooden floor and a fabric shirt,木质地板和布料衬衫,a wooden floor?##a fabric shirt?,texture_val,texture
+47,757752,a fabric bag and a leather chair,一个布质手提包和一把皮质椅子,a fabric bag?##a leather chair?,texture_val,texture
+48,181844,a plastic bag and a fabric pants,一个塑料袋和一条布裤子,a plastic bag?##a fabric pants?,texture_val,texture
+49,57075,a fabric pants and a fluffy rug,一条布料裤子和一张毛茸茸的地毯,a fabric pants?##a fluffy rug?,texture_val,texture
+50,657183,a metallic spoon and a glass vase,一个金属勺子和一个玻璃花瓶,a metallic spoon?##a glass vase?,texture_val,texture
+51,892818,a rubber eraser and leather gloves,一个橡皮擦和一副皮手套,a rubber eraser and leather gloves?,texture_val,texture
+52,557015,a rubber tire and a metallic fork,一个橡胶轮胎和一个金属叉子,a rubber tire?##a metallic fork?,texture_val,texture
+53,501726,a plastic container and a metallic fork,一个塑料容器和一把金属叉子,a plastic container?##a metallic fork?,texture_val,texture
+54,53863,a wooden table and a leather belt,一张木头桌子和一条皮带,a wooden table?##a leather belt?,texture_val,texture
+55,866394,a wooden floor and a glass bottle,一个木质地板和一个玻璃瓶,a wooden floor?##a glass bottle?,texture_val,texture
+56,409970,a metallic door knob and a fabric pillow,一个金属门把手和一个布艺枕头,a metallic door knob?##a fabric pillow?,texture_val,texture
+57,272378,a rubber ball and a fabric curtain,一个橡胶球和一块布帘,a rubber ball?##a fabric curtain?,texture_val,texture
+58,377051,a wooden table and a fabric blanket,一张木头桌子和一条布制毯子,a wooden table?##a fabric blanket?,texture_val,texture
+59,893194,a plastic toy and a leather bag,一个塑料玩具和一个皮质手提包,a plastic toy?##a leather bag?,texture_val,texture
+60,800235,a plastic phone case and a fabric bag,一个塑料手机壳和一个布制袋子,a plastic phone case?##a fabric bag?,texture_val,texture
+61,174068,a metallic watch and a glass bottle,一块金属手表和一个玻璃瓶,a metallic watch?##a glass bottle?,texture_val,texture
+62,651390,a metallic key and fluffy clouds,一把金属钥匙和蓬松的云朵,a metallic key and fluffy clouds?,texture_val,texture
+63,162940,rubber gloves and a metallic watch,橡胶手套和一块金属手表,rubber gloves?##a metallic watch?,texture_val,texture
+64,136731,a plastic toy and a wooden table,一个塑料玩具和一张木头桌子,a plastic toy?##a wooden table?,texture_val,texture
+65,649604,a wooden toy and a fabric hat,一个木制玩具和一顶布帽,a wooden toy?##a fabric hat?,texture_val,texture
+66,385127,a metallic fork and a fabric dress,一把金属叉子和一件布料裙子,a metallic fork?##a fabric dress?,texture_val,texture
+67,45834,a plastic cutlery and a glass mirror,一副塑料餐具和一面玻璃镜子,a plastic cutlery?##a glass mirror?,texture_val,texture
+68,508028,a fabric rug and a leather belt,一块布料地毯和一条皮带,a fabric rug?##a leather belt?,texture_val,texture
+69,793315,a plastic container and a fluffy rug,一个塑料容器和一块毛茸茸的地毯,a plastic container?##a fluffy rug?,texture_val,texture
+70,156273,a metallic car and a glass cup,一辆金属车和一个玻璃杯,a metallic car?##a glass cup?,texture_val,texture
+71,181436,a rubber tire and a plastic bottle,一个橡胶轮胎和一个塑料瓶,a rubber tire?##a plastic bottle?,texture_val,texture
+72,457468,a leather chair and a glass cup,一把皮椅和一个玻璃杯,a leather chair?##a glass cup?,texture_val,texture
+73,109691,a wooden chair and a fabric hat,一把木椅和一顶布帽,a wooden chair?##a fabric hat?,texture_val,texture
+74,509553,a wooden desk and leather gloves,一个木质书桌和一副皮手套,a wooden desk and leather gloves?,texture_val,texture
+75,22556,a plastic chair and a fluffy teddy bear,一把塑料椅和一个毛绒绒的泰迪熊,a plastic chair?##a fluffy teddy bear?,texture_val,texture
+76,996857,a fabric pillow and a leather chair,一只布艺枕头和一把皮质椅子,a fabric pillow?##a leather chair?,texture_val,texture
+77,865601,a fabric rug and a fluffy pillow,一块布艺地毯和一个蓬松的枕头,a fabric rug?##a fluffy pillow?,texture_val,texture
+78,416314,a metallic watch and a fluffy sweater,一块金属手表和一件毛茸茸的毛衣,a metallic watch?##a fluffy sweater?,texture_val,texture
+79,817548,rubber gloves and a fabric hat,橡胶手套和一顶布帽,rubber gloves?##a fabric hat?,texture_val,texture
+80,331356,a metallic key and a fabric curtain,一把金属钥匙和一块布帘,a metallic key?##a fabric curtain?,texture_val,texture
+81,410480,a plastic container and a glass window,一个塑料容器和一扇玻璃窗,a plastic container?##a glass window?,texture_val,texture
+82,233208,a fabric hat and a fluffy blanket,一顶布料帽子和一条毛茸茸的毯子,a fabric hat?##a fluffy blanket?,texture_val,texture
+83,140544,a metallic spoon and a fluffy blanket,一把金属勺子和一条柔软的毯子,a metallic spoon?##a fluffy blanket?,texture_val,texture
+84,4204,a wooden spoon and a glass bottle,一个木勺和一个玻璃瓶,a wooden spoon?##a glass bottle?,texture_val,texture
+85,560229,a metallic desk lamp and a fabric dress,一盏金属台灯和一件布料连衣裙,a metallic desk lamp?##a fabric dress?,texture_val,texture
+86,778035,a fabric blanket and a fluffy blanket,一条布料毯子和一条毛茸茸的毯子,a fabric blanket?##a fluffy blanket?,texture_val,texture
+87,793954,a metallic door knob and a fabric pants,一个金属门把手和一条布料裤子,a metallic door knob?##a fabric pants?,texture_val,texture
+88,730549,a rubber band and wooden chopsticks,一根橡皮筋和一双木筷子,a rubber band?##wooden chopsticks?,texture_val,texture
+89,227870,rubber sole shoes and a fluffy blanket,橡胶底鞋和一条毛茸茸的毯子,rubber sole shoes?##a fluffy blanket?,texture_val,texture
+90,984420,a plastic container and a fluffy teddy bear,一个塑料容器和一个毛绒绒的泰迪熊,a plastic container?##a fluffy teddy bear?,texture_val,texture
+91,669533,a metallic door knob and a wooden desk,一个金属门把手和一张木制书桌,a metallic door knob?##a wooden desk?,texture_val,texture
+92,125858,a wooden chair and a fluffy teddy bear,一把木椅和一个毛绒绒的泰迪熊,a wooden chair?##a fluffy teddy bear?,texture_val,texture
+93,927975,a metallic jewelry and a fabric dress,一件金属首饰和一条布料裙子,a metallic jewelry?##a fabric dress?,texture_val,texture
+94,537067,a rubber ball and a metallic car,一个橡胶球和一辆金属车,a rubber ball?##a metallic car?,texture_val,texture
+95,998945,a fabric rug and fluffy clouds,一块织物地毯和蓬松的云朵,a fabric rug and fluffy clouds?,texture_val,texture
+96,869557,a plastic chair and leather gloves,一把塑料椅和一对皮手套,a plastic chair?##leather?,texture_val,texture
+97,808091,a wooden door and a fabric dress,一扇木门和一件布料裙子,a wooden door?##a fabric dress?,texture_val,texture
+98,407504,a plastic bag and a glass jar,一个塑料袋和一个玻璃罐,a plastic bag?##a glass jar?,texture_val,texture
+99,587157,a rubber band and a glass jar,一个橡皮筋和一个玻璃罐,a rubber band?##a glass jar?,texture_val,texture
+100,123144,a plastic chair and a metallic car,一把塑料椅子和一辆金属汽车,a plastic chair?##a metallic car?,texture_val,texture
+101,124685,a plastic cutlery and a wooden door,一套塑料餐具和一扇木门,a plastic cutlery?##a wooden door?,texture_val,texture
+102,960622,a metallic knife and a glass jar,一把金属刀和一个玻璃罐,a metallic knife?##a glass jar?,texture_val,texture
+103,875079,a rubber ball and a leather shoes,一个橡胶球和一双皮鞋,a rubber ball?##a leather shoes?,texture_val,texture
+104,286045,rubber gloves and a fluffy pillow,橡胶手套和一个毛茸茸的枕头,rubber gloves?##a fluffy pillow?,texture_val,texture
+105,2479,a fabric blanket and a glass jar,一条布毯和一个玻璃罐,a fabric blanket?##a glass jar?,texture_val,texture
+106,665583,a fluffy pillow and a glass window,一个蓬松的枕头和一扇玻璃窗,a fluffy pillow?##a glass window?,texture_val,texture
+107,924733,a metallic key and a wooden jewelry box,一把金属钥匙和一个木质首饰盒,a metallic key?##a wooden jewelry box?,texture_val,texture
+108,284893,a metallic keychain and a fluffy teddy bear,,a metallic keychain?##a fluffy teddy bear?,texture_val,texture
+109,287635,a rubber band and a wooden toy,,a rubber band?##a wooden toy?,texture_val,texture
+110,738002,a plastic bottle and a leather jacket,一个塑料瓶和一件皮夹克,a plastic bottle?##a leather jacket?,texture_val,texture
+111,494724,a plastic phone case and a wooden toy,一个塑料手机壳和一个木制玩具,a plastic phone case?##a wooden toy?,texture_val,texture
+112,553335,rubber sole shoes and a plastic container,橡胶底鞋和一个塑料容器,rubber sole shoes?##a plastic container?,texture_val,texture
+113,531221,a fluffy pillow and a leather belt,一个蓬松的枕头和一条皮带,a fluffy pillow?##a leather belt?,texture_val,texture
+114,946229,a rubber band and a fabric blanket,一根橡皮筋和一块布毯,a rubber band?##a fabric blanket?,texture_val,texture
+115,981445,a metallic door knob and a glass mirror,一个金属门把手和一面玻璃镜子,a metallic door knob?##a glass mirror?,texture_val,texture
+116,589289,leather gloves and a glass jar,皮手套和一个玻璃罐,leather gloves?##a glass jar?,texture_val,texture
+117,375123,rubber sole shoes and a fluffy teddy bear,橡胶底鞋和一个毛绒绒的泰迪熊,rubber sole shoes?##a fluffy teddy bear?,texture_val,texture
+118,338259,rubber gloves and a metallic knife,,rubber gloves?##a metallic knife?,texture_val,texture
+119,775137,wooden chopsticks and a glass cup,木筷子和一个玻璃杯,wooden chopsticks?##a glass cup?,texture_val,texture
+120,379528,a rubber band and a glass window,一根橡皮筋和一扇玻璃窗,a rubber band?##a glass window?,texture_val,texture
+121,189596,a metallic desk lamp and a leather jacket,一盏金属台灯和一件皮夹克,a metallic desk lamp?##a leather jacket?,texture_val,texture
+122,592747,a fabric pillow and a fluffy blanket,一只布艺枕头和一条蓬松的毯子,a fabric pillow?##a fluffy blanket?,texture_val,texture
+123,627811,a fabric hat and a glass mirror,一顶布帽和一面玻璃镜子,a fabric hat?##a glass mirror?,texture_val,texture
+124,411065,a rubber ball and a leather belt,一个橡胶球和一条皮带,a rubber ball?##a leather belt?,texture_val,texture
+125,33569,a plastic phone case and a fabric curtain,一个塑料手机壳和一块布艺窗帘,a plastic phone case?##a fabric curtain?,texture_val,texture
+126,44238,a rubber band and a fabric curtain,一根橡皮筋和一块布窗帘,a rubber band?##a fabric curtain?,texture_val,texture
+127,276721,a metallic fork and leather gloves,一把金属叉和一副皮手套,a metallic fork?##leather gloves?,texture_val,texture
+128,798901,a metallic spoon and wooden chopsticks,一把金属勺子和一双木筷子,a metallic spoon and wooden chopsticks?,texture_val,texture
+129,691019,a rubber ball and a metallic spoon,一个橡胶球和一个金属勺子,a rubber ball?##a metallic spoon?,texture_val,texture
+130,956819,a metallic fork and a fabric blanket,一只金属叉子和一条布毯,a metallic fork?##a fabric blanket?,texture_val,texture
+131,366118,a rubber tire and a fluffy rug,一个橡胶轮胎和一块毛茸茸的地毯,a rubber tire?##a fluffy rug?,texture_val,texture
+132,951802,a metallic jewelry and a wooden spoon,一件金属首饰和一个木勺子,a metallic jewelry?##a wooden spoon?,texture_val,texture
+133,734072,rubber gloves and a wooden spoon,橡胶手套和木勺子,rubber gloves?##a wooden spoon?,texture_val,texture
+134,277837,a metallic watch and a fluffy towel,一块金属手表和一条柔软的毛巾,a metallic watch?##a fluffy towel?,texture_val,texture
+135,870358,a plastic chair and a glass mirror,一个塑料椅子和一面玻璃镜子,a plastic chair?##a glass mirror?,texture_val,texture
+136,413676,a rubber band and a glass table,一根橡皮筋和一张玻璃桌子,a rubber band?##a glass table?,texture_val,texture
+137,981426,rubber gloves and a metallic car,橡胶手套和一辆金属车,rubber gloves?##a metallic car?,texture_val,texture
+138,594152,rubber gloves and a plastic toy,橡胶手套和一个塑料玩具,rubber gloves?##a plastic toy?,texture_val,texture
+139,610358,a fabric shirt and a leather wallet,一件布料衬衫和一个皮质钱包,a fabric shirt?##a leather wallet?,texture_val,texture
+140,366157,a fabric pants and a fluffy blanket,一条布料裤子和一条蓬松的毯子,a fabric pants?##a fluffy blanket?,texture_val,texture
+141,523767,a metallic car and a leather shoes,一辆金属质感的汽车和一双皮鞋,a metallic car?##a leather shoes?,texture_val,texture
+142,663332,a rubber ball and a glass mirror,一个橡胶球和一面玻璃镜子,a rubber ball?##a glass mirror?,texture_val,texture
+143,176887,rubber gloves and leather gloves,橡胶手套和皮手套,rubber gloves?##leather gloves?,texture_val,texture
+144,731612,a metallic desk lamp and a fluffy blanket,一盏金属台灯和一条柔软的毯子,a metallic desk lamp?##a fluffy blanket?,texture_val,texture
+145,346388,rubber gloves and a metallic door knob,橡胶手套和一个金属门把手,rubber gloves?##a metallic door knob?,texture_val,texture
+146,264309,a leather belt and a glass bottle,一条皮带和一个玻璃瓶,a leather belt?##a glass bottle?,texture_val,texture
+147,835419,a rubber ball and a plastic phone case,一个橡胶球和一个塑料手机壳,a rubber ball?##a plastic phone case?,texture_val,texture
+148,59857,a wooden jewelry box and a fabric blanket,一个木质首饰盒和一条布艺毯子,a wooden jewelry box?##a fabric blanket?,texture_val,texture
+149,836458,a plastic bag and a wooden table,一个塑料袋和一张木头桌子,a plastic bag?##a wooden table?,texture_val,texture
+150,93303,a metallic keychain and a wooden jewelry box,一个金属钥匙扣和一个木制首饰盒,a metallic keychain?##a wooden jewelry box?,texture_val,texture
+151,536214,a wooden floor and a fluffy rug,一块木质地板和一张毛茸茸的地毯,a wooden floor?##a fluffy rug?,texture_val,texture
+152,294346,a plastic chair and a wooden chair,一把塑料椅和一把木椅,a plastic chair?##a wooden chair?,texture_val,texture
+153,575896,a rubber tire and a wooden table,一个橡胶轮胎和一张木制桌子,a rubber tire?##a wooden table?,texture_val,texture
+154,92049,a metallic keychain and a fabric pants,一个金属钥匙扣和一条布料裤子,a metallic keychain?##a fabric pants?,texture_val,texture
+155,50820,a plastic bag and a fluffy rug,一个塑料袋和一张毛茸茸的地毯,a plastic bag?##a fluffy rug?,texture_val,texture
+156,696980,a wooden door and a glass mirror,一扇木门和一面玻璃镜子,a wooden door?##a glass mirror?,texture_val,texture
+157,350804,a wooden jewelry box and a fluffy blanket,一个木质首饰盒和一条毛茸茸的毯子,a wooden jewelry box?##a fluffy blanket?,texture_val,texture
+158,72360,a fabric hat and a fluffy sweater,一顶布料帽子和一件蓬松的毛衣,a fabric hat?##a fluffy sweater?,texture_val,texture
+159,444850,a plastic bottle and a leather wallet,一个塑料瓶和一个皮质钱包,a plastic bottle?##a leather wallet?,texture_val,texture
+160,316301,a plastic phone case and a fabric hat,一个塑料手机壳和一顶布料帽子,a plastic phone case?##a fabric hat?,texture_val,texture
+161,825568,a metallic spoon and a fluffy towel,一把金属勺子和一条柔软的毛巾,a metallic spoon?##a fluffy towel?,texture_val,texture
+162,180228,a rubber eraser and a plastic chair,一个橡皮擦和一把塑料椅子,a rubber eraser?##a plastic chair?,texture_val,texture
+163,386897,a metallic spoon and a glass window,一把金属勺子和一扇玻璃窗,a metallic spoon?##a glass window?,texture_val,texture
+164,86800,a rubber tire and a wooden spoon,一个橡胶轮胎和一个木勺子,a rubber tire?##a wooden spoon?,texture_val,texture
+165,482940,rubber sole shoes and a metallic car,橡胶鞋底的鞋子和一辆金属车,rubber sole shoes?##a metallic car?,texture_val,texture
+166,350140,a plastic cutlery and a wooden picture frame,一套塑料餐具和一个木质相框,a plastic cutlery?##a wooden picture frame?,texture_val,texture
+167,819441,a metallic fork and a fluffy blanket,一只金属叉子和一条柔软的毯子,a metallic fork?##a fluffy blanket?,texture_val,texture
+168,656981,a plastic toy and a metallic jewelry,一个塑料玩具和一件金属首饰,a plastic toy?##a metallic jewelry?,texture_val,texture
+169,387715,rubber sole shoes and a glass cup,橡胶鞋底的鞋子和一个玻璃杯,rubber sole shoes?##a glass cup?,texture_val,texture
+170,831680,a wooden floor and a glass window,木质地板和玻璃窗户,a wooden floor?##a glass window?,texture_val,texture
+171,95581,a fabric shirt and a glass window,一件布料制成的衬衫和一扇玻璃窗,a fabric shirt?##a glass window?,texture_val,texture
+172,486492,a plastic container and a fabric curtain,一个塑料容器和一块布窗帘,a plastic container?##a fabric curtain?,texture_val,texture
+173,96941,a plastic container and a metallic jewelry,一个塑料容器和一件金属首饰,a plastic container?##a metallic jewelry?,texture_val,texture
+174,7540,a rubber eraser and a metallic keychain,一个橡皮擦和一个金属钥匙扣,a rubber eraser?##a metallic keychain?,texture_val,texture
+175,499998,a fabric dress and a fluffy towel,一件布料连衣裙和一条毛茸茸的毛巾,a fabric dress?##a fluffy towel?,texture_val,texture
+176,317643,a rubber tire and a plastic container,一个橡胶轮胎和一个塑料容器,a rubber tire?##a plastic container?,texture_val,texture
+177,854016,a plastic chair and a fabric shirt,一把塑料椅子和一件布料衬衫,a plastic chair?##a fabric shirt?,texture_val,texture
+178,371340,a metallic fork and a wooden desk,一把金属叉子和一张木制书桌,a metallic fork?##a wooden desk?,texture_val,texture
+179,235669,a metallic jewelry and a leather wallet,一件金属首饰和一个皮质钱包,a metallic jewelry?##a leather wallet?,texture_val,texture
+180,162466,a plastic phone case and leather gloves,一个塑料手机壳和一双皮手套,a plastic phone case?##leather gloves?,texture_val,texture
+181,769585,a metallic key and a fabric bag,一把金属钥匙和一个布袋,a metallic key?##a fabric bag?,texture_val,texture
+182,468838,a rubber tire and a fabric pillow,一个橡胶轮胎和一个布艺枕头,a rubber tire?##a fabric pillow?,texture_val,texture
+183,389253,rubber gloves and a wooden floor,橡胶手套和木地板,rubber gloves?##a wooden floor?,texture_val,texture
+184,387406,a plastic bag and a leather chair,一个塑料袋和一把皮椅,a plastic bag?##a leather chair?,texture_val,texture
+185,962364,a metallic car and a leather jacket,一辆金属质感的汽车和一件皮夹克,a metallic car?##a leather jacket?,texture_val,texture
+186,289364,a rubber eraser and a wooden picture frame,一个橡皮擦和一个木质相框,a rubber eraser?##a wooden picture frame?,texture_val,texture
+187,164606,a fluffy towel and a leather belt,一条柔软的毛巾和一条皮带,a fluffy towel?##a leather belt?,texture_val,texture
+188,736850,a fabric blanket and a glass cup,一条布毯和一个玻璃杯,a fabric blanket?##a glass cup?,texture_val,texture
+189,250822,a plastic container and a fluffy blanket,一个塑料容器和一条柔软的毯子,a plastic container?##a fluffy blanket?,texture_val,texture
+190,522814,a metallic fork and a wooden jewelry box,一把金属叉子和一个木质珠宝盒,a metallic fork?##a wooden jewelry box?,texture_val,texture
+191,606209,a fluffy pillow and a leather shoes,一只松软的枕头和一双皮鞋,a fluffy pillow?##a leather shoes?,texture_val,texture
+192,143571,a fluffy towel and a glass jar,一条柔软的毛巾和一个玻璃罐,a fluffy towel?##a glass jar?,texture_val,texture
+193,587715,a metallic fork and a wooden spoon,一个金属叉子和一个木勺子,a metallic fork?##a wooden spoon?,texture_val,texture
+194,485456,a rubber ball and a fluffy towel,一个橡皮球和一条毛茸茸的毛巾,a rubber ball?##a fluffy towel?,texture_val,texture
+195,232487,a rubber eraser and a leather belt,一个橡皮擦和一条皮带,a rubber eraser?##a leather belt?,texture_val,texture
+196,296230,a plastic phone case and a metallic jewelry,一个塑料手机壳和一件金属饰品,a plastic phone case?##a metallic jewelry?,texture_val,texture
+197,899879,a plastic container and a fluffy sweater,一个塑料容器和一件毛茸茸的毛衣,a plastic container?##a fluffy sweater?,texture_val,texture
+198,777549,a rubber band and a fabric towel,一根橡皮筋和一条布毛巾,a rubber band?##a fabric towel?,texture_val,texture
+199,361201,a fabric dress and a glass vase,一件布料连衣裙和一个玻璃花瓶,a fabric dress?##a glass vase?,texture_val,texture
+200,997910,rubber boots and a glass plate,橡胶靴和玻璃板,rubber boots?##a glass plate?,texture_val,texture
+201,43579,a metallic necklace and a fabric sweater,一条金属项链和一件布料毛衣,a metallic necklace?##a fabric sweater?,texture_val,texture
+202,226420,rubber boots and a leather sofa,橡胶靴和皮质沙发,rubber boots?##a leather sofa?,texture_val,texture
+203,891527,a plastic cup and a leather hat,一个塑料杯和一顶皮帽,a plastic cup?##a leather hat?,texture_val,texture
+204,875010,rubber mat and a glass bowl,橡胶垫和玻璃碗,rubber mat?##a glass bowl?,texture_val,texture
+205,403250,a fabric sweater and a fluffy hat,一件布料制成的毛衣和一顶蓬松的帽子,a fabric sweater?##a fluffy hat?,texture_val,texture
+206,804061,a metallic bracelet and a fabric jacket,一条金属手链和一件布料夹克,a metallic bracelet?##a fabric jacket?,texture_val,texture
+207,646559,a wooden fork and a leather sofa,一个木制叉子和一张皮质沙发,a wooden fork?##a leather sofa?,texture_val,texture
+208,589493,wooden pencils and a fluffy scarf,木质铅笔和一条蓬松的围巾,wooden pencils?##a fluffy scarf?,texture_val,texture
+209,79882,rubber boots and a plastic cup,橡胶靴和一个塑料杯,rubber boots?##a plastic cup?,texture_val,texture
+210,284457,a fluffy hat and a glass plate,一顶毛茸茸的帽子和一个玻璃盘子,a fluffy hat?##a glass plate?,texture_val,texture
+211,98966,a plastic cup and a fabric sweater,一个塑料杯和一件布料毛衣,a plastic cup?##a fabric sweater?,texture_val,texture
+212,598212,a metallic bracelet and a wooden knife,一条金属手链和一把木制刀具,a metallic bracelet?##a wooden knife?,texture_val,texture
+213,839081,a metallic necklace and a wooden fork,一条金属项链和一个木制叉子,a metallic necklace?##a wooden fork?,texture_val,texture
+214,261190,a metallic ring and a fluffy hat,一个金属戒指和一顶毛茸茸的帽子,a metallic ring?##a fluffy hat?,texture_val,texture
+215,672728,a fabric scarf and a glass bowl,一条布制围巾和一个玻璃碗,a fabric scarf?##a glass bowl?,texture_val,texture
+216,945200,a fabric scarf and a leather hat,一条布制围巾和一顶皮质帽子,a fabric scarf?##a leather hat?,texture_val,texture
+217,161463,wooden pencils and a leather hat,木质铅笔和一顶皮帽,wooden pencils?##a leather hat?,texture_val,texture
+218,691854,wooden pencils and a leather sofa,木质铅笔和皮质沙发,wooden pencils?##a leather sofa?,texture_val,texture
+219,502956,a wooden fork and a glass bowl,一个木叉和一个玻璃碗,a wooden fork?##a glass bowl?,texture_val,texture
+220,340996,a metallic ring and a glass plate,一个金属环和一个玻璃板,a metallic ring?##a glass plate?,texture_val,texture
+221,963909,a fabric jacket and a glass plate,一件布料夹克和一块玻璃盘子,a fabric jacket?##a glass plate?,texture_val,texture
+222,940367,a metallic bracelet and a leather hat,一条金属手链和一顶皮质帽子,a metallic bracelet?##a leather hat?,texture_val,texture
+223,47598,a metallic earring and a leather sofa,,a metallic earring?##a leather sofa?,texture_val,texture
+224,800571,a fabric sweater and a leather watch,一件布料毛衣和一块皮质手表,a fabric sweater?##a leather watch?,texture_val,texture
+225,112207,a plastic plate and a fluffy hat,一个塑料盘子和一顶毛茸茸的帽子,a plastic plate?##a fluffy hat?,texture_val,texture
+226,787421,a metallic ring and a wooden knife,一个金属戒指和一把木制刀具,a metallic ring?##a wooden knife?,texture_val,texture
+227,909488,a plastic plate and a fluffy scarf,一个塑料盘和一条蓬松的围巾,a plastic plate?##a fluffy scarf?,texture_val,texture
+228,26093,a fabric sweater and a leather sofa,一件布料毛衣和一张皮质沙发,a fabric sweater?##a leather sofa?,texture_val,texture
+229,402421,a plastic cup and a wooden knife,一个塑料杯和一把木刀,a plastic cup?##a wooden knife?,texture_val,texture
+230,840123,a metallic necklace and a leather hat,一条金属项链和一顶皮质帽子,a metallic necklace?##a leather hat?,texture_val,texture
+231,650795,rubber mat and a metallic bracelet,橡胶垫和金属手链,rubber mat?##a metallic bracelet?,texture_val,texture
+232,535251,a fabric scarf and a leather sofa,一条布料围巾和一张皮质沙发,a fabric scarf?##a leather sofa?,texture_val,texture
+233,786065,a metallic earring and a fabric jacket,一只金属耳环和一件布料夹克,a metallic earring?##a fabric jacket?,texture_val,texture
+234,366734,rubber mat and a fluffy scarf,橡胶垫和一条毛茸茸的围巾,rubber mat?##a fluffy scarf?,texture_val,texture
+235,810631,a fluffy hat and a leather hat,一顶毛茸茸的帽子和一顶皮质帽子,a fluffy hat?##a leather hat?,texture_val,texture
+236,526562,rubber boots and a leather watch,橡胶靴和皮质手表,rubber boots?##a leather watch?,texture_val,texture
+237,18960,a metallic ring and a fabric sweater,一个金属戒指和一件布料毛衣,a metallic ring?##a fabric sweater?,texture_val,texture
+238,733494,a wooden fork and a leather hat,一个木制的叉子和一个皮质的帽子,a wooden fork?##a leather hat?,texture_val,texture
+239,324797,wooden pencils and a glass plate,木质铅笔和玻璃板,wooden pencils?##a glass plate?,texture_val,texture
+240,766145,The glass perfume bottle and metallic cap release the fragrance of the wooden scent on the fabric handkerchief.,玻璃香水瓶和金属瓶盖释放出的木质香味，渗透到织物手帕上。,The glass perfume bottle?##metallic cap?##the fragrance?##the wooden scent?##the fabric handkerchief?,texture_val,texture
+241,559548,The metallic whisk and wooden bowl mix the fluffy batter for the cake on the plastic counter.,金属打蛋器和木碗在塑料台面上搅拌着蛋糕的蓬松面糊。,The metallic whisk?##wooden bowl?##the fluffy batter?##the cake?##the plastic counter?,texture_val,texture
+242,667270,The leather wallet and fluffy keychain hang on the metallic hook by the wooden door.,皮钱包和毛绒钥匙链挂在木门旁的金属钩上。,The leather wallet?##fluffy keychain?##the metallic hook?##the wooden door?,texture_val,texture
+243,851786,The wooden ladder and glass jar hold the metallic screws for the shelf on the fabric workbench.,木梯和玻璃罐用来存放架子上的金属螺丝，放在布艺工作台上。,The wooden ladder and glass jar?##the metallic screws?##the shelf?##the fabric workbench?,texture_val,texture
+244,480740,The metallic chair and plastic table hold the wooden laptop for the fluffy student in the library.,图书馆里，一张塑料桌子和一把金属椅子托着木质笔记本电脑，供那位毛茸茸的学生使用。,The metallic chair?##plastic table?##the wooden laptop?##the fluffy student?##the library?,texture_val,texture
+245,991897,The fluffy rug and leather ottoman rest on the wooden floor in the cozy reading nook.,舒适的阅读角落里，毛茸茸的地毯和皮革脚踏凳安放在木地板上。,The fluffy rug and leather ottoman rest?##the wooden floor?##the cozy reading nook?,texture_val,texture
+246,97994,The glass vase and metallic stand display the wooden flowers on the fabric dresser.,玻璃花瓶和金属支架将木制花朵展示在布艺梳妆台上。,The glass vase?##metallic stand?##the wooden flowers?##the fabric dresser?,texture_val,texture
+247,222504,The wooden spoon and metallic ladle serve the fluffy soup in the plastic bowl.,木勺和金属杓子被用来盛装塑料碗中的松软汤品。,The wooden spoon?##metallic ladle?##the fluffy soup?##the plastic bowl?,texture_val,texture
+248,122904,The leather shoes and fluffy socks rest on the metallic rack by the glass door.,皮鞋和蓬松的袜子放在玻璃门旁的金属架上。,The leather shoes?##fluffy socks?##the metallic rack?##the glass door?,texture_val,texture
+249,602545,The wooden crate and glass bottle hold the metallic soda on the fabric picnic blanket.,木制箱子和玻璃瓶将金属味苏打水放在了布质野餐毯上。,The wooden crate and glass bottle?##the metallic soda?##the fabric picnic blanket?,texture_val,texture
+250,738630,The metallic lamp and wooden desk provide light for the glass computer on the fluffy chair.,金属灯和木质桌子为放在蓬松椅子上的玻璃电脑提供了光线。,The metallic lamp?##wooden desk?##light?##the glass computer?##the fluffy chair?,texture_val,texture
+251,907394,The leather journal and wooden pen rest on the fabric notebook for the metallic writer.,皮革日记本和木质笔托放在了布面笔记本上，为那位金属作家而准备。,The leather journal?##wooden pen rest?##the fabric notebook?##the metallic writer?,texture_val,texture
+252,753105,The wooden cutting board and metallic cheese grater slice the fluffy cheddar for the plastic sandwich.,木制砧板和金属奶酪刨将蓬松的切达奶酪切片，用于塑料三明治。,The wooden cutting board?##metallic cheese grater slice?##the fluffy cheddar?##the plastic sandwich?,texture_val,texture
+253,435854,The glass test tube and metallic clamp hold the wooden pipette for the fluffy experiment.,玻璃试管和金属夹持住木质滴管，用于进行这个蓬松实验。,The glass test tube?##metallic clamp?##the wooden pipette?##the fluffy experiment?,texture_val,texture
+254,787783,The leather wallet and metallic coin purse hold the plastic credit cards on the fabric counter.,皮质钱包和金属零钱包里装着塑料信用卡，放在布面柜台上。,The leather wallet?##metallic coin purse?##the plastic credit cards?##the fabric counter?,texture_val,texture
+255,245205,The wooden salad bowl and metallic tongs mix the fluffy greens for the glass dinner party.,木质沙拉碗和金属夹子搅拌着蓬松的绿叶蔬菜，为玻璃晚宴会增添风味。,The wooden salad bowl?##metallic tongs?##the fluffy greens?##the glass dinner party?,texture_val,texture
+256,53891,The metallic pot and wooden spoon boil the fluffy noodles on the plastic stove.,金属锅和木勺子在塑料炉上煮着蓬松的面条。,The metallic pot?##wooden spoon?##the fluffy noodles?##the plastic stove?,texture_val,texture
+257,572960,The glass picture frame and metallic stand display the wooden photo on the fabric nightstand.,玻璃相框和金属支架将木质照片展示在布艺床头柜上。,The glass picture frame?##metallic stand?##the wooden photo?##the fabric nightstand?,texture_val,texture
+258,644261,The fluffy cat and leather collar nap on the wooden windowsill next to the glass vase.,毛茸茸的猫和皮质项圈一起躺在木制窗台上，旁边是玻璃花瓶。,The fluffy cat?##leather collar nap?##the wooden windowsill?##the glass vase?,texture_val,texture
+259,579990,The wooden bookshelf and metallic bookends hold the plastic books for the fluffy reader.,木制书架和金属书挡托着塑料书本，供毛茸茸的读者使用。,The wooden bookshelf and metallic bookends?##the plastic books?##the fluffy reader?,texture_val,texture
+260,124304,The metallic bicycle and wooden basket hold the fluffy flowers on the plastic handlebar.,金属自行车上的木制篮子挂在塑料把手上，里面装着蓬松的花朵。,The metallic bicycle?##wooden basket?##the fluffy flowers?##the plastic handlebar?,texture_val,texture
+261,390796,The glass candle holder and metallic candlestick illuminate the wooden dining table on the fabric tablecloth.,玻璃烛台和金属烛杆在布艺桌布上的木餐桌上发出柔和的光芒。,The glass candle holder?##metallic candlestick?##the wooden dining table?##the fabric tablecloth?,texture_val,texture
+262,400897,The leather wallet and fluffy coin pouch hold the metallic change for the plastic vending machine.,皮质钱包和毛茸茸的零钱袋装着用于塑料自动售货机的金属硬币。,The leather wallet?##fluffy coin pouch?##the metallic change?##the plastic vending machine?,texture_val,texture
+263,933741,The wooden ruler and glass magnifying glass measure the metallic screws on the fabric workbench.,木制尺子和玻璃放大镜用于测量布面工作台上的金属螺丝。,The wooden ruler?##glass magnifying glass?##the metallic screws?##the fabric workbench?,texture_val,texture
+264,22019,The metallic pen and plastic notebook write the wooden notes for the fluffy presentation.,金属笔和塑料笔记本为轻松的展示撰写木质笔记。,The metallic pen and plastic notebook?##the wooden notes?##the fluffy presentation?,texture_val,texture
+265,172110,The fluffy teddy bear and leather collar sit on the glass shelf by the wooden bed.,,The fluffy teddy bear?##leather collar?##the glass shelf?##the wooden bed?,texture_val,texture
+266,12830,The wooden rolling pin and metallic cookie cutter shape the fluffy dough for the plastic cookies.,木制的擀面杖和金属饼干模具将蓬松的面团塑形成塑料饼干的形状。,The wooden rolling pin?##metallic cookie cutter?##the fluffy dough?##the plastic cookies?,texture_val,texture
+267,679880,The glass fish tank and metallic filter provide a home for the wooden fish on the fluffy stand.,玻璃鱼缸和金属过滤器为木制鱼提供了一个位于蓬松支架上的家。,The glass fish tank?##metallic filter?##a home?##the wooden fish?##the fluffy stand?,texture_val,texture
+268,616263,The metallic spoon and wooden chopsticks stir the fluffy noodles in the plastic takeout container.,金属勺子和木筷子在塑料外卖盒里搅拌着蓬松的面条。,The metallic spoon?##wooden chopsticks?##the fluffy noodles?##the plastic takeout container?,texture_val,texture
+269,165041,The leather belt and fluffy scarf hang on the metallic hook by the glass mirror.,皮带和蓬松的围巾挂在玻璃镜子旁的金属挂钩上。,The leather belt?##fluffy scarf hang?##the metallic hook?##the glass mirror?,texture_val,texture
+270,110191,The wooden birdhouse and glass bird feeder attract the metallic birds on the fabric tree.,木制鸟屋和玻璃鸟食器吸引了布艺树上的金属鸟。,The wooden birdhouse?##glass bird feeder?##the metallic birds?##the fabric tree?,texture_val,texture
+271,854576,The fluffy towel and plastic soap dish rest on the metallic tray by the wooden bathtub.,毛茸茸的毛巾和塑料肥皂盒放在木制浴缸旁的金属托盘上。,The fluffy towel?##plastic soap dish rest?##the metallic tray?##the wooden bathtub?,texture_val,texture
+272,38284,The glass baking dish and wooden spoon bake the metallic lasagna for the fluffy dinner party.,玻璃烤盘和木勺一起烹制金属质感的千层面，为这个温馨的晚宴增添风味。,The glass?##wooden spoon?##the metallic lasagna?##the fluffy dinner party?,texture_val,texture
+273,594587,The metallic stapler and leather portfolio hold the plastic documents on the wooden desk.,金属订书机和皮质文件夹将塑料文件固定在木桌上。,The metallic stapler and leather portfolio?##the plastic documents?##the wooden desk?,texture_val,texture
+274,635993,The wooden birdhouse and fluffy bird perch on the metallic pole by the glass window.,木制的鸟屋和蓬松的鸟栖息在靠近玻璃窗的金属杆上。,The wooden birdhouse?##fluffy bird perch?##the metallic pole?##the glass window?,texture_val,texture
+275,567204,The glass vase and metallic watering can hold the wooden flowers on the fabric windowsill.,玻璃花瓶和金属浇水壶一起托着木制花朵，放在布艺窗台上。,The glass vase?##metallic watering?##the wooden flowers?##the fabric windowsill?,texture_val,texture
+276,689987,The metallic pan and plastic spatula cook the fluffy eggs on the wooden stove.,金属平底锅和塑料铲子在木制灶上煎着蓬松的鸡蛋。,The metallic pan?##plastic spatula?##the fluffy eggs?##the wooden stove?,texture_val,texture
+277,483188,The wooden bookshelf and glass bookends hold the metallic books for the fluffy bookworm.,木制书架和玻璃书挡托着金属质地的书籍，供那位爱书的绒毛书虫享用。,The wooden bookshelf and glass bookends?##the metallic books?##the fluffy bookworm?,texture_val,texture
+278,555202,The leather chair and metallic lamp provide comfort and light for the wooden desk on the fluffy rug.,皮质椅子和金属灯为放在蓬松地毯上的木质书桌提供了舒适和光明。,The leather chair?##metallic lamp?##comfort?##light?##the wooden desk?##the fluffy rug?,texture_val,texture
+279,14571,The glass terrarium and wooden plant holder display the metallic succulent on the fabric shelf.,玻璃生态瓶和木质植物架在布艺架上展示了金属质感的多肉植物。,The glass terrarium and wooden plant holder?##the metallic succulent?##the fabric shelf?,texture_val,texture
+280,906072,The metallic hammer and wooden mallet pound the fluffy nails into the plastic board.,金属锤和木槌将蓬松的钉子敲入塑料板中。,The metallic hammer?##mallet?##the fluffy nails?##the plastic board?,texture_val,texture
+281,983609,The glass vase and metallic frame display the wooden flowers on the fabric mantle.,玻璃花瓶和金属框架将木制花朵展示在布艺壁炉架上。,The glass vase?##metallic frame?##the wooden flowers?##the fabric mantle?,texture_val,texture
+282,74273,The leather belt and fluffy hat hang on the metallic hook by the glass door.,皮带和毛茸茸的帽子挂在玻璃门旁的金属钩上。,The leather belt?##fluffy hat?##the metallic hook?##the glass door?,texture_val,texture
+283,430441,The wooden pencil and metallic sharpener write the fluffy notes on the plastic notepad.,木质铅笔和金属铅笔刀在塑料记事本上记录着轻柔的笔记。,The wooden pencil?##metallic sharpener?##the fluffy notes?##the plastic notepad?,texture_val,texture
+284,948960,The fluffy pillow and glass lampshade rest on the wooden nightstand by the metallic bed.,蓬松的枕头和玻璃灯罩放在金属床旁的木制床头柜上。,The fluffy pillow and glass lampshade rest?##the wooden nightstand?##the metallic bed?,texture_val,texture
+285,901640,The wooden spoon and plastic measuring cup mix the metallic ingredients for the fluffy cake batter.,木勺和塑料量杯被用来混合蓬松蛋糕糊的金属成分。,The wooden spoon?##plastic measuring cup?##the metallic ingredients?##the fluffy cake batter?,texture_val,texture
+286,155403,The leather jacket and metallic zipper keep the fluffy wearer warm on the glass sidewalk.,皮夹克和金属拉链让穿着者在玻璃人行道上保持温暖。,The leather jacket?##metallic zipper?##the fluffy wearer?##the glass sidewalk?,texture_val,texture
+287,740640,The metallic whisk and plastic bowl beat the fluffy egg whites for the wooden meringue.,金属打蛋器和塑料碗将蛋白打发至松软，用于制作木质风味的蛋白霜。,The metallic whisk and plastic bowl?##the fluffy egg whites?##the wooden meringue?,texture_val,texture
+288,286830,The wooden hanger and fluffy dress hang on the metallic rack by the glass mirror.,木质衣架上挂着蓬松的连衣裙，放在玻璃镜子旁的金属架上。,The wooden hanger and fluffy dress hang?##the metallic rack?##the glass mirror?,texture_val,texture
+289,995024,The glass bottle and metallic opener hold the wooden beer for the fluffy party.,玻璃瓶和金属开瓶器为毛茸茸的聚会准备了木质啤酒。,The glass bottle?##metallic opener?##the wooden beer?##the fluffy party?,texture_val,texture
+290,564074,The metallic scissors and plastic ruler cut the fluffy paper for the wooden craft project.,金属剪刀和塑料尺子裁剪着蓬松的纸张，用于木制手工艺项目。,The metallic scissors?##plastic ruler?##the fluffy paper?##the wooden craft project?,texture_val,texture
+291,377964,The wooden clipboard and glass paperweight hold the metallic documents for the fluffy meeting.,木质的剪贴板和玻璃纸镇固定着金属文件，为这场轻松的会议做准备。,The wooden clipboard and glass paperweight?##the metallic documents?##the fluffy meeting?,texture_val,texture
+292,309362,The leather couch and fluffy pillow provide comfort on the wooden floor by the glass window.,皮质沙发和蓬松的枕头在木地板上的玻璃窗旁提供了舒适感。,The leather couch?##fluffy pillow?##comfort?##the wooden floor?##the glass window?,texture_val,texture
+293,14824,The metallic kettle and wooden spoon boil the fluffy water for the plastic tea.,金属壶和木勺一起煮沸蓬松的水，用来泡塑料茶。,The metallic kettle?##wooden spoon?##the fluffy water?##the plastic tea?,texture_val,texture
+294,414086,The glass jar and fluffy ribbon hold the metallic candy on the wooden table.,玻璃罐和蓬松的丝带一起，将金属质感的糖果托放在木桌上。,The glass jar?##fluffy ribbon?##the metallic candy?##the wooden table?,texture_val,texture
+295,62437,The wooden salad bowl and plastic tongs mix the metallic greens for the fluffy salad.,木质沙拉碗和塑料夹子将金属色的绿叶蔬菜混合，制作出蓬松的沙拉。,The wooden salad bowl?##plastic tongs?##the metallic greens?##the fluffy salad?,texture_val,texture
+296,81979,The leather wallet and metallic keychain hold the plastic keys by the glass door.,皮钱包和金属钥匙链挂着塑料钥匙，放在玻璃门旁。,The leather wallet?##metallic keychain?##the plastic keys?##the glass door?,texture_val,texture
+297,595027,The fluffy towel and metallic hook hang on the wooden hook by the glass shower.,毛巾柔软，挂在玻璃淋浴间旁的木制挂钩上，旁边还有一个金属钩。,The fluffy towel?##metallic hook?##the wooden hook?##the glass shower?,texture_val,texture
+298,341465,The glass ornament and wooden hook decorate the metallic Christmas tree on the fabric skirt.,玻璃装饰品和木制挂钩装点着金属圣诞树，圣诞树底部铺着布艺裙。,The glass ornament and wooden hook?##the metallic Christmas tree?##the fabric skirt?,texture_val,texture
+299,526152,The metallic pen and fluffy notebook jot down ideas on the wooden desk.,金属笔和蓬松笔记本在木桌上记录下想法。,jot?##the wooden desk?,texture_val,texture
