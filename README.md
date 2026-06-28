@@ -3,17 +3,19 @@
 # 🪨 Rosetta: Composable Native Multimodal Pretraining
 
 <p align="center">
+  <a href="https://rosetta-lmm.github.io/">
+    <img src="https://img.shields.io/badge/Rosetta-Website-2F6DBD?style=flat" alt="Rosetta Website"/>
+  </a>
+ &nbsp;
   <a href="https://arxiv.org/abs/XXXX.XXXXX">
     <img src="https://img.shields.io/badge/Paper-arXiv-b5212f?logo=arxiv&logoColor=red" alt="Paper"/>
   </a>
   &nbsp;
-  <a href="https://huggingface.co/TODO/Rosetta">
+  <a href="https://huggingface.co/tencent/Rosetta-inference">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-Model-d96902" alt="HuggingFace"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/License-Apache%202.0-green" alt="License"/>
-  <!-- &nbsp;
-  <img src="https://img.shields.io/github/stars/TODO/rosetta?style=social" alt="Stars"/> -->
 </p>
 
 <p align="center">
