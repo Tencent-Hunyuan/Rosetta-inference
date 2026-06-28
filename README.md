@@ -169,7 +169,7 @@ This recipe is intended as a quick training sanity check: on a single 8 × 80 GB
 
 ## 📦 Model Checkpoints
 
-We release 15 model checkpoints across 3 architectures and 5 training stages. The final 3 checkpoints are for benchmark reproduction:
+The final 3 checkpoints are for benchmark reproduction:
 
 | Checkpoint | Capabilities | Total / Active | HuggingFace |
 |:-----------|:-------------|:--------------:|:-----------:|
