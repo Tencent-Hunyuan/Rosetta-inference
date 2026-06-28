@@ -139,11 +139,37 @@ ASSETS_BASE=/your/path/public_assets EXP=/your/path/checkpoints/Rosetta-3.8B-A1B
 
 </details>
 
+<!-- <details>
+<summary><b>Convert DCP checkpoint to HF format (if training from source)</b></summary>
+
+```bash
+CKPT_DIR=/path/to/dcp/weights \
+OUTPUT_DIR=/path/to/hf_weights \
+bash scripts/run_convert_dcp_to_hf.sh
+```
+
+</details>
+ -->
+
+
+<!--
+---
+
+## 🔥 Training
+
+```bash
+bash scripts/run/run_train.sh
+```
+
+Trains the full multimodal model (LM + MMU + T2I). See [TRAIN.md](TRAIN.md) for complete training recipes, hyperparameters, and instructions across composable pretraining stages.
+
+This recipe is intended as a quick training sanity check: on a single 8 × 80 GB GPU node, 100 steps take about 10 minutes and already show a clear gap between Rosetta and the baseline. -->
+
 ---
 
 ## 📦 Model Checkpoints
 
-For most use cases, download the full Stage 3 model:
+We release 15 model checkpoints across 3 architectures and 5 training stages. The final 3 checkpoints are for benchmark reproduction:
 
 | Checkpoint | Capabilities | Total / Active | HuggingFace |
 |:-----------|:-------------|:--------------:|:-----------:|
@@ -152,8 +178,10 @@ For most use cases, download the full Stage 3 model:
 | MoT-4.5B-A1B | LM + MMU + T2I | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B) |
 
 <details>
+
 <summary><b>Full checkpoint list — all 15 models across 3 architectures × 5 training stages, plus the MoT Stage 3 init checkpoint</b></summary>
 <br>
+
 | Checkpoint | Stage | Iter | Total / Active | HuggingFace |
 |:-----------|:------|-----:|:--------------:|:-----------:|
 | Rosetta-3.8B-A1B-init | Upcycling init | 0 | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/Rosetta-3.8B-A1B-init) |
@@ -172,12 +200,12 @@ For most use cases, download the full Stage 3 model:
 | MoT-4.5B-A1B-stage2-lm-mmu | LM+MMU | 20K | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B-stage2-lm-mmu) |
 | MoT-4.5B-A1B-stage3-init | LM+MMU+T2I | 0 | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B-stage3-init) |
 | MoT-4.5B-A1B | LM+MMU+T2I | 400K | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B) |
-</details>
 
 > All models are trained within the Transfusion framework on top of the [Qwen3-0.6B-Base](https://huggingface.co/Qwen/Qwen3-0.6B-Base) language backbone, using identical training data and hyperparameters for fair comparison.
 
+> `MoT-4.5B-A1B-stage3-init` is an additional Stage 3 initialization checkpoint used before T2I training. It is useful for validating the expanded MoT architecture and should be evaluated with `evaluation/configs/mot.yaml`.
 
-
+</details>
 
 ---
 
@@ -284,6 +312,6 @@ If you find Rosetta useful, please cite:
 }
 ```
 
-<!-- <div align="center">
+<div align="center">
 <sub>⭐ If Rosetta is useful to your research, please consider starring the repo!</sub>
-</div> -->
+</div>
