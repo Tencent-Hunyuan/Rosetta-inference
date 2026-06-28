@@ -12,8 +12,8 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/License-Apache%202.0-green" alt="License"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/TODO/rosetta?style=social" alt="Stars"/>
+  <!-- &nbsp;
+  <img src="https://img.shields.io/github/stars/TODO/rosetta?style=social" alt="Stars"/> -->
 </p>
 
 <p align="center">
@@ -198,17 +198,17 @@ For most use cases, download the full Stage 3 model:
 | Rosetta-3.8B-A1B-stage1-lm | LM | 35K | 3.8B / 0.97B | [🤗 TODO](#) |
 | Rosetta-3.8B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 3.8B / 0.97B | [🤗 TODO](#) |
 | Rosetta-3.8B-A1B-stage2-lm-mmu | LM+MMU | 20K | 3.8B / 0.97B | [🤗 TODO](#) |
-| Rosetta-3.8B-A1B | LM+MMU+T2I | 300K | 3.8B / 0.97B | [🤗 TODO](#) |
+| Rosetta-3.8B-A1B | LM+MMU+T2I | 400K | 3.8B / 0.97B | [🤗 TODO](#) |
 | MoE-3.8B-A1B-init | Upcycling init | 0 | 3.8B / 0.97B | [🤗 TODO](#) |
 | MoE-3.8B-A1B-stage1-lm | LM | 35K | 3.8B / 0.97B | [🤗 TODO](#) |
 | MoE-3.8B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 3.8B / 0.97B | [🤗 TODO](#) |
 | MoE-3.8B-A1B-stage2-lm-mmu | LM+MMU | 20K | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoE-3.8B-A1B | LM+MMU+T2I | 300K | 3.8B / 0.97B | [🤗 TODO](#) |
+| MoE-3.8B-A1B | LM+MMU+T2I | 400K | 3.8B / 0.97B | [🤗 TODO](#) |
 | MoT-4.5B-A1B-init | Upcycling init | 0 | 4.5B / 0.97B | [🤗 TODO](#) |
 | MoT-4.5B-A1B-stage1-lm | LM | 35K | 4.5B / 0.97B | [🤗 TODO](#) |
 | MoT-4.5B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 4.5B / 0.97B | [🤗 TODO](#) |
 | MoT-4.5B-A1B-stage2-lm-mmu | LM+MMU | 20K | 4.5B / 0.97B | [🤗 TODO](#) |
-| MoT-4.5B-A1B | LM+MMU+T2I | 300K | 4.5B / 0.97B | [🤗 TODO](#) |
+| MoT-4.5B-A1B | LM+MMU+T2I | 400K | 4.5B / 0.97B | [🤗 TODO](#) |
 
 </details>
 
