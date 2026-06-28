@@ -64,36 +64,22 @@
 
 ### 1. Environment Setup
 
-**Requirements:** Python 3.12+, CUDA 12.8+, 8 × GPU (80 GB) for evaluation and training
+**Requirements:** Python 3.12+, CUDA 12.8+
 
 ```bash
-git clone https://github.com/TODO/rosetta.git
-cd rosetta
-
 conda create -n rosetta python=3.12 -y
 conda activate rosetta
 
-# 1. Install the PyTorch stack first.
-# Use the wheel index that matches your CUDA runtime.
+# 1. Install PyTorch using your CUDA version
 pip install torch==2.7.1 torchvision==0.22.1 torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu128
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Install Flash Attention (required)
-pip install flash_attn --no-build-isolation
+# 3. Install Flash Attention (required; takes ~20 mins to compile)
+FLASH_ATTENTION_FORCE_BUILD=TRUE MAX_JOBS=8 pip install flash-attn==2.8.1 --no-build-isolation --no-binary flash-attn --no-cache-dir
+
 ```
-
-<details>
-<summary><b>Evaluation extras (COCO FID / CLIP Score / HPSv2)</b></summary>
-
-```bash
-pip install hpsv2
-pip install git+https://github.com/openai/CLIP.git
-pip install spacy openpyxl
-```
-
-</details>
 
 ### 2. Download Weights and Assets
 
@@ -101,12 +87,12 @@ Evaluation requires a **model checkpoint** and the **shared assets** (VAE, ViT, 
 
 **Step 1 — Download shared assets** (required by all models, download once):
 ```bash
-hf download tencent/Rosetta-public-assets --local-dir ./public_assets
+hf download tencent/Rosetta-inference public_assets.zip --local-dir . && unzip -o public_assets.zip && rm public_assets.zip
 ```
 
 **Step 2 — Download model checkpoint** (example: main Rosetta model):
 ```bash
-hf download tencent/Rosetta-3.8B-A1B --local-dir ./checkpoints/Rosetta-3.8B-A1B
+hf download tencent/Rosetta-inference --include "checkpoints/Rosetta-3.8B-A1B/**" --local-dir .
 ```
 
 See [§ Model Checkpoints](#-model-checkpoints) for the full list of 15 checkpoints.
@@ -153,32 +139,6 @@ ASSETS_BASE=/your/path/public_assets EXP=/your/path/checkpoints/Rosetta-3.8B-A1B
 
 </details>
 
-<!-- <details>
-<summary><b>Convert DCP checkpoint to HF format (if training from source)</b></summary>
-
-```bash
-CKPT_DIR=/path/to/dcp/weights \
-OUTPUT_DIR=/path/to/hf_weights \
-bash scripts/run_convert_dcp_to_hf.sh
-```
-
-</details>
- -->
-
-
-<!--
----
-
-## 🔥 Training
-
-```bash
-bash scripts/run/run_train.sh
-```
-
-Trains the full multimodal model (LM + MMU + T2I). See [TRAIN.md](TRAIN.md) for complete training recipes, hyperparameters, and instructions across composable pretraining stages.
-
-This recipe is intended as a quick training sanity check: on a single 8 × 80 GB GPU node, 100 steps take about 10 minutes and already show a clear gap between Rosetta and the baseline. -->
-
 ---
 
 ## 📦 Model Checkpoints
@@ -187,31 +147,31 @@ For most use cases, download the full Stage 3 model:
 
 | Checkpoint | Capabilities | Total / Active | HuggingFace |
 |:-----------|:-------------|:--------------:|:-----------:|
-| Rosetta-3.8B-A1B | LM + MMU + T2I | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoE-3.8B-A1B | LM + MMU + T2I | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoT-4.5B-A1B | LM + MMU + T2I | 4.5B / 0.97B | [🤗 TODO](#) |
+| Rosetta-3.8B-A1B | LM + MMU + T2I | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/Rosetta-3.8B-A1B) |
+| MoE-3.8B-A1B | LM + MMU + T2I | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoE-3.8B-A1B) |
+| MoT-4.5B-A1B | LM + MMU + T2I | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B) |
 
 <details>
-<summary><b>Full checkpoint list — all 15 models across 3 architectures × 5 training stages (for reproducing paper training curves)</b></summary>
-
+<summary><b>Full checkpoint list — all 15 models across 3 architectures × 5 training stages, plus the MoT Stage 3 init checkpoint</b></summary>
+<br>
 | Checkpoint | Stage | Iter | Total / Active | HuggingFace |
 |:-----------|:------|-----:|:--------------:|:-----------:|
-| Rosetta-3.8B-A1B-init | Upcycling init | 0 | 3.8B / 0.97B | [🤗 TODO](#) |
-| Rosetta-3.8B-A1B-stage1-lm | LM | 35K | 3.8B / 0.97B | [🤗 TODO](#) |
-| Rosetta-3.8B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 3.8B / 0.97B | [🤗 TODO](#) |
-| Rosetta-3.8B-A1B-stage2-lm-mmu | LM+MMU | 20K | 3.8B / 0.97B | [🤗 TODO](#) |
-| Rosetta-3.8B-A1B | LM+MMU+T2I | 400K | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoE-3.8B-A1B-init | Upcycling init | 0 | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoE-3.8B-A1B-stage1-lm | LM | 35K | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoE-3.8B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoE-3.8B-A1B-stage2-lm-mmu | LM+MMU | 20K | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoE-3.8B-A1B | LM+MMU+T2I | 400K | 3.8B / 0.97B | [🤗 TODO](#) |
-| MoT-4.5B-A1B-init | Upcycling init | 0 | 4.5B / 0.97B | [🤗 TODO](#) |
-| MoT-4.5B-A1B-stage1-lm | LM | 35K | 4.5B / 0.97B | [🤗 TODO](#) |
-| MoT-4.5B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 4.5B / 0.97B | [🤗 TODO](#) |
-| MoT-4.5B-A1B-stage2-lm-mmu | LM+MMU | 20K | 4.5B / 0.97B | [🤗 TODO](#) |
-| MoT-4.5B-A1B | LM+MMU+T2I | 400K | 4.5B / 0.97B | [🤗 TODO](#) |
-
+| Rosetta-3.8B-A1B-init | Upcycling init | 0 | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/Rosetta-3.8B-A1B-init) |
+| Rosetta-3.8B-A1B-stage1-lm | LM | 35K | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/Rosetta-3.8B-A1B-stage1-lm) |
+| Rosetta-3.8B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/Rosetta-3.8B-A1B-stage2-lm-mmu-warmup) |
+| Rosetta-3.8B-A1B-stage2-lm-mmu | LM+MMU | 20K | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/Rosetta-3.8B-A1B-stage2-lm-mmu) |
+| Rosetta-3.8B-A1B | LM+MMU+T2I | 400K | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/Rosetta-3.8B-A1B) |
+| MoE-3.8B-A1B-init | Upcycling init | 0 | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoE-3.8B-A1B-init) |
+| MoE-3.8B-A1B-stage1-lm | LM | 35K | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoE-3.8B-A1B-stage1-lm) |
+| MoE-3.8B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoE-3.8B-A1B-stage2-lm-mmu-warmup) |
+| MoE-3.8B-A1B-stage2-lm-mmu | LM+MMU | 20K | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoE-3.8B-A1B-stage2-lm-mmu) |
+| MoE-3.8B-A1B | LM+MMU+T2I | 400K | 3.8B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoE-3.8B-A1B) |
+| MoT-4.5B-A1B-init | Upcycling init | 0 | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B-init) |
+| MoT-4.5B-A1B-stage1-lm | LM | 35K | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B-stage1-lm) |
+| MoT-4.5B-A1B-stage2-lm-mmu-warmup | LM+MMU warmup | 3K | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B-stage2-lm-mmu-warmup) |
+| MoT-4.5B-A1B-stage2-lm-mmu | LM+MMU | 20K | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B-stage2-lm-mmu) |
+| MoT-4.5B-A1B-stage3-init | LM+MMU+T2I | 0 | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B-stage3-init) |
+| MoT-4.5B-A1B | LM+MMU+T2I | 400K | 4.5B / 0.97B | 🤗 [Download](https://huggingface.co/tencent/Rosetta-inference/tree/main/checkpoints/MoT-4.5B-A1B) |
 </details>
 
 > All models are trained within the Transfusion framework on top of the [Qwen3-0.6B-Base](https://huggingface.co/Qwen/Qwen3-0.6B-Base) language backbone, using identical training data and hyperparameters for fair comparison.
@@ -324,6 +284,6 @@ If you find Rosetta useful, please cite:
 }
 ```
 
-<div align="center">
+<!-- <div align="center">
 <sub>⭐ If Rosetta is useful to your research, please consider starring the repo!</sub>
-</div>
+</div> -->
