@@ -1,6 +1,6 @@
 Tencent is pleased to support the open source community by making Rosetta-inference available.
 
-Copyright (C) 2026 Tencent.  All rights reserved. 
+Copyright (C) 2026 Tencent.  All rights reserved.
 
 The open-source software and/or models included in this distribution may have been modified by Tencent (“Tencent Modifications”). All Tencent Modifications are Copyright (C) Tencent.
 
