@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🪨 Rosetta: Composable Native Multimodal Pretraining
-
+ 
 <p align="center">
   <a href="https://rosetta-lmm.github.io/">
     <img src="https://img.shields.io/badge/Rosetta-Website-2F6DBD?style=flat" alt="Rosetta Website"/>
