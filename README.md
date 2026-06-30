@@ -312,6 +312,6 @@ If you find Rosetta useful, please cite:
 }
 ```
 
-<div align="center">
+<!-- <div align="center">
 <sub>⭐ If Rosetta is useful to your research, please consider starring the repo!</sub>
-</div>
+</div> -->
