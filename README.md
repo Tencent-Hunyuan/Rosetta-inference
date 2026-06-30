@@ -9,7 +9,7 @@
  <!-- &nbsp;
   <a href="https://arxiv.org/abs/XXXX.XXXXX">
     <img src="https://img.shields.io/badge/Paper-arXiv-b5212f?logo=arxiv&logoColor=red" alt="Paper"/>
-  </a> -->
+  </a>  -->
   &nbsp;
   <a href="https://huggingface.co/tencent/Rosetta-inference">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-Model-d96902" alt="HuggingFace"/>
