@@ -6,10 +6,10 @@
   <a href="https://rosetta-lmm.github.io/">
     <img src="https://img.shields.io/badge/Rosetta-Website-2F6DBD?style=flat" alt="Rosetta Website"/>
   </a>
- &nbsp;
+ <!-- &nbsp;
   <a href="https://arxiv.org/abs/XXXX.XXXXX">
     <img src="https://img.shields.io/badge/Paper-arXiv-b5212f?logo=arxiv&logoColor=red" alt="Paper"/>
-  </a>
+  </a> -->
   &nbsp;
   <a href="https://huggingface.co/tencent/Rosetta-inference">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-Model-d96902" alt="HuggingFace"/>
@@ -295,7 +295,7 @@ All configs are under `evaluation/configs/`.
 
 
 
-
+<!-- 
 ---
 
 ## 📝 Citation
@@ -311,6 +311,7 @@ If you find Rosetta useful, please cite:
   url     = {https://arxiv.org/abs/XXXX.XXXXX}
 }
 ```
+-->
 
 <!-- <div align="center">
 <sub>⭐ If Rosetta is useful to your research, please consider starring the repo!</sub>
