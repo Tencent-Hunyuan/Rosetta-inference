@@ -6,10 +6,10 @@
   <a href="https://rosetta-lmm.github.io/">
     <img src="https://img.shields.io/badge/Rosetta-Website-2F6DBD?style=flat" alt="Rosetta Website"/>
   </a>
- <!-- &nbsp;
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
+ &nbsp;
+  <a href="https://arxiv.org/abs/2607.00293">
     <img src="https://img.shields.io/badge/Paper-arXiv-b5212f?logo=arxiv&logoColor=red" alt="Paper"/>
-  </a>  -->
+  </a> 
   &nbsp;
   <a href="https://huggingface.co/tencent/Rosetta-inference">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-Model-d96902" alt="HuggingFace"/>
@@ -293,9 +293,6 @@ All configs are under `evaluation/configs/`.
 
 > Results are from our paper. All methods are evaluated after the full LM+MMU+T2I training stage under identical training data and hyperparameters. Minor score variations may occur with the released HF checkpoints due to numerical precision differences.
 
-
-
-<!-- 
 ---
 
 ## 📝 Citation
@@ -303,15 +300,16 @@ All configs are under `evaluation/configs/`.
 If you find Rosetta useful, please cite:
 
 ```bibtex
-@article{liu2026rosetta,
-  title   = {Rosetta: Composable Native Multimodal Pretraining},
-  author  = {Liu, Xiangyue and Zhang, Zijian and Yang, Miles and Zhong, Zhao and Bo, Liefeng and Tan, Ping},
-  journal = {TODO},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/XXXX.XXXXX}
+@misc{liu2026rosettacomposablenativemultimodal,
+      title={Rosetta: Composable Native Multimodal Pretraining}, 
+      author={Xiangyue Liu and Zijian Zhang and Miles Yang and Zhao Zhong and Liefeng Bo and Ping Tan},
+      year={2026},
+      eprint={2607.00293},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.00293}, 
 }
 ```
--->
 
 <!-- <div align="center">
 <sub>⭐ If Rosetta is useful to your research, please consider starring the repo!</sub>
